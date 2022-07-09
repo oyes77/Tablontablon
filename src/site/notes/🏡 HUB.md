@@ -14,7 +14,7 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet. Antes de
 		
 - **No sé que estoy haciendo:** el tablón tiene el principal propósito de compartir materiales, páginas web, y muchas otras cosas que he recopilado sobre diversos temas, pero no se te haga raro de repente encontrar un copypaste del tratado de versalles porque se me salió de los frutos.
 
-- **El tablón será simple:** Ya que solo uso un editor de texto simple para la página, sin plugins complicados. la manera de navegarlo es mediante hiperlinks, todos estarán en esta página principal, como una Wiki.
+- **El tablón será simple:** Ya que solo uso un editor de texto simple para la página, sin plugins complicados. la manera de navegarlo es mediante hiperlinks, todos estarán en esta página principal, como una Wiki. 
 
 ---
 
@@ -23,4 +23,4 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet. Antes de
 
 Mi apariencia varía entre 2
 
-Si te interesa saber más sobre  [[Discord |Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si quieres saber más sobre el [[Drawing Attack |Servidor de arte, click aquí.]] ---
+Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si quieres saber más sobre el [[Drawing Attack |Servidor de arte, click aquí.]] ---
