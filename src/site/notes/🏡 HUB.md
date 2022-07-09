@@ -28,4 +28,4 @@ Mi apariencia varía entre 2
 
 #### Discord!
 
-Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si quieres saber más sobre el [[Drawing Attack |Servidor de arte, click aquí.]] 
+Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si quieres saber más sobre el [[Drawing Attack|Servidor de arte, click aquí.]] 
