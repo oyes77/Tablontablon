@@ -22,7 +22,7 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet. Antes de
 
  Mi nombre es Galab, pero me conocen como Tablita, o tablón, *de ahí el "increible" juego de palabras que es el nombre del sitio.*  Soy un Ilustrador en proceso, músico y owner de un servidor de arte en Discord.
 
-Mi apariencia varía entre 2
+Mi apariencia varía entre una más cartoon, y otra más detallada, 
 
 ---
 
