@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paginas-web/discord/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/paginas-web/discord/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
