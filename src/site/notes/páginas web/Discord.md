@@ -6,6 +6,7 @@
 ## Discord
 
 He aquí varias de las herramientas que uso para hacer de mi servidor un lugar más bonico:
+
 ___ 
 [Discord.club webhook](https://discord.club/dashboard/help)
 	Creador de embeds para discord por interfaz. el link te llevará al tutorial de la página, pero si quieres saber [Que es un embed? haz click aquí.](https://www.google.com/search?q=que+es+un+embed+en+discord) que puede interesarte más de lo que piensas (si, es un link a google con la búsqueda ya hecha, agradéceme luego).
