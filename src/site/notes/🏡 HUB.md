@@ -44,3 +44,9 @@ Esta es la parte principal de esta Wiki, espero que te sumerjas en lo que te int
 #### Discord!
 
 Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si te interesa  [[Drawing Attack|Mi comunidad de arte, click aquí.]] 
+
+---
+
+#### Preview
+
+Esta sección está hecha para probar temas de la página [[sample text|sample text]]
