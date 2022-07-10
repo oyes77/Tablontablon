@@ -50,3 +50,4 @@ Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí
 #### Preview
 
 Esta sección está hecha para probar temas de la página [[sample text|sample text]]
+sección no publicada, para ver cómo se ve una página no publicada [[non public|non public]]
