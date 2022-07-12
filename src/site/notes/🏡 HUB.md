@@ -46,9 +46,12 @@ Esta es la parte principal de esta Wiki, espero que te sumerjas en lo que te int
 Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si te interesa  [[Drawing Attack|Mi comunidad de arte, click aquí.]] 
 
 ---
+
 #### Creación de contenido
 
 Eres un intento perdido de  youtuber y necesitas música para tus videos? [[páginas web/Content Creation|Aquí tienes ]] algunos canales de youtube que te van a dar justamente eso.
+
+---
 
 #### Preview
 
