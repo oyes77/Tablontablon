@@ -30,7 +30,7 @@ Mi apariencia varía entre una más cartoon, a la que me refiero como tablita o 
 
 ##### Galab
 
-![|425](https://i.imgur.com/uZbFPRi.png)  ![|525](https://i.imgur.com/roJfinS.gif)
+![|350](https://i.imgur.com/uZbFPRi.png)  ![|525](https://i.imgur.com/roJfinS.gif)
 
 
 ---
