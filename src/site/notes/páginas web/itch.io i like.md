@@ -21,3 +21,6 @@
 
 [spirits mirror::digital possessed by Taylor Swietanski](https://taylored.itch.io/spirits-mirror-digital-possessed)
 
+[Shake Art DELUXE by nokoi](https://studionokoi.itch.io/shake-art-deluxe)
+
+[Ecrett Music by ecrett music](https://ecrettmusic.itch.io/ecrett-music)  ([Easy way to create royalty free music - ecrett music](https://ecrettmusic.com/play?utm_source=itch&utm_medium=dashboard&utm_campaign=play))
