@@ -38,6 +38,11 @@ haz copypaste q te los dejé uy
 - SDF effects
 - Virtual Cam (para usar OBS como webcam, es bastante útil).
 
+
+si Hay curosidad de q plugins llevo instalados:
+![](https://i.imgur.com/iPnbyNl.png)
+
+
 ---
 
 Cosas que te simplificarán la vida:
