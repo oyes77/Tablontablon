@@ -13,3 +13,14 @@
 
 
 ![](https://i.imgur.com/zNo1dWE.png)
+[Hipstersmoothie](file:///D:/eskritorrio/TemasWEB/hypersmoothie.html)
+
+---
+
+
+![](https://i.imgur.com/WohGEdw.png)
+[spectrum](file:///D:/eskritorrio/TemasWEB/spectrum.html)
+
+---
+
+
