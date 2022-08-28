@@ -26,3 +26,7 @@
 
 ---
 
+![](https://i.imgur.com/Foqch2j.png)
+tiene zoom de imagen pero es horrible XD
+![](https://i.imgur.com/5aNcdvd.png)
+![](https://i.imgur.com/Dyu9793.png)
