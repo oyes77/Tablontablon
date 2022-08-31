@@ -74,3 +74,6 @@ TEMP
 
 [[páginas web/itch.io i like|itch.io i like]]
  asdfasdf
+
+
+[[📆 DAILY NOTES/2022-08-17|Filo]]
