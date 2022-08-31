@@ -20,7 +20,7 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet. Antes de
 
 ### Pero primero lo importante, osea yo >:D
 
- Mi nombre es Galab, pero me conocen como Tablita, o tablón, *de ahí el "increible" juego de palabras que es el nombre del sitio.*  Soy un Ilustrador en proceso, músico y owner de un servidor de artes en Discord, con enfasis en ilustración, aunque no por eso se excluyen el resto de artes. ***nací en -69420, o en 0 D.C, porque cristo soy yo. Shaggy me reza, de hecho, y tu también deberías.***  esa es una de las cosas que dice mi hoja de personaje, al lado dice que soy un ególatra narcisista sin remedio, por alguna razón.
+ Mi nombre es Galab, pero me conocen como Tablita, o tablón, *de ahí el "increible" juego de palabras que es el nombre del sitio.*  Soy un Ilustrador en proceso, músico y owner de un servidor de artes en Discord, con enfasis en ilustración, aunque no por eso se excluyen el resto de artes. 
 
 Mi apariencia varía entre una más cartoon, a la que me refiero como tablita o tablón, y es más dada a ser usada como meme, imagina el "chibi" de un personaje, y otra más detallada, a la que llamo Tabla o Galab, esta última está en constante rediseño, ya que no me contento con su diseño por mucho tiempo.
 
