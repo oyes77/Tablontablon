@@ -26,7 +26,7 @@ Mi apariencia varía entre una más cartoon, a la que me refiero como tablita o 
 
 ##### Tablita
 
-![|275](https://i.imgur.com/7oO0RJr.gif)  ![|275](https://i.imgur.com/OrSSfZv.png)
+![|275](https://i.imgur.com/7oO0RJr.gif)  ![|275](https://i.imgur.com/OrSSfZv.png|left)
 
 ##### Galab
 
