@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/paginas-web/discord/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
 ## Discord
 
 He aquí varias de las herramientas que uso para hacer de mi servidor un lugar más bonico:
