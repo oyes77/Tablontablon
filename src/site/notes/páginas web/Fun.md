@@ -3,7 +3,7 @@
 ---
 
 ## Fun
-#webs 
+
 [Weird txt gen](https://lingojam.com/WeirdTextGenerator)
 	generador de texto para nombres y fuentes ASCII
 
