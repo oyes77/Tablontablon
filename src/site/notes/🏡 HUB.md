@@ -61,15 +61,13 @@ sección no publicada, para ver cómo se ve una página no publicada [[non publi
 
 ---
 
-#### OBS para la KOKAINaAa
-
-si entraste [[Tutorial|aquí]] ya sabes que buscas, si no, bueno.... nya
-
+#### OKA
+tutorial obs [[Tutorial|Tutorial]]
 
 ---
 
 TEMP
-
+[[tutorial embeds|tutorial embeds]]
 [[páginas web/Fun|Fun]]
 
 [[páginas web/itch.io i like|itch.io i like]]
