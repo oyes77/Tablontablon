@@ -63,11 +63,12 @@ sección no publicada, para ver cómo se ve una página no publicada [[non publi
 
 #### OKA
 tutorial obs [[Tutorial|Tutorial]]
+tutorial de embeds [[tutorial embeds|tutorial embeds]]
 
 ---
 
 TEMP
-[[tutorial embeds|tutorial embeds]]
+
 [[páginas web/Fun|Fun]]
 
 [[páginas web/itch.io i like|itch.io i like]]
