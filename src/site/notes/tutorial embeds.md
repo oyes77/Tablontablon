@@ -34,3 +34,6 @@ Es decir, este generador crea un cuadro de código en discord, y colorea las pal
 
 ---
 
+### [HammerTime](https://hammertime.cyou/)
+
+![](https://i.imgur.com/l9euoQp.png)
