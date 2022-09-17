@@ -15,7 +15,7 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea d
 - **No esperes mucho sentido a esto:** no se te haga raro de repente encontrar un copypaste del tratado de versalles porque se me salió de los frutos.
 
 ---
-[[Tablón|Tablón]]
+[[Tablón|quien soy]]
 
 # Las cosas que me interesan :O
 
