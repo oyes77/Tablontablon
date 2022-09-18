@@ -32,5 +32,5 @@ estoy creando un nuevo personaje para reemplazar a tabla, al menos por un buen r
 ![|300](https://i.imgur.com/EmzpmJ4.png)
 
 Aún no tiene nombre, creo que debe tener al menos algunas características que le hagan cierta referencia al Galab/tablita original, pero cambiando su personalidad a algo que se conecte más con quien soy ahora que el yo de hace 3 años.
----
+
 
