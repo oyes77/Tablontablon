@@ -22,6 +22,8 @@ Mi apariencia varía entre tablita o tablón, mi personaje meme, y antes con Gal
 ---
 
 # SIN EMBARGO...
+![|775](https://i.imgur.com/SvZ7juf.png)
+
 ***De aquí en adelante todo es sumamente conceptual, y puede cambiar en cualquier momento, los mantendré actualizados, lectores que no tengo***
 
 estoy creando un nuevo personaje para reemplazar a tabla, al menos por un buen rato, ya que me estoy cansando de este personaje. he aquí un pequeño boceto de lo que será
