@@ -24,9 +24,10 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea d
 
 ---
 
-### Discord
+### [[🎎 HUBSITE/Discord|Discord]] 
 
-Si te interesa saber más sobre  [[🎎 HUBSITE/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si te interesa  [[🎨 DRAWING ATTACK/Drawing Attack|Mi comunidad de arte, click aquí.]] 
+
+Algunas herramientas que uso en discord para [[🎨 DRAWING ATTACK/Drawing Attack|Mi comunidad de arte.]] 
 
 ---
 
@@ -62,3 +63,18 @@ TEMP
 
 
 [[Tutorial robadísimo|Tutorial robadísimo]]
+
+```chart
+type: line
+labels: [1, 2, 4, 6]
+series:
+  - title: xAD
+    data: [1, 5, 5, 7]
+  - title: fga
+    data: [1, 4, 6, 5]
+tension: 0
+width: 73%
+labelColors: true
+fill: false
+beginAtZero: true
+```
