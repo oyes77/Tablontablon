@@ -3,11 +3,11 @@
 ---
 
 
+
 # Bienvenido al tablón de Tablón  (WIP)
-Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea de ayuda para otras personas. Antes de empezar debo aclarar algunas cosas: 
+Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea de ayuda para otras personas. 
 
 --- 
-
 - **El tablón no tiene una temática cental:** como habrá algo que te parezca interesantísimo, habrán otras cosas a las que no les hallarás uso aparente.
 		
 -  **Muchas páginas estarán rotas o incompletas:** el tablón es un Work In Progress en constante cambio, habrán cambios de color, algunas páginas no existirán o estarán sin pulir por un tiempo, y así.
@@ -15,11 +15,12 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea d
 - **No esperes mucho sentido a esto:** no se te haga raro de repente encontrar un copypaste del tratado de versalles porque se me salió de los frutos.
 
 ---
+## Tabla de contenidos:
+
+
+
 [[Tablón|quien soy]]
 
-# Las cosas que me interesan :O
-
-Esta es la parte principal de esta Wiki, espero que te sumerjas en lo que te interesa, y le heches un ojo a lo que no, tal vez descubras una nueva pasión, o te aterres de saber que [los patos tienen el pene con forma de tornillo](https://cdnb.20m.es/sites/76/2018/11/El-largo-y-curioso-pene-del-pato-sudamericano-%E2%80%98malvas%C3%ADa-argentina%E2%80%99.jpg), o que [el ano de los castores huele a Vainilla](https://www.wikiwand.com/es/Cast%C3%B3reo), ahora no puedes borrar esa información de tu cabeza, si te da curiosidad, dale click a los links, se que quieres.
 
 ---
 
