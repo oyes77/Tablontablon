@@ -19,22 +19,3 @@
 [Midnight](https://www.livethemes.co/themes/midnight/12040)
 [UNv1able remake](https://www.livethemes.co/themes/unv1able-remake/32818)
 
-DD
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-# aquí es solo para escribir, así q XD
-bueno
-
-## idea 1 (?)
-
-![](https://i.imgur.com/pQu3XcD.png)
-
-
-</div></div>
