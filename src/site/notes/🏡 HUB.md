@@ -32,7 +32,7 @@ Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí
 
 #### Creación de contenido
 
-Eres un intento perdido de  youtuber y necesitas música para tus videos? [[páginas web/Content Creation|Aquí tienes ]] algunos canales de youtube que te van a dar justamente eso.
+Eres un intento perdido de  youtuber y necesitas algo en específico para tus videos? [[páginas web/Content Creation|Aquí tienes ]] algunos canales de youtube que te van a dar justamente eso.
 
 ---
 
