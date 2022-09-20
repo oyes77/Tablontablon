@@ -52,7 +52,7 @@ tutorial de embeds [[tutorial embeds|tutorial embeds]]
 
 TEMP
 
-[[páginas web/Fun|Fun]]
+[[páginas web/Otros|Otros]]
 
 [[páginas web/itch.io i like|itch.io i like]]
  asdfasdf
