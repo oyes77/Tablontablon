@@ -59,3 +59,6 @@ TEMP
 
 
 [[📆 DAILY NOTES/2022-08-17|Filo]]
+
+
+[[Tutorial robadísimo|Tutorial robadísimo]]
