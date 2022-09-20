@@ -37,44 +37,28 @@ Eres un intento perdido de  youtuber y necesitas algo en específico para tus vi
 
 ---
 
-### Preview
-
-Esta sección está hecha para probar temas de la página [[sample text|sample text]]
-sección no publicada, para ver cómo se ve una página no publicada [[non public|non public]]
-
-
----
-
 ### OKA
-tutorial obs [[Tutorial|Tutorial]]
-tutorial de embeds [[tutorial embeds|tutorial embeds]]
+sección dedicada a weas que le escribo a Oka.
+ [[Tutorial|obs TUTO]]
+ [[tutorial embeds|tutorial embeds]]
+
+---
+### [[🎎 HUBSITE/itch.io i like|Proyectos de Itch]]
+Cosas varias que me he encontrado navegando en Itch.io y me parecen útiles o interesantes.
 
 ---
 
-TEMP
+### Preview
+Sección para ver cómo se ve la página
+ [[sample text|Referencia de estilo]]
+ [[página no existente|página no existente]]
+
+---
 
 [[🎎 HUBSITE/Otros|Otros]]
 
-[[🎎 HUBSITE/itch.io i like|itch.io i like]]
- asdfasdf
 
-
-[[📆 DAILY NOTES/2022-08-17|Filo]]
 
 
 [[Tutorial robadísimo|Tutorial robadísimo]]
 
-```chart
-type: line
-labels: [1, 2, 4, 6]
-series:
-  - title: xAD
-    data: [1, 5, 5, 7]
-  - title: fga
-    data: [1, 4, 6, 5]
-tension: 0
-width: 73%
-labelColors: true
-fill: false
-beginAtZero: true
-```
