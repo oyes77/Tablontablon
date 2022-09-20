@@ -5,7 +5,7 @@
 
 
 # Bienvenido al tablón de Tablón  (WIP)
-Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea de ayuda para otras personas. 
+Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea de ayuda para otras personas, aquí un link [[IDENTIDAD|por si les interesa saber quien soy.]]
 
 --- 
 - **El tablón no tiene una temática cental:** como habrá algo que te parezca interesantísimo, habrán otras cosas a las que no les hallarás uso aparente.
@@ -19,24 +19,24 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea d
 
 
 
-[[Tablón|quien soy]]
 
 
----
-
-#### Discord!
-
-Si te interesa saber más sobre  [[páginas web/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si te interesa  [[Drawing Attack|Mi comunidad de arte, click aquí.]] 
 
 ---
 
-#### Creación de contenido
+### Discord
 
-Eres un intento perdido de  youtuber y necesitas algo en específico para tus videos? [[páginas web/Content Creation|Aquí tienes ]] algunos canales de youtube que te van a dar justamente eso.
+Si te interesa saber más sobre  [[🎎 HUBSITE/Discord|Discord, haz click aquí]] , incluí algunas herramientas que uso diariamente,  y si te interesa  [[🎨 DRAWING ATTACK/Drawing Attack|Mi comunidad de arte, click aquí.]] 
 
 ---
 
-#### Preview
+### Creación de contenido
+
+Eres un intento perdido de  youtuber y necesitas algo en específico para tus videos? [[🎎 HUBSITE/Content Creation|Aquí tienes ]] algunos canales de youtube que te van a dar justamente eso.
+
+---
+
+### Preview
 
 Esta sección está hecha para probar temas de la página [[sample text|sample text]]
 sección no publicada, para ver cómo se ve una página no publicada [[non public|non public]]
@@ -44,7 +44,7 @@ sección no publicada, para ver cómo se ve una página no publicada [[non publi
 
 ---
 
-#### OKA
+### OKA
 tutorial obs [[Tutorial|Tutorial]]
 tutorial de embeds [[tutorial embeds|tutorial embeds]]
 
@@ -52,9 +52,9 @@ tutorial de embeds [[tutorial embeds|tutorial embeds]]
 
 TEMP
 
-[[páginas web/Otros|Otros]]
+[[🎎 HUBSITE/Otros|Otros]]
 
-[[páginas web/itch.io i like|itch.io i like]]
+[[🎎 HUBSITE/itch.io i like|itch.io i like]]
  asdfasdf
 
 
