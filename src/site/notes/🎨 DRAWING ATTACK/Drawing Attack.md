@@ -3,7 +3,26 @@
 ---
 
 
-[[reglas de drawing attack|Jerarquía]]
+# Tabla de contenidos:
+
+1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns|sistema de warns]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns|ESTÉTICA]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns|FUNCIONAMIENTO de castigo]]
+1. [[🎨 DRAWING ATTACK/Drawing Attack#formato|formato]]
+1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|REGLAS]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|Sobre Comportamientos]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|Sobre Arte]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|reglas del staff]]
+		1. [[🎨 DRAWING ATTACK/Drawing Attack#reglas del staff|funciones del staff/cargos:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|owners:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|admins:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|super mods:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|mods:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|logística]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|materiales]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|Logros]]
+
+---
 
 # sistema de warns
 
@@ -67,27 +86,117 @@ recomendaciones:
 
 - Recuerde que no conocer las reglas no lo hace inmune a ellas.
 
+---
 
-# reglas del staff
+## reglas del staff
 las reglas del servidor también aplican para el staff, eso es todo por ahora.
 
-## funciones del staff/cargos:
+### funciones del staff/cargos:
 %3Csup%3Ecada miembro del staff puede cumplir varias funciones.</sup>
-### owners:
+#### owners:
 Dirigir el servidor y ser su cara pública.
 
-### admins: 
+#### admins: 
 configurar bots, canales, y ser el apoyo de los supermods.
 
-### super mods:
+#### super mods:
 banear/kickear usuarios, moderar el chat y chat de voz, y las funciones de los mods comunes.
 
-### mods:
+#### mods:
 dar warns, moderar el chat y chat de voz, silenciar cuando sea necesario.
 
-### logística
+#### logística
 Organizar eventos, estrategia de redes, y organizar a materiales.
 
-### materiales
+#### materiales
 Crear videos e imágenes para el servidor y sus redes.>)
 <
+
+---
+## Logros
+
+
+1.  ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945427779997007993/16.png?width=400&height=78)
+
+    La verdadera pregunta no es "¿Puedes conseguirlos todos?" Si no "¿Gano algo por conseguirlos?"
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428220445081610/11.png?width=400&height=78)
+
+    ↤↤↤↤ Desbloquea @🔖 • Da Vinci un poroto ↦↦↦↦ Enviando un dibujo a 💛〉dibujos
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428427773734912/12.png?width=400&height=78)
+
+    ↤↤↤↤ Desbloquea @🏃🏻 • Alo? Pixar? ↦↦↦↦ Enviando una animacion propia a 💜〉animaciones
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428649115549766/13.png?width=400&height=78)
+
+    ↤↤↤↤ Desbloquea @🐉 • Premier Flan ↦↦↦↦ Participando en los eventos especiales del server
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428788840386560/14.png?width=400&height=78)    
+
+  ↤↤↤↤ Desbloquea @✒️ • ¿Esto no era un server de dibujo? ↦↦↦↦ Enviando tu propia historia a 🧡〉escritos
+2.    
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429055258370078/15.png?width=400&height=78)
+
+ ↤↤↤↤ Desbloquea @😎👍 • Nais Tu mit iu tu ↦↦↦↦ Presentandote en 🎤〉presentate❕
+4. 
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429519282634862/10.png?width=400&height=78)
+
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429552233087056/2.png?width=400&height=78)
+
+    @⭐ • No trae Cuadernos Desbloquealo al llegar al nivel 2 de texto
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429604447973417/3.png?width=400&height=78)
+
+    @⭐ • Roba plumas en la escuela Desbloquealo al llegar al nivel 5 de texto
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429644348362792/4.png?width=400&height=78)
+
+    @⭐ • Vende dibujos de Dragon Ball Desbloquealo al llegar al nivel 10 de texto y 2 de voz
+
+	(https://cdn.discordapp.com/attachments/850444093569105920/945429672555065404/5.png)
+    
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429672555065404/5.png?width=400&height=78)
+
+    @⭐ • Tiene Sharpies Desbloquealo al llegar al nivel 20 de texto y 4 de voz
+	(https://cdn.discordapp.com/attachments/850444093569105920/945429702921846855/6.png)
+    
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429702921846855/6.png?width=400&height=78)
+
+    @⭐ • Cartuchera Gigante Desbloquealo al llegar al nivel 30 de texto y 8 de voz
+2.  ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429725856296990/7.png?width=400&height=78)
+
+    @🌈 • Morra de los Colores Desbloquealo al llegar al nivel 40 de texto y 10 de 
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429751940673586/8.png?width=400&height=78)
+
+    @🛐 • Virtuoso del óleo Desbloquealo al llegar al nivel 55 de texto y 18 de voz
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429781871202384/9.png?width=400&height=78)
+
+    @✨• Sabe dibujar con las patas Desbloquealo al llegar al nivel 100 de texto y 40 de voz
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430279009468416/21.png?width=400&height=78)
+
+9.  _[_16:22_]_
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430333686444073/17.png?width=400&height=78)
+
+    Consigue @🧠 • Asi que... le sabes? Compartiendo una idea en 🧠〉ideas Y que sea utilizada en el server
+	(https://cdn.discordapp.com/attachments/850444093569105920/945432243126554684/22.png)
+    
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432243126554684/22.png?width=400&height=78)
+
+    Actualmente hay 17 miembros con @Server Builder
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432369194758174/23.png?width=400&height=78)
+    
+    Actualmente hay 5 miembros con @CTRL + Z
+
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432529081614396/24.png?width=400&height=78)
+
+    Actualmente hay 7 miembros con @Patrocinador
+2.    
+    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432586921066516/25.png?width=400&height=78)
+
+    e̴̽͠r̴̦̾r̶͐͒o̷̿͝r̸̋̈́ 3
