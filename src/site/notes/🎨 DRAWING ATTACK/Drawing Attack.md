@@ -153,13 +153,10 @@ Crear videos e imágenes para el servidor y sus redes.>)
 
     @⭐ • Vende dibujos de Dragon Ball Desbloquealo al llegar al nivel 10 de texto y 2 de voz
 
-	(https://cdn.discordapp.com/attachments/850444093569105920/945429672555065404/5.png)
-    
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429672555065404/5.png?width=400&height=78)
 
     @⭐ • Tiene Sharpies Desbloquealo al llegar al nivel 20 de texto y 4 de voz
-	(https://cdn.discordapp.com/attachments/850444093569105920/945429702921846855/6.png)
-    
+
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429702921846855/6.png?width=400&height=78)
 
     @⭐ • Cartuchera Gigante Desbloquealo al llegar al nivel 30 de texto y 8 de voz
@@ -173,14 +170,12 @@ Crear videos e imágenes para el servidor y sus redes.>)
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429781871202384/9.png?width=400&height=78)
 
     @✨• Sabe dibujar con las patas Desbloquealo al llegar al nivel 100 de texto y 40 de voz
-
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430279009468416/21.png?width=400&height=78)
 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430333686444073/17.png?width=400&height=78)
 
     Consigue @🧠 • Asi que... le sabes? Compartiendo una idea en 🧠〉ideas Y que sea utilizada en el server
-	(https://cdn.discordapp.com/attachments/850444093569105920/945432243126554684/22.png)
-    
+
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432243126554684/22.png?width=400&height=78)
 
     Actualmente hay 17 miembros con @Server Builder
