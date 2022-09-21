@@ -138,55 +138,55 @@ Crear videos e imágenes para el servidor y sus redes.>)
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429055258370078/15.png?width=400&height=78)
 
  ↤↤↤↤ Desbloquea @😎👍 • Nais Tu mit iu tu ↦↦↦↦ Presentandote en 🎤〉presentate❕
-4. 
+4.
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429519282634862/10.png?width=400&height=78)
-    
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429552233087056/2.png?width=400&height=78)
 
-    @⭐ • No trae Cuadernos Desbloquealo al llegar al nivel 2 de texto
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429552233087056/2.png?width=400&height=78)
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429604447973417/3.png?width=400&height=78)
+ @⭐ • No trae Cuadernos Desbloquealo al llegar al nivel 2 de texto
 
-    @⭐ • Roba plumas en la escuela Desbloquealo al llegar al nivel 5 de texto
+ ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429604447973417/3.png?width=400&height=78)
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429644348362792/4.png?width=400&height=78)
+ @⭐ • Roba plumas en la escuela Desbloquealo al llegar al nivel 5 de texto
 
-    @⭐ • Vende dibujos de Dragon Ball Desbloquealo al llegar al nivel 10 de texto y 2 de voz
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429644348362792/4.png?width=400&height=78)
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429672555065404/5.png?width=400&height=78)
+@⭐ • Vende dibujos de Dragon Ball Desbloquealo al llegar al nivel 10 de texto y 2 de voz
 
-    @⭐ • Tiene Sharpies Desbloquealo al llegar al nivel 20 de texto y 4 de voz
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429672555065404/5.png?width=400&height=78)
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429702921846855/6.png?width=400&height=78)
+@⭐ • Tiene Sharpies Desbloquealo al llegar al nivel 20 de texto y 4 de voz
 
-    @⭐ • Cartuchera Gigante Desbloquealo al llegar al nivel 30 de texto y 8 de voz
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429702921846855/6.png?width=400&height=78)
+
+@⭐ • Cartuchera Gigante Desbloquealo al llegar al nivel 30 de texto y 8 de voz
      ![Imagem](https://media.discordapp.net/attachments/850444093569105920/945429725856296990/7.png?width=400&height=78)
 
-    @🌈 • Morra de los Colores Desbloquealo al llegar al nivel 40 de texto y 10 de 
+@🌈 • Morra de los Colores Desbloquealo al llegar al nivel 40 de texto y 10 de 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429751940673586/8.png?width=400&height=78)
 
-    @🛐 • Virtuoso del óleo Desbloquealo al llegar al nivel 55 de texto y 18 de voz
+ @🛐 • Virtuoso del óleo Desbloquealo al llegar al nivel 55 de texto y 18 de voz
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429781871202384/9.png?width=400&height=78)
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429781871202384/9.png?width=400&height=78)
 
-    @✨• Sabe dibujar con las patas Desbloquealo al llegar al nivel 100 de texto y 40 de voz
+@✨• Sabe dibujar con las patas Desbloquealo al llegar al nivel 100 de texto y 40 de voz
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430279009468416/21.png?width=400&height=78)
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430333686444073/17.png?width=400&height=78)
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430333686444073/17.png?width=400&height=78)
 
-    Consigue @🧠 • Asi que... le sabes? Compartiendo una idea en 🧠〉ideas Y que sea utilizada en el server
+Consigue @🧠 • Asi que... le sabes? Compartiendo una idea en 🧠〉ideas Y que sea utilizada en el server
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432243126554684/22.png?width=400&height=78)
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432243126554684/22.png?width=400&height=78)
 
-    Actualmente hay 17 miembros con @Server Builder
+Actualmente hay 17 miembros con @Server Builder
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432369194758174/23.png?width=400&height=78)
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432369194758174/23.png?width=400&height=78)
     
-    Actualmente hay 5 miembros con @CTRL + Z
+  Actualmente hay 5 miembros con @CTRL + Z
 
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432529081614396/24.png?width=400&height=78)
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432529081614396/24.png?width=400&height=78)
 
-    Actualmente hay 7 miembros con @Patrocinador
+ Actualmente hay 7 miembros con @Patrocinador
 2.    
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432586921066516/25.png?width=400&height=78)
 
