@@ -115,8 +115,7 @@ Crear videos e imágenes para el servidor y sus redes.>)
 ---
 ## Logros
 
-
-1.  ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945427779997007993/16.png?width=400&height=78)
+1. ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945427779997007993/16.png?width=400&height=78)
 
     La verdadera pregunta no es "¿Puedes conseguirlos todos?" Si no "¿Gano algo por conseguirlos?"
 
@@ -141,8 +140,7 @@ Crear videos e imágenes para el servidor y sus redes.>)
  ↤↤↤↤ Desbloquea @😎👍 • Nais Tu mit iu tu ↦↦↦↦ Presentandote en 🎤〉presentate❕
 4. 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429519282634862/10.png?width=400&height=78)
-
-
+    
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429552233087056/2.png?width=400&height=78)
 
     @⭐ • No trae Cuadernos Desbloquealo al llegar al nivel 2 de texto
@@ -165,7 +163,7 @@ Crear videos e imágenes para el servidor y sus redes.>)
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429702921846855/6.png?width=400&height=78)
 
     @⭐ • Cartuchera Gigante Desbloquealo al llegar al nivel 30 de texto y 8 de voz
-2.  ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429725856296990/7.png?width=400&height=78)
+     ![Imagem](https://media.discordapp.net/attachments/850444093569105920/945429725856296990/7.png?width=400&height=78)
 
     @🌈 • Morra de los Colores Desbloquealo al llegar al nivel 40 de texto y 10 de 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429751940673586/8.png?width=400&height=78)
@@ -177,8 +175,6 @@ Crear videos e imágenes para el servidor y sus redes.>)
     @✨• Sabe dibujar con las patas Desbloquealo al llegar al nivel 100 de texto y 40 de voz
 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430279009468416/21.png?width=400&height=78)
-
-9.  _[_16:22_]_
 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430333686444073/17.png?width=400&height=78)
 
