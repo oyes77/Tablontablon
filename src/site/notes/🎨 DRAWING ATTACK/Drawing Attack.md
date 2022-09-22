@@ -121,7 +121,8 @@ Crear videos e imágenes para el servidor y sus redes.>)
 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428220445081610/11.png?width=400&height=78)
 
-    ↤↤↤↤ Desbloquea @🔖 • Da Vinci un poroto ↦↦↦↦ Enviando un dibujo a 💛〉dibujos
+    ↤↤↤↤ Desbloquea @🔖 • Da Vinci un poroto ↦↦↦↦ ~~Enviando un dibujo a 💛〉dibujos~~
+    Apareciendo en # arte del dia
 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428427773734912/12.png?width=400&height=78)
 
@@ -129,18 +130,19 @@ Crear videos e imágenes para el servidor y sus redes.>)
 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428649115549766/13.png?width=400&height=78)
 
-    ↤↤↤↤ Desbloquea @🐉 • Premier Flan ↦↦↦↦ Participando en los eventos especiales del server
+    ↤↤↤↤ Desbloquea @🐉 • Premier Flan ↦↦↦↦ ~~Participando en los eventos especiales del server~~
+    Destacandote en los eventos del servidor (no solo participar sino hacer algún papel especial yo q se)
 
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945428788840386560/14.png?width=400&height=78)    
 
-  ↤↤↤↤ Desbloquea @✒️ • ¿Esto no era un server de dibujo? ↦↦↦↦ Enviando tu propia historia a 🧡〉escritos
+  ↤↤↤↤ Desbloquea @✒️ • ¿Esto no era un server de dibujo? ↦↦↦↦ ~~Enviando tu propia historia a 🧡〉escritos~~ borrar
 2.    
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429055258370078/15.png?width=400&height=78)
 
  ↤↤↤↤ Desbloquea @😎👍 • Nais Tu mit iu tu ↦↦↦↦ Presentandote en 🎤〉presentate❕
 4.
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429519282634862/10.png?width=400&height=78)
-
+Todos estos logros deberían estar en una misma imagen más grande, al igual que con la categoría anterior, pero más que todo en esta, ya que la info se puede concentrar fácilmente
 ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429552233087056/2.png?width=400&height=78)
 
  @⭐ • No trae Cuadernos Desbloquealo al llegar al nivel 2 de texto
@@ -170,7 +172,9 @@ Crear videos e imágenes para el servidor y sus redes.>)
 ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945429781871202384/9.png?width=400&height=78)
 
 @✨• Sabe dibujar con las patas Desbloquealo al llegar al nivel 100 de texto y 40 de voz
-    ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430279009468416/21.png?width=400&height=78)
+Creo que hay un nuevo rol de nivel, toca revisar que esto esté actualizado en general xd
+ 
+![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430279009468416/21.png?width=400&height=78)
 
 ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945430333686444073/17.png?width=400&height=78)
 
@@ -178,15 +182,17 @@ Consigue @🧠 • Asi que... le sabes? Compartiendo una idea en 🧠〉ideas Y 
 
 ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432243126554684/22.png?width=400&height=78)
 
-Actualmente hay 17 miembros con @Server Builder
+~~Actualmente hay 17 miembros con @Server Builder~~ decir para qué sirve estaría shido xd
 
 ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432369194758174/23.png?width=400&height=78)
     
-  Actualmente hay 5 miembros con @CTRL + Z
-
+  ~~Actualmente hay 5 miembros con @CTRL + Z~~
+la misma wea
 ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432529081614396/24.png?width=400&height=78)
 
- Actualmente hay 7 miembros con @Patrocinador
+ ~~Actualmente hay 7 miembros con @Patrocinador~~ actualizar el nombre a patrocinador
+
+**sobre ctrl Z** deberíamos reestructurar el sistema del staff, porque todos tienen el rango mod aunque no moderen, así que separarlo por categorías (promoción, redes sociales, etc.) estaría mejor, los altos mandos de la tinta se quedarían  igual tho, pero no sería un rol que se da por hacer un buen trabajo, sino para los que están dispuestos a coordinar a otros, de resto no sirve ese rol xd.
 2.    
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432586921066516/25.png?width=400&height=78)
 
