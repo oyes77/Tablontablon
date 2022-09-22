@@ -31,9 +31,9 @@ Algunas herramientas que uso en discord para [[🎨 DRAWING ATTACK/Drawing Attac
 
 ---
 
-### Creación de contenido
+### [[🎎 HUBSITE/Content Creation|Creación de contenido]]
 
-Eres un intento perdido de  youtuber y necesitas algo en específico para tus videos? [[🎎 HUBSITE/Content Creation|Aquí tienes ]] algunos canales de youtube que te van a dar justamente eso.
+Canales de música royalty free que he encontrado.
 
 ---
 
