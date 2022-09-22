@@ -25,11 +25,16 @@ En el formato de embeds hay una sección llamada *Marca de tiempo*, esto lo hace
 ### [Rebane's Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)
 Puedes escribir texto de colorines OwO
 
-[Weird Text Generator ― LingoJam](https://lingojam.com/WeirdTextGenerator) o [Fancy text Font](https://fancy-text.net/es/change-font-generator.php)
-Generador de texto, como estos hay varios.
+[Weird Text Generator ― LingoJam](https://lingojam.com/WeirdTextGenerator) o [Fancy text Font](https://fancy-text.net/es/change-font-generator.php) o [Cool Symbols & Cool Fonts - Symbols, Emoji & Fonts ✮✢❂✶✧](https://coolsymbol.com/)
+Generador de texto y símbolos, como estos hay varios.
 
+---
 
+### Symbols 
 
+**〉〈✨）（»«〉〈〙〘﹀︿▼▲◁▷▽△❏❒❑❐▏▍█☗☖▰▱▔└┐┌┘******
+
+█████ block 
 
 
 
