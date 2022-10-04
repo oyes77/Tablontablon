@@ -17,7 +17,7 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea d
 ---
 ## Tabla de contenidos:
 
-
+[próximamente]
 
 
 
@@ -25,8 +25,6 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea d
 ---
 
 ### [[🎎 HUBSITE/Discord|Discord]] 
-
-
 Algunas herramientas que uso en discord para [[🎨 DRAWING ATTACK/Drawing Attack|Mi comunidad de arte.]] 
 
 ---
@@ -36,11 +34,8 @@ Algunas herramientas que uso en discord para [[🎨 DRAWING ATTACK/Drawing Attac
 Canales de música royalty free que he encontrado.
 
 ---
-
-### OKA
-sección dedicada a weas que le escribo a Oka.
- [[Tutorial|obs TUTO]]
- [[tutorial embeds|tutorial embeds]]
+### [[Personas|Personas]]
+Sección sobre cosas que hago para personas en específico
 
 ---
 ### [[🎎 HUBSITE/itch.io i like|Proyectos de Itch]]
@@ -54,6 +49,7 @@ Sección para ver cómo se ve la página
  [[página no existente|página no existente]]
 
 ---
+### Wii modding
 
 [[🎎 HUBSITE/Otros|Otros]]
 
