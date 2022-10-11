@@ -30,10 +30,12 @@ estoy creando un nuevo personaje para reemplazar a tabla, al menos por un buen r
 ![|300](https://i.imgur.com/IedpwqN.png)
  
 ![|300](https://i.imgur.com/EmzpmJ4.png)
+
+### FANARTS!
 #### by :jean.artss
 
 ![](https://i.imgur.com/DkDobGm.png)
-#### by: natshuki3
+#### by: natshukiz
 
 ![](https://i.imgur.com/4rq4FMQ.png)
 
