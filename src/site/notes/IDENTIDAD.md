@@ -30,6 +30,9 @@ estoy creando un nuevo personaje para reemplazar a tabla, al menos por un buen r
 ![|300](https://i.imgur.com/IedpwqN.png)
  
 ![|300](https://i.imgur.com/EmzpmJ4.png)
+![](https://i.imgur.com/hF5Zaug.png)
+
+
 
 ### FANARTS!
 #### by :jean.artss
