@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hubsite/art-tools/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/hubsite/art-tools/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
 ---
 
 # art tools
