@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hubsite/escuela/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/hubsite/escuela/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
 ---
 
 ## Escuela
