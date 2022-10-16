@@ -1,9 +1,9 @@
 body {
-    background-color:rgb(33,35,48);
+    background-color:rgb(33,33,33);
     .content {
     max-width: 1200px;
     margin: auto;
-    font-size: 16px;
+    font-size: 15px;
     line-height: 1.5;
         
         /* Dark theme */
@@ -195,20 +195,20 @@ body {
 .red {
   color: var(--text-red);
 }
-        /**Enlarge image on hover*/
+        /**Enlarge image on hover
         .markdown-preview-view img {
   display: block;
   margin-top: 20pt;
   margin-bottom: 20pt;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;  /* experiment with values */
+  width: 50%;  /* experiment with values
   transition:transform 0.25s ease;
 }
 
 .markdown-preview-view img:hover {
-    -webkit-transform:scale(1.8); /* experiment with values */
-    transform:scale(2);
+    -webkit-transform:scale(1.8); /* experiment with values
+    transform:scale(2); */
     
 }
 
