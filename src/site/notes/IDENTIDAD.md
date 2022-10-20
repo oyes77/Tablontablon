@@ -16,7 +16,7 @@ Mi apariencia varía entre tablita o tablón, mi personaje meme, y antes con Gal
 
 ##### Galab (en reconstrucción)
 
-![|250](https://i.imgur.com/uZbFPRi.png)  ![|350](https://i.imgur.com/roJfinS.gif)
+![|250](https://i.imgur.com/uZbFPRi.png)![|350](https://i.imgur.com/roJfinS.gif)
 
 
 ---
@@ -27,17 +27,17 @@ Mi apariencia varía entre tablita o tablón, mi personaje meme, y antes con Gal
 ***De aquí en adelante todo es sumamente conceptual, y puede cambiar en cualquier momento, los mantendré actualizados, lectores que no tengo***
 
 estoy creando un nuevo personaje para reemplazar a tabla, al menos por un buen rato, ya que me estoy cansando de este personaje. he aquí un pequeño boceto de lo que será
-![|300](https://i.imgur.com/IedpwqN.png)
+![|325](https://i.imgur.com/IedpwqN.png)
  
-![|300](https://i.imgur.com/EmzpmJ4.png)
-![](https://i.imgur.com/hF5Zaug.png)
+![|325](https://i.imgur.com/EmzpmJ4.png)
+![|500](https://i.imgur.com/hF5Zaug.png)
 
 
 
 ### FANARTS!
 #### by :jean.artss
 
-![](https://i.imgur.com/DkDobGm.png)
+![|500](https://i.imgur.com/DkDobGm.png)
 #### by: natshukiz
 
 ![](https://i.imgur.com/4rq4FMQ.png)
