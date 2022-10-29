@@ -8,28 +8,21 @@
 
  Mi nombre es Galab, pero me conocen como Tablita, o tablón, *de ahí el "increible" juego de palabras que es el nombre del sitio.* Soy... un tonto con mucho tiempo libre, si quieren conocerme, pasense por aquí.
 
-Mi apariencia varía entre tablita o tablón, mi personaje meme, y antes con Galab, la versión más detallada y "seria" de tablita, pero pienso cambiarla por un ser propio.
 
-##### Tablita
-
-![|275](https://i.imgur.com/7oO0RJr.gif)  ![|275](https://i.imgur.com/OrSSfZv.png|left)
-
-##### Galab (en reconstrucción)
-
-![|250](https://i.imgur.com/uZbFPRi.png)![|350](https://i.imgur.com/roJfinS.gif)
-
+LEGACY: [[Tablón|Tablón]]
 
 ---
 
+
 # SIN EMBARGO...
-![|775](https://i.imgur.com/SvZ7juf.png)
+![|425](https://i.imgur.com/SvZ7juf.png)
 
 ***De aquí en adelante todo es sumamente conceptual, y puede cambiar en cualquier momento, los mantendré actualizados, lectores que no tengo***
 
 estoy creando un nuevo personaje para reemplazar a tabla, al menos por un buen rato, ya que me estoy cansando de este personaje. he aquí un pequeño boceto de lo que será
-![|325](https://i.imgur.com/IedpwqN.png)
+![|350](https://i.imgur.com/IedpwqN.png)
  
-![|325](https://i.imgur.com/EmzpmJ4.png)
+![|350](https://i.imgur.com/EmzpmJ4.png)
 ![|500](https://i.imgur.com/hF5Zaug.png)
 
 
