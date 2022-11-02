@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hubsite/itch-io-i-like/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/hubsite/itch-io-i-like/"}
 ---
 
 # ITCH IO
