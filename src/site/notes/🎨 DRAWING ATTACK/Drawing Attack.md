@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drawing-attack/drawing-attack/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/drawing-attack/drawing-attack/"}
 ---
 
 
@@ -197,3 +197,20 @@ la misma wea
     ![Imagen](https://media.discordapp.net/attachments/850444093569105920/945432586921066516/25.png?width=400&height=78)
 
     e̴̽͠r̴̦̾r̶͐͒o̷̿͝r̸̋̈́ 3
+
+
+
+
+### Secret Santa
+
+ uno o dos días después de navidad (para darles tiempo de estar con la familia y se acomoden) se darán los regalos en un canal donde solo gente que tenga un rol especial podrá escribir y el resto solo podrá ver
+
+  Reaccionar al embed con la explicación sobre el evento 5 días de tiempo antes de que empiece:
+	**Primera etapa: (NOV25 - DIC1)**
+	a todos los participantes oficiales se les pedirá que manden un dibujo de su OC, en caso de que no tengan, que digan algun personaje que les guste para ser dibujad@.
+	**Segunda etapa (DIC2 - DIC15):**
+	Se hará una ruleta para ver quien regala a quien un dibujo, de los dibujantes que reaccionaron, y se les mandará al DM a quien tienen que dibujar.
+	**Tercera etapa (DIC16 - DIC22):**
+	Se hará la ruleta de nuevo, y se les mandará al DM a quien tienen que dibujar.
+	**Cuarta etapa (DIC23 - DIC25):**
+	Se entregarán los regalos al DM de Proli, diciendo para quien es el dibujo.   "abrirlos" en vivo, y hablar un rato mientras se come
