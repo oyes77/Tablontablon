@@ -25,5 +25,5 @@ Varios canales que suben música de diferentes géneros sin copyright, puedes de
 
 
 
-[[temp|temp]]
+[[temp\|temp]]
 
