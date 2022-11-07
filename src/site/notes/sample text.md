@@ -178,7 +178,7 @@ Learn more about callouts [here](https://help.obsidian.md/How+to/Use+callouts).
 ```markdown
 > [!INFO]
 > Here's a callout block.
-> It supports **markdown** and [[Internal link|wikilinks]].
+> It supports **markdown** and [[Internal link\|wikilinks]].
 ```
 
 > [!INFO]
@@ -203,4 +203,4 @@ gagasdgagagasdgagagasdgagagasdgagagasdgagagasdgagagasdgagagasdgagagasdgagagasdga
 
 ---
 
-[[TemasWEB|TemasWEB]]
+[[TemasWEB\|TemasWEB]]
