@@ -10,7 +10,7 @@ ___
 ### [Embed Generator](https://message.style/)
 Creador de embeds para discord por interfaz. Si quieres saber [Que es un embed? haz click aquí.](https://www.google.com/search?q=que+es+un+embed+en+discord) puede interesarte más de lo que piensas (si, es un link a google con la búsqueda ya hecha).
 
-[[Discord formatting|Esto puede serte de ayuda para darle formato a tus mensajes]]
+[[Discord formatting\|Esto puede serte de ayuda para darle formato a tus mensajes]]
 
 ### [Dyno Wiki](https://wiki.dyno.gg/en/modules/autoroles)
 
