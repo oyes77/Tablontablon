@@ -5,22 +5,22 @@
 
 # Tabla de contenidos:
 
-1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns|sistema de warns]]
-	1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns|ESTÉTICA]]
-	1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns|FUNCIONAMIENTO de castigo]]
-1. [[🎨 DRAWING ATTACK/Drawing Attack#formato|formato]]
-1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|REGLAS]]
-	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|Sobre Comportamientos]]
-	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|Sobre Arte]]
-	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|reglas del staff]]
-		1. [[🎨 DRAWING ATTACK/Drawing Attack#reglas del staff|funciones del staff/cargos:]]
-			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|owners:]]
-			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|admins:]]
-			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|super mods:]]
-			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|mods:]]
-			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|logística]]
-			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:|materiales]]
-	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS|Logros]]
+1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns\|sistema de warns]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns\|ESTÉTICA]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#sistema de warns\|FUNCIONAMIENTO de castigo]]
+1. [[🎨 DRAWING ATTACK/Drawing Attack#formato\|formato]]
+1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS\|REGLAS]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS\|Sobre Comportamientos]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS\|Sobre Arte]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS\|reglas del staff]]
+		1. [[🎨 DRAWING ATTACK/Drawing Attack#reglas del staff\|funciones del staff/cargos:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:\|owners:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:\|admins:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:\|super mods:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:\|mods:]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:\|logística]]
+			1. [[🎨 DRAWING ATTACK/Drawing Attack#funciones del staff/cargos:\|materiales]]
+	1. [[🎨 DRAWING ATTACK/Drawing Attack#REGLAS\|Logros]]
 
 ---
 
@@ -213,4 +213,6 @@ la misma wea
 	**Tercera etapa (DIC16 - DIC22):**
 	Se hará la ruleta de nuevo, y se les mandará al DM a quien tienen que dibujar.
 	**Cuarta etapa (DIC23 - DIC25):**
-	Se entregarán los regalos al DM de Proli, diciendo para quien es el dibujo.   "abrirlos" en vivo, y hablar un rato mientras se come
+	Se entregarán los regalos al DM de Proli, diciendo para quien es el dibujo.   "abrirlos" en vivo.
+	**Quinta etaá (DIC26)**
+	Se hace una llamada de voz para abrir los regalos, agradecer y hablar de chill, aparte hacemos propuestas de año nuevo dibujiles o algo así bien shido
