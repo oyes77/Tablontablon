@@ -214,5 +214,5 @@ la misma wea
 	Se hará la ruleta de nuevo, y se les mandará al DM a quien tienen que dibujar.
 	**Cuarta etapa (DIC23 - DIC25):**
 	Se entregarán los regalos al DM de Proli, diciendo para quien es el dibujo.   "abrirlos" en vivo.
-	**Quinta etaá (DIC26)**
+	**Quinta etapa (DIC26)**
 	Se hace una llamada de voz para abrir los regalos, agradecer y hablar de chill, aparte hacemos propuestas de año nuevo dibujiles o algo así bien shido
