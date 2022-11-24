@@ -21,7 +21,16 @@ Varios canales que suben música de diferentes géneros sin copyright, puedes de
 [YouTube link|fullwidth](https://www.youtube.com/channel/UCcUuUhBChMXm-irdwoFT-vg)
 
 
-[YouTube link|fullwidth]()
+
+```cardlink
+url: https://www.youtube.com/c/DaystarProject/videos
+title: "별 헤는 다락방 Starry Attic"
+description: "샛‘별’과 ‘혜’린의 별 헤는 다락방🏡Starry AtticⓒAll rights reserved.오늘도 샛별스러운 음악 들어줘서 고마워요 :D*이 채널의 모든 음악을 직접 제작합니다*Thank you for listening to my music again today!*I produce all the music on this channel myself.*URL: youtube.com/@starryattic"
+host: www.youtube.com
+favicon: https://www.youtube.com/s/desktop/ff71ea81/img/favicon_32x32.png
+image: https://yt3.ggpht.com/fBNu4Y6R9LM8ZVbnWX_G3n9nNhyM9kmn6ptHmLEgK7x18IqYoU_IQ1VWXqV6bvfcVh2tcNPx6Q=s900-c-k-c0x00ffffff-no-rj
+```
+
 
 <div
   style="
