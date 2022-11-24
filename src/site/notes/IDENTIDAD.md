@@ -8,7 +8,7 @@
 
  Mi nombre es Galab, pero me conocen como Tablita, o tablón, *de ahí el "increible" juego de palabras que es el nombre del sitio.* Soy... un tonto con mucho tiempo libre, si quieren conocerme, pasense por aquí.
 
-> [!caution]+ LEGACY
+> [!caution] LEGACY
 > [[Tablón\|Tablón]] es mi identidad anterior, puedes ver más de el si te interesa nwn
 
 
