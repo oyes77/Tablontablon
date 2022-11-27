@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tablon/"}
 ---
 
-# Tablón 
+# Tablón
 ---
 ## (LEGACY)
 
