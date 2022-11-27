@@ -6,10 +6,13 @@
 # DAY LOG
 - wake up
 # TO PROCESS
+
 links:
+
 # FOR TOMORROW
+
 todo:
+
 # RECAP
+
 i did:
-
-
