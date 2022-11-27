@@ -3,19 +3,19 @@
 ---
 
 
-# This is a heading 1
+# This is a Heading 1
 
-## This is a heading 2
+## This is a Heading 2
 
-### This is a heading 3
+### This is a Heading 3
 
-#### This is a heading 4
+#### This is a Heading 4
 
-##### This is a heading 5
+##### This is a Heading 5
 
-###### This is a heading 6
+###### This is a Heading 6
 
-*nya*             **nya *nya*  
+*nya*             **nya *nya*
 nyaa**                nya
 
 ---
@@ -23,15 +23,14 @@ nyaa**                nya
 ### Lists
 -   Item 1
 -   Item 2
-    -   Item 2a
-    -   Item 2b
+	 -   Item 2a
+	 -   Item 2b
 
 1.  Item 1
 2.  Item 2
 3.  Item 3
-    1.  Item 3a
-    2.  Item 3b
-
+	 1.  Item 3a
+	 2.  Item 3b
 
 ---
 
@@ -49,7 +48,7 @@ nyaa**                nya
 
 ---
 
-### Inline code
+### Inline Code
 
 ```md
 Text inside `backticks` on a line will be formatted like code.
@@ -57,7 +56,7 @@ Text inside `backticks` on a line will be formatted like code.
 
 Text inside `backticks` on a line will be formatted like code.
 
-### Task list
+### Task List
 
 ```md
 - [x] #tags, [links](), **formatting** supported
@@ -113,7 +112,6 @@ First Header | Second Header
 [[Format your notes\|Formatting]]	|  [[Keyboard shortcuts\|hotkeys]]
 ```
 
-
 First Header | Second Header
 ------------ | ------------
 [[Format your notes\|Formatting]]	|  [[Keyboard shortcuts\|hotkeys]]
@@ -130,9 +128,9 @@ Use two equal signs to ==highlight text==.
 
 <mark style="background: #FFF3A3A6;">alternatively use the plugin</mark>
 
-<mark style="background: #FFB8EBA6;">colors colors</mark>  <mark style="background: #FF5582A6;">colors colors</mark>  <mark style="background: #FFB86CA6;">colors 
-colors</mark>  <mark style="background: #FFF3A3A6;">colors colors</mark>  <mark style="background: #BBFABBA6;">colors colors</mark>  <mark style="background: #ABF7F7A6;">colors colors</mark>  <mark style="background: #ADCCFFA6;">colors colors</mark>  <mark style="background: #D2B3FFA6;">colors colors</mark>  <mark style="background: #CACFD9A6;">colors colors</mark> 
+<mark style="background: #FFB8EBA6;">colors colors</mark>  <mark style="background: #FF5582A6;">colors colors</mark>  <mark style="background: #FFB86CA6;">colors
 
+colors</mark>  <mark style="background: #FFF3A3A6;">colors colors</mark>  <mark style="background: #BBFABBA6;">colors colors</mark>  <mark style="background: #ABF7F7A6;">colors colors</mark>  <mark style="background: #ADCCFFA6;">colors colors</mark>  <mark style="background: #D2B3FFA6;">colors colors</mark>  <mark style="background: #CACFD9A6;">colors colors</mark>
 
 ---
 
@@ -155,15 +153,16 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: meaningful!
+
 		sfsf
+
 [^bignote]: Here's one with multiple paragraphs and code.
 
-    Indent paragraphs to include them in the footnote.
+	 Indent paragraphs to include them in the footnote.
 
-    `{ nyaa }`
+	 `{ nyaa }`
 
-    Add as many paragraphs as you like.
-
+	 Add as many paragraphs as you like.
 
 ```md
 You can also use inline footnotes. ^[notice that the carat goes outside of the brackets on this one.]
