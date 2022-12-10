@@ -2,17 +2,6 @@
 {"dg-publish":true,"permalink":"/templates/dlnt/"}
 ---
 
+# Cosas
 
-# DAY LOG
-- wake up
-# TO PROCESS
-
-links:
-
-# FOR TOMORROW
-
-todo:
-
-# RECAP
-
-i did:
+escribe lo que quieras aquí dude -.-
