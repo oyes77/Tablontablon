@@ -21,9 +21,7 @@
 
 En una zona muy antigua y alejada del espacio, donde los Astros son seres conscientes y todopoderosos dentro de su reino, una Estrella entrada en la vejez, llamado Galio, o titulado El Ezma, un título de honor, por sus conocidos, sabiendo que en unos millones de años implosionaría y se convertiría en un agujuero negro para morir, decidió vivir sus  últimos días como humano joven, para recordar cómo era la juventud, olvidando casi todo su pasado gracias al alzheimer.
 
-![|350](https://i.imgur.com/IedpwqN.png)
-
-![|350](https://i.imgur.com/EmzpmJ4.png)
+![|350](https://i.imgur.com/EmzpmJ4.png) ![|350](https://i.imgur.com/IedpwqN.png)
 
 ![|500](https://i.imgur.com/hF5Zaug.png)
 
