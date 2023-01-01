@@ -33,7 +33,7 @@ En una zona muy antigua y alejada del espacio, donde los Astros son seres consci
 
 #### By: Natshukiz
 
-![](https://i.imgur.com/4rq4FMQ.png)
+![|450](https://i.imgur.com/4rq4FMQ.png)
 
 #### By: Shigio
 
