@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personas/"}
 ---
 
-# Personas
+(outdated  AF)
 
 ### OKA
 
