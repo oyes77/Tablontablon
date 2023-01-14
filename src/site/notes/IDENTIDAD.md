@@ -38,3 +38,7 @@ En una zona muy antigua y alejada del espacio, donde los Astros son seres consci
 #### By: Shigio
 
 ![](https://i.imgur.com/htPIoGa.png)
+
+#### By: Funky_Microwave
+
+![](https://i.imgur.com/BFb0PLT.png)
