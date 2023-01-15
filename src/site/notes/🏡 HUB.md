@@ -52,7 +52,7 @@ Sección para ver cómo se ve la página
  [[página no existente\|página no existente]]
 
 ---
-### [[Wii modding\|Wii modding]]
+### [[Proyectos/🎎 HUBSITE/Wii modding\|Wii modding]]
 
 [[Proyectos/🎎 HUBSITE/Otros\|Otros]]
 
