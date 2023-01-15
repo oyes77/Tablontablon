@@ -21,13 +21,13 @@ Un sitio donde pondré lo interesante que vaya encontrando en internet y/o sea d
 
 ---
 
-### [[🎎 HUBSITE/Discord\|Discord]]
+### [[Proyectos/🎎 HUBSITE/Discord\|Discord]]
 
-Algunas herramientas que uso en discord para [[🎨 DRAWING ATTACK/Drawing Attack\|Mi comunidad de arte.]]
+Algunas herramientas que uso en discord para [[Proyectos/🎨 DRAWING ATTACK/Drawing Attack\|Mi comunidad de arte.]]
 
 ---
 
-### [[🎎 HUBSITE/Content Creation\|Creación de contenido]]
+### [[Proyectos/🎎 HUBSITE/Content Creation\|Creación de contenido]]
 
 Canales de música royalty free que he encontrado.
 
@@ -37,7 +37,7 @@ Canales de música royalty free que he encontrado.
 Sección sobre cosas que hago para personas en específico
 
 ---
-### [[🎎 HUBSITE/itch.io i like\|Proyectos de Itch]]
+### [[Proyectos/🎎 HUBSITE/itch.io i like\|Proyectos de Itch]]
 
 Cosas varias que me he encontrado navegando en Itch.io y me parecen útiles o interesantes.
 
@@ -54,6 +54,6 @@ Sección para ver cómo se ve la página
 ---
 ### [[Wii modding\|Wii modding]]
 
-[[🎎 HUBSITE/Otros\|Otros]]
+[[Proyectos/🎎 HUBSITE/Otros\|Otros]]
 
 [[Tutorial robadísimo\|Tutorial robadísimo]]
