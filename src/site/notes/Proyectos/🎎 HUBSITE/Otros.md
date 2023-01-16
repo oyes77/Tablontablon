@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/otros/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/otros/","title":"Otros"}
 ---
 
 # Otros
