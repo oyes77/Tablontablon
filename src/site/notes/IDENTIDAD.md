@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/identidad/","title":"Tablón"}
+{"dg-publish":true,"permalink":"/identidad/","title":"It's me!"}
 ---
 
 
-# Tablón
+# It's Me!
 
  Mi nombre es Galab, pero me conocen como Tablita, o tablón, *de ahí el "increible" juego de palabras que es el nombre del sitio.* Soy... un tonto con mucho tiempo libre, si quieren conocerme, pasense por aquí.
 
