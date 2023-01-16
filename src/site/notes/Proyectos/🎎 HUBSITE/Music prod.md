@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/music-prod/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/music-prod/","title":"Music prod"}
 ---
 
 ## Music Prod
