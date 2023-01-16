@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/roleplay/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/roleplay/","title":"Roleplay","tags":["webs"]}
 ---
 
 ## Roleplay
