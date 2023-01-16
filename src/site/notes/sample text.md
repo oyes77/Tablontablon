@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sample-text/"}
+{"dg-publish":true,"permalink":"/sample-text/","title":"This is a heading 1"}
 ---
 
 
