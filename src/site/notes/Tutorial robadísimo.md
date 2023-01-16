@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tutorial-robadisimo/"}
+{"dg-publish":true,"permalink":"/tutorial-robadisimo/","title":"Tutorial robadísimo"}
 ---
 
 # Tutorial Robadísimo
