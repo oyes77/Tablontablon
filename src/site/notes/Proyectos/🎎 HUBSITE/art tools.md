@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/art-tools/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/art-tools/","title":"Art Tools"}
 ---
 
 
