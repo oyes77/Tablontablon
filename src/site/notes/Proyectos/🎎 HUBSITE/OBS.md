@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/obs/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/obs/","title":"OBS"}
 ---
 
 
