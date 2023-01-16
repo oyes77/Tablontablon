@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tutorial-embeds/"}
+{"dg-publish":true,"permalink":"/tutorial-embeds/","title":"Tutorial embeds"}
 ---
 
 
