@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/discord-formatting/"}
+{"dg-publish":true,"permalink":"/discord-formatting/","title":"Discord formatting"}
 ---
 
 
