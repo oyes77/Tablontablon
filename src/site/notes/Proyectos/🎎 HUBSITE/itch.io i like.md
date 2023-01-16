@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/itch-io-i-like/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/itch-io-i-like/","title":"ITCH IO"}
 ---
 
 # ITCH IO
