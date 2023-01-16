@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tablon/"}
+{"dg-publish":true,"permalink":"/tablon/","title":"Tablón"}
 ---
 
 # Tablón
