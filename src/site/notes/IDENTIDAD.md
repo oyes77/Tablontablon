@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/identidad/"}
+{"dg-publish":true,"permalink":"/identidad/","title":"Tablón"}
 ---
 
 
