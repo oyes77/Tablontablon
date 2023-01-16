@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/discord/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/discord/","title":"Discord"}
 ---
 
 
