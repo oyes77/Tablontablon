@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personas/"}
+{"dg-publish":true,"permalink":"/personas/","title":"Personas"}
 ---
 
 (outdated  AF)
