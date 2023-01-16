@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyectos/hubsite/content-creation/"}
+{"dg-publish":true,"permalink":"/proyectos/hubsite/content-creation/","title":"Creación de contenido"}
 ---
 
 ## Creación De Contenido
