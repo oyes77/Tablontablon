@@ -8,10 +8,10 @@
 
 Mi apariencia varía entre tablita o tablón, mi personaje meme, y antes con Galab, la versión más detallada y "seria" de tablita, pero pienso cambiarla por un ser propio.
 
-##### Tablita
+## Tablita
 
-![|275](https://i.imgur.com/7oO0RJr.gif)  ![|275](https://i.imgur.com/OrSSfZv.png|left)
+![|300](https://i.imgur.com/7oO0RJr.gif)  ![|275](https://i.imgur.com/OrSSfZv.png|left)
 
-##### Galab (en reconstrucción)
+## Galab 
 
-![|250](https://i.imgur.com/uZbFPRi.png)![|350](https://i.imgur.com/roJfinS.gif)
+![|275](https://i.imgur.com/uZbFPRi.png)![|400](https://i.imgur.com/roJfinS.gif)
