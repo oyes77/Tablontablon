@@ -36,15 +36,13 @@ dg-publish: true
 
 [Digital Photography Tutorials](https://www.cambridgeincolour.com/tutorials)
 
-https://www.youtube.com/watch?v=mNNSwITdPIM&t=7s
+[(Non Nude) Daily Life Drawing Session Figure Reference Images #1 in Ultra HD 4K - YouTube](https://www.youtube.com/watch?v=mNNSwITdPIM&t=7s)
 
 [Line of Action](https://line-of-action.com/)
 
 [7877 Free Display Fonts · 1001 Fonts](https://www.1001fonts.com/display-fonts.html?page=5)
 
 [Enciclopedia 1.1.docx - Documentos de Google](https://docs.google.com/document/d/1otwskgtilcqC3jEyHza1KLkfDEDSPSqA/edit)
-
-[(Non Nude) Daily Life Drawing Session Figure Reference Images #1 in Ultra HD 4K - YouTube](https://www.youtube.com/watch?v=mNNSwITdPIM&t=7s)
 
 ### Informativos
 
