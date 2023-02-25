@@ -17,6 +17,8 @@
 
 El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el sistema de magia se basa en los conceptos del arte, son representados con colores, este sistema de magia está imbuido en cada territorio, y en consecuencia, en sus habitantes, moldeando su forma, relaciones, y cultura.
 
+![](https://i.imgur.com/je1p7ym.png)
+
 ## Rusted
 ### Lore
 ### Cultura
