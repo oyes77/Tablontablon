@@ -22,7 +22,7 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 ## Rusted
 ### Lore
 ### Cultura
-
+Rusted es una sociedad basada en el comercio, 
 ### Geografía
 ### Criaturas
 ### Personajes
@@ -40,10 +40,11 @@ La magia de rusted es enfocada usando música, modificando el ánimo y potenciad
 ### Lore
 ### Cultura
 
-Las personas de mineflow no suelen ser muy unidas unas a otras físicamente, pues los vientos helados pueden llegar a ser muy fuertes, así que todos mantienen sus priopas mansiones en las montañas, con bibliotecas gigantes, en las que se recopilan los estudios que desarrolla cada mansión.
+Las personas de mineflow no suelen ser muy unidas unas a otras físicamente, pues los vientos helados pueden llegar a ser muy fuertes, así que todos mantienen sus priopas mansiones en las montañas, con bibliotecas gigantes, en las que se recopilan los estudios que desarrolla cada mansión, cultivan sus propios alimentos, y son autosustentables en sus necesidades básicas, con decenas de personas viviendo en una mansión.
 
 Los científicos se comunican mediante Buhos gigantes, que pueden soportar y maniobrar en los aires turbulentos que circundan las montañas, se envían papiros que transcriben, absorbiendo el conocimiento de los libros temporalmente, pueden usar su magia para obtener información rápidamente de estos libros, así que suelen trabajar como investigadores, diseñadores y arquitectos, son muy multidisciplinarios.
 
+Usan ropas elegantes, garbanes y chalecos de pelo para el frío, 
 Valoran la individualidad y la  búsqueda del conocimiento, creen que hay algo detrás de cada cosa, un misterio tras el misterio, y tienen como misión personal desentrañar este misterio.
 
 ### Geografía
