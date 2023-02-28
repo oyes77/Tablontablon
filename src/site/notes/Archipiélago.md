@@ -22,8 +22,10 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 ## Rusted
 ### Lore
 ### Cultura
-Rusted es una sociedad basada en el comercio, 
+Rusted es una sociedad basada en el comercio, y sus ciudadanos habitan en grandes ciudades en los árboles
 ### Geografía
+
+Rusted es un grupo de islas húmedas con bosques densos en estas, llenos de verticalidad, desde capas de terreno hacia arriba y abajo, llenas de plantas venenosas y criaturas que pueden himnotizarte, 
 ### Criaturas
 ### Personajes
 #### Tablón
@@ -46,6 +48,9 @@ Los científicos se comunican mediante Buhos gigantes, que pueden soportar y man
 
 Usan ropas elegantes, garbanes y chalecos de pelo para el frío, 
 Valoran la individualidad y la  búsqueda del conocimiento, creen que hay algo detrás de cada cosa, un misterio tras el misterio, y tienen como misión personal desentrañar este misterio.
+
+ >[!tip] Info
+ > Hay un grupo de Flowerianos que son exploradores, usan trineos jalados por lobos de las nieves, y se dedican a hacer mapas de las montañas, cuevas, y territorios de mineflow, por esto es la tierra con los mapas más detallados luego de Rusted.
 
 ### Geografía
 
