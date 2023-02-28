@@ -40,7 +40,11 @@ La magia de rusted es enfocada usando música, modificando el ánimo y potenciad
 ### Lore
 ### Cultura
 
-Las personas de mineflow no suelen ser muy unidas unas a otras físicamente, pues los vientos helados pueden llegar a ser muy fuertes, así que todos mantienen su
+Las personas de mineflow no suelen ser muy unidas unas a otras físicamente, pues los vientos helados pueden llegar a ser muy fuertes, así que todos mantienen sus priopas mansiones en las montañas, con bibliotecas gigantes, en las que se recopilan los estudios que desarrolla cada mansión.
+
+Los científicos se comunican mediante Buhos gigantes, que pueden soportar y maniobrar en los aires turbulentos que circundan las montañas, se envían papiros que transcriben, absorbiendo el conocimiento de los libros temporalmente, pueden usar su magia para obtener información rápidamente de estos libros, así que suelen trabajar como investigadores, diseñadores y arquitectos, son muy multidisciplinarios.
+
+Valoran la individualidad y la  búsqueda del conocimiento, creen que hay algo detrás de cada cosa, un misterio tras el misterio, y tienen como misión personal desentrañar este misterio.
 
 ### Geografía
 
@@ -52,13 +56,18 @@ Son puentes de piedra gigantes y anchos que pasan entre montañas, se desconoce 
 
 #### Montaña Hueca
 
-La montaña hueca es un volcán congelado,
+La montaña hueca es un volcán congelado, se hacen excursiones allì, y es usado como sitio para patinaje de hielo, puest es un lugar protegido de los vientos helados.
 
 ### Criaturas
+#### Buhos gigantes
+Estos buhos fueron domesticados por las personas de mineflow, algunos se atreven a montarlos, pero la mayoría del tiempo se usan para compartir cargas de mercancía, libros, y otros productos entre casas.
+
+#### Golems
+Duras criaturas con una piel de roca, 
 ### Personajes
 ### Relaciones
 
-Tienen una relación hostil con Romephan, los Romephanos suelen intentar invadirlos, pues dicen que bajo los hielos gigantes de Mineflow está el secreto para acabar con los volcanes en su tierra.
+Tienen una relación hostil con Romephan, los Romephanos suelen intentar invadirlos, pues dicen que bajo los hielos gigantes de Mineflow está el secreto para acabar con los volcanes en su tierra y vivir en un lugar más fértil.
 
 ### Arte / Magia
 
@@ -71,7 +80,7 @@ Su habilidad se basa en el color azul, y es invocada leyendo libros y estudiando
 
 Su sociedad está unida bajo un lider religioso, al que llaman El Arenero, son nómadas en el desierto, y nunca se les encuentra asentados en el mismo lugar, usan ropas blancas, las cuales a pesar de vivir en el desierto, siempre están limpias o con muy poca arena encima.
 
-Suelen ser reservados y tienen un aire misterioso, no suelen tener demasiadas pertenencias, esto por su naturaleza nómada y minimalista, con solo lo necesario siempre encima, su vitalidad es sorprendente, pues suelen sanar muy rápido, y sobreviven en el desierto, hay teorías de cómo lo hacen, pero el misterio se mantiene para los que no son de su grupo.
+Suelen ser reservados y tienen un aire misterioso, no tienen demasiadas pertenencias, esto por su naturaleza nómada y minimalista, con solo lo necesario siempre encima, su vitalidad es sorprendente, pues suelen sanar muy rápido, y sobreviven en el desierto, hay teorías de cómo lo hacen, pero el misterio se mantiene para los que no son de su grupo.
 
 Cuando se les ha preguntado qué hacen de noche, siempre responden que tienen carpas donde duermen, pero nunca se les ha visto de noche en su territorio, y cuando están en el Torreón, aunque es más común verlos de noche, sigue siendo algo muy poco frecuente.
 
