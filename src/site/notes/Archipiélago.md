@@ -22,10 +22,25 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 ## Rusted
 ### Lore
 ### Cultura
+
 Rusted es una sociedad basada en el comercio, y sus ciudadanos habitan en grandes ciudades en los árboles
+
 ### Geografía
 
-Rusted es un grupo de islas húmedas con bosques densos en estas, llenos de verticalidad, desde capas de terreno hacia arriba y abajo, llenas de plantas venenosas y criaturas que pueden himnotizarte, 
+Rusted es un grupo de islas húmedas con bosques densos en estas, llenos de verticalidad, desde capas de terreno y montañas con techo hacia arriba, hasta capas de cuevas con hongos fluorescentes abajo, llenas de plantas venenosas y criaturas que pueden himnotizarte.
+
+#### El Aullido
+
+Un barranco donde los zorros y lobos aullan, no se han encontrado pistas referentes a por qué lo hacen solamente allí en grupos grandes, ni un ciclo de tiempo específico al que lo hacen, han pasado años donde no ocurre este fenómeno, y pueden haber semanas seguidas donde ocurre cada noche.
+
+#### El Lago De Lodo
+
+este lago es una planicie donde hay más flora baja, y el suelo es lodo con 15 metros de profundidad en las zonas más profundas, cuenta la leyenda que hay criaturas humanoides que viven bajo el lodo y cazan a los que pasan descuidados por encima de sus tierras.
+
+#### Murallas De Piedra
+
+Son ruinas de lo que parecen ser pilares de una antigua muralla, sujeta por cadenas enormes al suelo, los pilares en si mismos varían de altura, pero no se sabe con certeza la altura real, pues están enterradas hasta grandes profundidades, se han encontrado estos pilares y cadenas dentro de cuevas por exploradores.
+
 ### Criaturas
 ### Personajes
 #### Tablón
@@ -46,10 +61,12 @@ Las personas de mineflow no suelen ser muy unidas unas a otras físicamente, pue
 
 Los científicos se comunican mediante Buhos gigantes, que pueden soportar y maniobrar en los aires turbulentos que circundan las montañas, se envían papiros que transcriben, absorbiendo el conocimiento de los libros temporalmente, pueden usar su magia para obtener información rápidamente de estos libros, así que suelen trabajar como investigadores, diseñadores y arquitectos, son muy multidisciplinarios.
 
-Usan ropas elegantes, garbanes y chalecos de pelo para el frío, 
+Usan ropas elegantes, garbanes y chalecos de pelo para el frío,
+
 Valoran la individualidad y la  búsqueda del conocimiento, creen que hay algo detrás de cada cosa, un misterio tras el misterio, y tienen como misión personal desentrañar este misterio.
 
  >[!tip] Info
+
  > Hay un grupo de Flowerianos que son exploradores, usan trineos jalados por lobos de las nieves, y se dedican a hacer mapas de las montañas, cuevas, y territorios de mineflow, por esto es la tierra con los mapas más detallados luego de Rusted.
 
 ### Geografía
@@ -65,11 +82,14 @@ Son puentes de piedra gigantes y anchos que pasan entre montañas, se desconoce 
 La montaña hueca es un volcán congelado, se hacen excursiones allì, y es usado como sitio para patinaje de hielo, puest es un lugar protegido de los vientos helados.
 
 ### Criaturas
-#### Buhos gigantes
+#### Buhos Gigantes
+
 Estos buhos fueron domesticados por las personas de mineflow, algunos se atreven a montarlos, pero la mayoría del tiempo se usan para compartir cargas de mercancía, libros, y otros productos entre casas.
 
 #### Golems
-Duras criaturas con una piel de roca, 
+
+Duras criaturas con una piel de roca,
+
 ### Personajes
 ### Relaciones
 
