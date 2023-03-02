@@ -25,7 +25,8 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 
 Rusted es una sociedad basada en el comercio y en la familia, y sus ciudadanos habitan en grandes ciudades en los árboles, Cuidan la naturaleza y creen que sus antepasados viven en los hongos y ciertas plantas fluorescentes. Cada familia suele dedicarse a algo en específico relacionado al comercio y la producción de materiales para vender, como alimentos, pieles y cueros, decoración, maderas, metales y minerales, y telas.
 
-Suelen usar ropa tejida y amplia, botas altas, sombreros y pañuelos para facilitar su movimiento y protegerse de la selva hostil.
+Suelen usar ropa tejida y amplia, botas altas, sombreros y pañuelos para facilitar su movimiento y protegerse de la selva hostil. 
+Historias cuentan que cuando Rusted entabló relaciones comerciales con Romephan, se ganaron su respeto balanceándose con elegancia en las lianas, a sabiendas que los Romephanos usaban su magia por medio del arte físico,
 
 ### Geografía
 
