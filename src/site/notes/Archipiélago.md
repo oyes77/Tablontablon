@@ -25,6 +25,8 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 
 Rusted es una sociedad basada en el comercio y en la familia, y sus ciudadanos habitan en grandes ciudades en los árboles, Cuidan la naturaleza y creen que sus antepasados viven en los hongos y ciertas plantas fluorescentes. Cada familia suele dedicarse a algo en específico relacionado al comercio y la producción de materiales para vender, como alimentos, pieles y cueros, decoración, maderas, metales y minerales, y telas.
 
+Suelen usar ropa tejida y amplia, botas altas, sombreros y pañuelos para facilitar su movimiento y protegerse de la selva hostil.
+
 ### Geografía
 
 Rusted es un grupo de islas húmedas con bosques densos en estas, llenos de verticalidad, desde capas de terreno y montañas con techo hacia arriba, hasta capas de cuevas con hongos fluorescentes abajo, llenas de plantas venenosas y criaturas que pueden himnotizarte.
@@ -41,6 +43,13 @@ este lago es una planicie donde hay más flora baja, y el suelo es lodo con 15 m
 
 Son ruinas de lo que parecen ser pilares de una antigua muralla, sujeta por cadenas enormes al suelo, los pilares en si mismos varían de altura, pero no se sabe con certeza la altura real, pues están enterradas hasta grandes profundidades, se han encontrado estos pilares y cadenas dentro de cuevas por exploradores.
 
+#### Bosques neblinos
+
+Son bosques tan húmedos que se concentran nubes en estos, creando una niebla que no deja ver más allá de unos cuantos metros al rededor, suelen estar llenos de animales que no dependen de la vista como sentido primario.
+
+#### Cuevas fluorescentes
+
+Estas cuevas tienen un hongo en la piedra que las hacen fluorescentes al tacto y a la propia luz, algunas criaturas usan esta luz como señal para cazar a quienes entran a las minas, 
 ### Criaturas
 ### Personajes
 #### Tablón
