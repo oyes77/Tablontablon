@@ -12,6 +12,8 @@ dg-publish: true
 
 [Cut out people - VIShopper](https://www.vishopper.com/cut-out-people/)
 
+[Visual library | Character design references](https://characterdesignreferences.com/visual-library)
+
 [Fashion History Timeline | A hub for fashion research](https://fashionhistory.fitnyc.edu/)
 
 [[Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/)
