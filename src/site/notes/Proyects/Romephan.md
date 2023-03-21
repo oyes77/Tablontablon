@@ -5,11 +5,9 @@
 
 # Romephan
 
-## Romephan
+## Lore
 
-### Lore
-
-### Cultura
+## Cultura
 
 Su sociedad está conformada por un conjunto de clanes, 40 aproximadamente, pero suelen separarse o unirse con frecuencia, formando alianzas, o rompiendo lazos. los clanes crean sus aldeas y ciudades en piedra, además, el lider de cada clan crea su propia variación de la magia, con movimientos del cuerpo.
 
@@ -19,54 +17,54 @@ La vestimenta de Romephan es más bien poca, por el calor constante las personas
 
 Las labores que más hacen también dependen de sus clanes, algunos ejemplos son: Forjar en los volcanes con su magia, combatir a las casas de Minewflow para intentar conquistarlas, proteger de criaturas a personas importantes de otros territorios, hacer actos de teatro y danza con magia.
 
-### Geografía
+## Geografía
 
 Las islas de romephan están vivas de actividad volcánica, el suelo es de piedra caliente o praderas con muy poca vegetación, donde se asentan algunas tribus,
 
-#### Las Minas
+### Las Minas
 
 En las montañas y volcanes hay túneles que se han extendido como minas en el pasado, pero ahora están abandonadas, pues es muy fácil picar en el lugar equivocado, y encontrarse con una saliente de magma, además de los constantes derrumbes, han hecho que la actividad minera cesara en Romephan
 
-#### Volcán Del Rugido
+### Volcán Del Rugido
 
 Este es un Volcán gigante, que ruge de vez en cuando, aunque se dice que nunca ha tenido actividad más allá de los sonidos guturales y fuertes que produce, haciendo temblar la tierra.
 
-#### Volcán Terremoto
+### Volcán Terremoto
 
 Este es un volcan más pequeño que el volcán del rugido, el cual suele mover la tierra cuando tiene actividad, a tal potencia que puede romper los huesos de los habitantes de Romephan.
 
-#### Volcán En Aro
+### Volcán En Aro
 
 Este volcán está abierto a la entrada mediante túneles, pareciendo un sistema de canales, pero con lava en el lugar del agua, aquí se suelen forjar las armas de los clanes.
 
-#### Mirador Ardiente
+### Mirador Ardiente
 
 Este mirador es una formación rocosa en la punta del Volcán del Rugido, desde donde se puede ver la lava del volcán alzarse cuando ruge. Es una ubicación común para festejos y eventos de diferentes clanes.
 
-#### El Claro
+### El Claro
 
 Así se le llama a las zonas de la isla más cercanas al mar, donde las rocas están frías, y el humo y ceniza no llegan. aquí se pueden encontrar praderas, donde algunos animales marinos descansan.
 
-#### Las Chimeneas
+### Las Chimeneas
 
 son un grupo de volcanes al rededor de la isla, que expulsan humo y ceniza, cubriendo casi todo el cielo de la isla.
 
  > [!tip] Info
  > La ceniza es removida en la Temporada de vientos, donde vientos fuertes atacan todas las islas.
 
-#### Rios De Lava
+### Rios De Lava
 
 Su nombre es se explica a si mismo, son rios de lava tranquila que suelen fluir desde minas o cuevas, y han formado caminos entre la piedra asentada.
 
-### Criaturas
+## Criaturas
 
-#### Golem Rojo
+### Golem Rojo
 
-### Personajes
+## Personajes
 
-### Relaciones
+## Relaciones
 
-### Arte / Magia
+## Arte / Magia
 
 Cada una de estos clanes desarrolla su propia arte, basada en el color rojo, para usar esta magia los clanes usan diferentes formas de movimientos con el cuerpo, como artes de combate, danzas, y gimnasia.
 
