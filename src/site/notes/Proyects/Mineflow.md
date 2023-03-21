@@ -30,8 +30,7 @@ Usan ropas elegantes, garbanes y chalecos de pelo para el frío, la mayoría usa
 Los científicos se comunican mediante Buhos gigantes, que pueden maniobrar en los aires turbulentos que circundan las montañas, se envían papiros transcritos, absorbiendo el conocimiento de estos libros temporalmente pueden usar su magia para obtener información rápidamente, así que suelen trabajar como investigadores, diseñadores y arquitectos, son muy multidisciplinarios.
 
  >[!tip] Info
-
- > Hay un grupo de Flowerianos que son exploradores, usan trineos jalados por lobos de las nieves, y se dedican a hacer mapas de las montañas, cuevas, y territorios de mineflow, por esto es la tierra con los mapas más detallados luego de Rusted.
+ > Hay un grupo de Flowerianos que rechazan el estilo de vida de la mayoría, son exploradores, usan trineos jalados por lobos de las nieves, y se dedican a hacer mapas de las montañas, cuevas, y territorios de mineflow, por esto es la tierra con los mapas más detallados luego de Rusted.
 
 ## Geografía
 
