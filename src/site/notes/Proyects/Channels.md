@@ -40,7 +40,7 @@ Algunos pocos Channeranos se dedican al comercio de piedras preciosas, sin embar
 
 ## Geografía
 
-Las islas que conforman a Channels son un desierto total, donde solo existe la arena y formaciones rocosas, la poca fauna animal que se conoce está conformada por animales pequeños, y según los propios habitantes de la región, dioses gigantes bajo la arena.
+Las islas que conforman a Channels son un desierto total, donde solo existe la arena y formaciones rocosas, la poca fauna animal que se conoce está conformada por animales pequeños, y según los propios habitantes de la región, por dioses gigantes bajo la arena.
 
 ### Valle De Los Huesos
 
