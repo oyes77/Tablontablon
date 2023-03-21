@@ -5,17 +5,23 @@
 
 # Archipiélago
 
-[[Proyects/Introducción\|Introducción]]
+> [!help] Explicación de Lectura
+> Para entender este documento se tienen que tener varias cosas en cuenta, este no es el texto final que se le presentará a los usuarios, solo es la construcción del mundo, por lo que, para diferenciar qué es lo que los usuarios conocen, y la explicación de algunos fenómenos, personajes, y demás transfondo que es un misterio para los participantes del evento, habrán elementos como en el que estás leyendo ahora mismo, variarán dependiendo del tipo de información que se presente.
+> 
+ >>[!tip] Info
+ >> Este será usado cuando haya información que el usuario no debe conocer sobre cualquier tema.
+ >
+ > >[!warning] Alerta
+ >> Este será usado cuando haya información aclaratoria e importante sobre algo en específico.
 
-[[Proyects/Rusted\|Rusted]]
+El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el sistema de magia se basa en los conceptos del arte, son representados con colores, este sistema de magia está imbuido en cada territorio, y en consecuencia, en sus habitantes, moldeando su forma, relaciones, y cultura.
 
-[[Proyects/Mineflow\|Mineflow]]
+![](https://i.imgur.com/je1p7ym.png)
 
-[[Channels\|Channels]]
-
-[[Proyects/Romephan\|Romephan]]
-
-[[Proyects/Torreón\|Torreón]]
+> [!example] Ubicaciones
+>
+| [[Proyects/Mineflow\|Mineflow]] | [[Proyects/Romephan\|Romephan]] | [[Channels\|Channels]] | [[Proyects/Rusted\|Rusted]] | [[Proyects/Torreón\|Torreón]] |
+>  | ------------ | -------------------------- | ---------- | -----| -- |
 
 # Sistema
 
