@@ -19,9 +19,7 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 ![](https://i.imgur.com/je1p7ym.png)
 
 > [!example] Ubicaciones
-> | [[Proyects/Mineflow\|Mineflow]] | [[Proyects/Romephan\|Romephan]] | [[Channels\|Channels]] | [[Proyects/Rusted\|Rusted]] | [[Proyects/Torreón\|Torreón]] |
-
-
+> | [[Proyects/Mineflow\|Mineflow]] | [[Proyects/Romephan\|Romephan]] | [[Proyects/Channels\|Channels]] | [[Proyects/Rusted\|Rusted]] | [[Proyects/Torreón\|Torreón]] |
 
 - - - 
 
@@ -29,8 +27,8 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 
 El sistema va a ser por rol narrativo, la magia puede usarse en cualquier momento siempre que se cumpla su requisito de invocación,
 
-[[Creación De Personajes\|Creación De Personajes]]
+[[Proyects/Creación De Personajes\|Creación De Personajes]]
 
 [[Proyects/Magia\|Magia]]
 
-[[Combate\|Combate]]
+[[Proyects/Combate\|Combate]]
