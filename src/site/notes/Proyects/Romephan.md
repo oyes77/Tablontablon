@@ -29,9 +29,9 @@ La vestimenta de Romephan es más bien poca, mientras estén en su tierra usan p
 
 Las labores que más hacen también dependen de sus clanes, algunos ejemplos son: Forjar en los volcanes con su magia, combatir a las casas de Minewflow para intentar conquistarlas, proteger de criaturas a personas importantes de otros territorios, hacer actos de teatro y danza con magia.
 
-## Geografía
+## Territorio
 
-Las islas de romephan están vivas de actividad volcánica, el suelo es de piedra caliente o praderas con muy poca vegetación, donde se asentan algunas tribus,
+Las islas de romephan están vivas de actividad volcánica, calor y ceniza, el suelo es de piedra caliente o praderas con muy poca vegetación, donde se asentan algunas tribus, mientras que las más valientes viven en los propios volcanes.
 
 ### Las Minas
 
