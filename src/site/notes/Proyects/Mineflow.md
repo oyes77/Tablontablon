@@ -63,6 +63,6 @@ Tienen una relación hostil con Romephan, los Romephanos suelen intentar invadir
 
 ## Arte / Magia
 
-Su habilidad se basa en el color azul, y es invocada leyendo libros y estudiando. Su magia les permite intuir con certeza ciertas cosas sobre criaturas, plantas, fenómenos, y demás. son investigadores natos debido a esto. suelen usarla para descubrir más sobre el mundo, y desentrañar los secretos de este.
+Su magia se basa en el color azul, y es invocada leyendo libros y estudiando. Su magia les permite intuir con certeza ciertas cosas sobre criaturas, plantas, fenómenos, y demás. son investigadores natos debido a esto. suelen usarla para descubrir más sobre el mundo, y desentrañar los secretos de este.
 
 ---
