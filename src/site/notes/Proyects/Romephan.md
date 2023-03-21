@@ -78,7 +78,7 @@ Su nombre es se explica a si mismo, son rios de lava tranquila que suelen fluir 
 
 ## Arte / Magia
 
-Cada una de estos clanes desarrolla su propia arte, basada en el color rojo, para usar esta magia los clanes usan diferentes formas de movimientos con el cuerpo, como artes de combate, danzas, y gimnasia.
+Cada una de estos clanes desarrolla su propia magia, basada en el color rojo, para usar esta magia los clanes usan diferentes formas de movimientos con el cuerpo, como artes de combate, danzas, y gimnasia.
 
 Esta magia tiende a reconstruir, tomar elementos de la naturaleza, unirlos y transformarlos en algo nuevo, a diferencia de Channels, en vez de transformar algo a su forma más simple, usa los materiales simples para crear cosa más complejas.
 
