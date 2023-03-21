@@ -29,17 +29,17 @@ Suelen usar ropa tejida y amplia, como camisas y pantalones, también botas alta
 
 Cada familia suele dedicarse a algo en específico relacionado al comercio y la producción de materiales para vender, como alimentos, pieles y cueros, decoración, maderas, metales y minerales, y telas.
 
-## Geografía
+## Territorio
 
-Rusted es un grupo de islas húmedas con bosques densos en estas, llenos de verticalidad, desde capas de terreno y montañas con techo hacia arriba, hasta capas de cuevas con hongos fluorescentes abajo, llenas de plantas venenosas y criaturas que pueden himnotizarte.
+Rusted es un grupo de islas húmedas con bosques densos, varias capas verticales de terreno y biomas diferentes, como montañas con techo e incontables miradores, cuevas con hongos fluorescentes abajo llenas de plantas venenosas y criaturas que pueden himnotizarte.
 
 ### El Aullido
 
-Un barranco donde los zorros y lobos aullan, no se han encontrado pistas referentes a por qué lo hacen solamente allí en grupos grandes, ni un ciclo de tiempo específico al que lo hacen, han pasado años donde no ocurre este fenómeno, y pueden haber semanas seguidas donde ocurre cada noche.
+Un barranco donde los zorros y lobos aullan, no se han encontrado pistas referentes a por qué lo hacen solamente allí en grupos grandes, ni un ciclo de tiempo específico al que lo hacen, han pasado años donde no ocurre este fenómeno, pero pueden haber semanas seguidas donde ocurre cada noche, hay mitos variados sobre los ancestros respecto a esto.
 
 ### El Lago De Lodo
 
-este lago es una planicie donde hay más flora baja, y el suelo es lodo con 15 metros de profundidad en las zonas más profundas, cuenta la leyenda que hay criaturas humanoides que viven bajo el lodo y cazan a los que pasan descuidados por encima de sus tierras.
+este lago es una planicie donde la flora no crece tanto, y el suelo es lodo con 15 metros de profundidad en las zonas más profundas, cuenta la leyenda que hay criaturas humanoides que viven bajo el lodo y cazan a los que pasan descuidados por encima de su territorio.
 
 ### Murallas De Piedra
 
