@@ -19,9 +19,9 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 ![](https://i.imgur.com/je1p7ym.png)
 
 > [!example] Ubicaciones
->
-| [[Proyects/Mineflow\|Mineflow]] | [[Proyects/Romephan\|Romephan]] | [[Channels\|Channels]] | [[Proyects/Rusted\|Rusted]] | [[Proyects/Torreón\|Torreón]] |
->  | ------------ | -------------------------- | ---------- | -----| -- |
+> | [[Proyects/Mineflow\|Mineflow]] | [[Proyects/Romephan\|Romephan]] | [[Channels\|Channels]] | [[Proyects/Rusted\|Rusted]] | [[Proyects/Torreón\|Torreón]] |
+
+
 
 - - - 
 
