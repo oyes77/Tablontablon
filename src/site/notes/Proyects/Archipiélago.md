@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/archipielago/","title":"Archipiélago","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/proyects/archipielago/","title":"Archipiélago"}
 ---
 
 
