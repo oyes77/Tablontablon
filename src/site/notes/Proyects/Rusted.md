@@ -9,7 +9,17 @@
 
 ## Cultura
 
+### Jerarquía
+
 Rusted es una sociedad basada en el comercio y en la familia, y sus ciudadanos habitan en grandes ciudades en los árboles, Cuidan la naturaleza y creen que sus antepasados viven en los hongos y ciertas plantas fluorescentes. Cada familia suele dedicarse a algo en específico relacionado al comercio y la producción de materiales para vender, como alimentos, pieles y cueros, decoración, maderas, metales y minerales, y telas.
+
+### Personalidad
+
+### Valores
+
+### Ropas
+
+### Profesiones
 
 Suelen usar ropa tejida y amplia, botas altas, sombreros y pañuelos para facilitar su movimiento y protegerse de la selva hostil. 
 
