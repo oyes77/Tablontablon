@@ -65,6 +65,6 @@ tablón, o Tablita para algunos, es el lider actual de la casa rusted en el Torr
 
 ## Arte / Magia
 
-La magia de rusted es enfocada usando música, modificando el ánimo y potenciado las emociones que las personas pueden sentir, así mismo, pueden cambiar levemente el comportamiento de criaturas y plantas a su favor.
+La magia de rusted es enfocada usando música, los sonidos de las flautas y las cuerdas les recuerdan a sus antepasados, tocan tonadas de sus familias, modificando el ánimo y potenciado las emociones que las personas pueden sentir, así mismo, pueden cambiar levemente el comportamiento de criaturas y plantas a su favor.
 
 ---
