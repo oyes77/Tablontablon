@@ -15,6 +15,18 @@ La magia está limitada a una de 2 cosas: cosas vivas o muertas. Romephan y Chan
 
 ## Usos Simples De la Magia:
 
+Modificaciones parciales de la realidad que puedan ser logradas sin el uso de magia por el individuo
+
+### Ejemplos:
+
 ## Usos Exigentes De la Magia:
 
-## Usos Dañinos De la Magia:
+Modificaciones parciales de la realidad que requieran el uso de magia o no sean posibles para el individuo
+
+### Ejemplos:
+
+## Usos Dañinos O Peligrosos De la Magia:
+
+Modificaciones significativas de la realidad que requieran el uso de magia o no sean posibles para el individuo
+
+### Ejemplos:
