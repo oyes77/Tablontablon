@@ -36,7 +36,9 @@ Usan ropas blancas, las cuales a pesar de vivir en el desierto, siempre están l
 
 ### Profesiones
 
-Algunos pocos Channeranos se dedican al comercio de piedras preciosas, sin embargo estos son los que no viven en el territorio Channels, y han pasado casi toda su vida en el exterior.
+El labor de los Channeranos es transfromar la arena, crean patrones de formas geométricas con esta, separan los diferentes minerales en la arena para hacer pequeños bloques, transfroman el hueso para hacer estatuillas, y le dan forma a la piedra, entre otros.
+
+Algunos pocos Channeranos se dedican al comercio de piedras preciosas, sin embargo estos son los que no viven en el territorio Channels, y han pasado casi toda su vida en el exterior. 
 
 ## Territorio
 
@@ -113,8 +115,6 @@ Ningún otro territorio se ha asentado en el desierto de Chanels, pues los que s
 
 ## Arte / Magia
 
-Su magia se basa en el color amarillo, y creen en la Paz que les otorga su religión de las dunas, por lo que para invocar su magia debem de rezar. Al usar la magia del arte, suelen convertir cosas complejas, en sus versiones más simples, como formas geométricas, simplificar los colores, o transformar algo en sus materiales de construcción.
-
-La forma en la que desarrollan su magia, es transfromando la arena, crean patrones de formas geométricas con esta, separan los diferentes minerales en la arena para hacer pequeños bloques, transfroman el hueso para hacer estatuillas, y le dan forma a la piedra, entre otros.
+Su magia se activa al rezar, pues creen en la Paz que les otorga su religión de las dunas. Al usar la magia del arte, convierten lo complejo en su versión más simple, como formas geométricas, simplificar los colores, o transformar algo en sus materiales de construcción.
 
 ---
