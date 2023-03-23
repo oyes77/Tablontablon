@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/templates/dlnt/","title":"DLNT","tags":["DailyNote"],"created":"2023-03-22T10:31:00.788-05:00","updated":"2023-03-23T01:45:16.395-05:00"}
+{"dg-publish":true,"permalink":"/templates/dlnt/","tags":["DailyNote"],"created":"2023-03-22T10:31:00.788-05:00","updated":"2023-03-23T15:00:09.195-05:00"}
 ---
 
 
-# DLNT
 
 ## Pensamientos Del Día
 
