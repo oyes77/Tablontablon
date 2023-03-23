@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/mineflow/","title":"Mineflow"}
+{"dg-publish":true,"permalink":"/proyects/mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-03-21T20:20:09.842-05:00"}
 ---
 
 
@@ -59,7 +59,15 @@ Duras criaturas con una piel de roca,
 
 ## Relaciones
 
+### [[Proyects/Channels\|Channels]]
+
+### [[Proyects/Rusted\|Rusted]]
+
+### [[Proyects/Romephan\|Romephan]]
+
 Tienen una relación hostil con Romephan, los Romephanos suelen intentar invadirlos, pues dicen que bajo los hielos gigantes de Mineflow está el secreto para acabar con los volcanes en su tierra y vivir en un lugar más fértil.
+
+### [[Proyects/Torreón\|Torreón]]
 
 ## Arte / Magia
 
