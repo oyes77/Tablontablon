@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","created":"2023-03-14T13:36:47.684-05:00","updated":"2023-03-23T14:44:04.422-05:00"}
+{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","created":"2023-03-14T13:36:47.684-05:00","updated":"2023-03-23T14:58:41.251-05:00"}
 ---
 
 
@@ -10,7 +10,8 @@ Esta es la lista de cursos que estoy cursando/matriculé personalmente en este m
 ## Cursos De la Carrera
 
 ### Estética De la Imagen
-
+#### Maestr@:
+[[People/ERNESTO CORREA HERRERA\|ERNESTO CORREA HERRERA]]
 #### Objetivo General:
 
 Que el estudiante conozca las principales manifestaciones estéticas que históricamente se han dado en las representaciones visuales de la cultura occidental, para entrar en el mundo hermenéutico de la imagen y hallar en él, paradigmas que le ayuden en la formación de su estilo a la hora del ejercicio fotográfico. Además, contribuir en la formación de un sólido bagaje enciclopédico y de erudición, en el tema de la imagen fija. 
