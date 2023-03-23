@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/rusted/","title":"Rusted"}
+{"dg-publish":true,"permalink":"/proyects/rusted/","title":"Rusted","created":"2023-03-21T13:19:35.903-05:00","updated":"2023-03-21T20:20:07.200-05:00"}
 ---
 
 
@@ -62,6 +62,16 @@ Estas cuevas tienen un hongo en la piedra que las hacen fluorescentes al tacto y
 tablón, o Tablita para algunos, es el lider actual de la casa rusted en el Torreón,
 
 ## Relaciones
+
+### [[Proyects/Channels\|Channels]]
+
+### [[Proyects/Mineflow\|Mineflow]]
+
+### [[Proyects/Romephan\|Romephan]]
+
+Han acogido a algunos Channels, su religión les parece curiosa, pues, ¿cómo pueden haber dioses, ellos tendrán sus propios ancestros del desierto, a los que no cuidaron bien y ahora les temen? les dan un poco de pena, pues los ven como 
+
+### [[Proyects/Torreón\|Torreón]]
 
 ## Arte / Magia
 
