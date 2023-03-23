@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/channels/","title":"Channels"}
+{"dg-publish":true,"permalink":"/proyects/channels/","title":"Channels","created":"2023-03-21T13:19:35.909-05:00","updated":"2023-03-21T20:20:04.482-05:00"}
 ---
 
 
@@ -102,9 +102,17 @@ Estos son, según los habitantes de Channel, criaturas gigantes que pueden contr
 
 ## Relaciones
 
-Ven al Torreón como una oportunidad de que sus jóvenes conozcan los defectos de los otros territorios, y se hagan amigos de otros para convertirlos a su religión, pues su labor final es traer la paz absoluta a todos los territorios bajo esta misma.
+### [[Proyects/Mineflow\|Mineflow]]
 
-Los otros territorios no los ven como amenaza, suelen comerciar con Rusted huesos de animales del desierto, que suelen ser mucho más densos, a la vez que maleables, que los de los otros territorios.
+### [[Proyects/Romephan\|Romephan]]
+
+### [[Proyects/Rusted\|Rusted]]
+
+Suelen comerciar con Rusted huesos de animales del desierto, que suelen ser mucho más densos, a la vez que maleables, que los de los otros territorios.
+
+### [[Proyects/Torreón\|Torreón]]
+
+Ven al Torreón como una oportunidad de que sus jóvenes conozcan los defectos de los otros territorios, y se hagan amigos de otros para convertirlos a su religión, pues su labor final es traer la paz absoluta a todos los territorios bajo esta misma.
 
  > [!tip] Info
  > Esto gracias a el hongo. adicionalmente rusted lo usa porque han notado que asusta a ciertas criaturas peligrosas en el bosque.
