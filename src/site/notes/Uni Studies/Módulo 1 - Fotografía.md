@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","tags":["Universidad,"],"created":"2023-03-14T13:36:47.684-05:00","updated":"2023-03-23T15:06:15.525-05:00"}
+{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","tags":["Universidad,"],"created":"2023-03-14T13:36:47.684-05:00","updated":"2023-03-23T15:25:32.381-05:00"}
 ---
 
 
@@ -10,8 +10,15 @@ Esta es la lista de cursos que estoy cursando/matriculé personalmente en este m
 ## Cursos De la Carrera
 
 ### Estética De la Imagen
+
 #### Maestr@:
+
 [[People/ERNESTO CORREA HERRERA\|ERNESTO CORREA HERRERA]]
+
+#### Horario
+
+[[Horario/Estetica/(Every W) ESTETICA\|(Every W) ESTETICA]]
+
 #### Objetivo General:
 
 Que el estudiante conozca las principales manifestaciones estéticas que históricamente se han dado en las representaciones visuales de la cultura occidental, para entrar en el mundo hermenéutico de la imagen y hallar en él, paradigmas que le ayuden en la formación de su estilo a la hora del ejercicio fotográfico. Además, contribuir en la formación de un sólido bagaje enciclopédico y de erudición, en el tema de la imagen fija. 
@@ -25,7 +32,21 @@ Que el estudiante conozca las principales manifestaciones estéticas que histór
 
 ### Formación Ciudadana Y Constitucional
 
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/formacion ciudadana y constitucional/(Every R) FORMACIÓN CIUDADANA Y CONSTITUCIONAL\|(Every R) FORMACIÓN CIUDADANA Y CONSTITUCIONAL]]
+
+#### Objetivo General:
+
 ### Historia Del Siglo Xix Y Xx
+
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/historia del siglo xix y xx/(Every M) HISTORIA DEL SIGLO XIX Y XX\|(Every M) HISTORIA DEL SIGLO XIX Y XX]]
 
 #### Objetivo General:
 
@@ -39,7 +60,19 @@ Conocer la Historia de la fotografía en relación con las practicas sociales de
 
 ### Imagen Fija Fotografía
 
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/imagen fija fotografia/(Every W) IMAGEN FIJA FOTOGRAFIA\|(Every W) IMAGEN FIJA FOTOGRAFIA]] | [[Horario/imagen fija fotografia/(Every R) IMAGEN FIJA FOTOGRAFIA\|(Every R) IMAGEN FIJA FOTOGRAFIA]] | [[Horario/imagen fija fotografia/(Every F) IMAGEN FIJA FOTOGRAFIA\|(Every F) IMAGEN FIJA FOTOGRAFIA]]
+
 ### Imagen Grafica Y Textual
+
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/imagen grafica y textual/(Every T) IMAGEN GRAFICA Y TEXTUAL\|(Every T) IMAGEN GRAFICA Y TEXTUAL]] | [[Horario/imagen grafica y textual/(Every F) IMAGEN GRAFICA Y TEXTUAL\|(Every F) IMAGEN GRAFICA Y TEXTUAL]]
 
 #### OBJETIVO GENERAL:
 
@@ -57,6 +90,12 @@ Desarrollar pensamiento crítico y analítico acerca de conceptos como imagen, n
 
 ### Informatica
 
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/informatica/(Every M) INFORMATICA\|(Every M) INFORMATICA]] | [[Horario/informatica/(Every T) INFORMATICA\|(Every T) INFORMATICA]]
+
 #### OBJETIVO GENERAL:
 
 Brindar elementos reflexivos y críticos del papel que han cumplido la ciencia, el arte, la técnica yla cultura en el desarrollo filogenético y ontogenético del ser humano, especialmente en la posmodernidad, para lograr una comprensión de la complejidad del pensamiento posmoderno y de la sociedad actual.
@@ -70,6 +109,12 @@ Brindar elementos reflexivos y críticos del papel que han cumplido la ciencia, 
 - Pensar la imagen gráfica como un constructo histórico
 
 ### Psicología De la Percepción
+
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/psicologia de la percepcion/(Every W) PSICOLOGIA DE LA PERCEPCION\|(Every W) PSICOLOGIA DE LA PERCEPCION]]
 
 #### Objetivo General:
 
@@ -87,6 +132,12 @@ Identificarlos componentes que intervienen y determinan la dinámica del Proceso
 
 ### Semiótica Y Expresión Visual
 
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/semiotica y expresion visual/(Every T) SEMIÓTICA Y EXPRESIÓN VISUAL\|(Every T) SEMIÓTICA Y EXPRESIÓN VISUAL]]
+
 #### Objetivo General:
 
 Formar a los estudiantes en el manejo de habilidades en lectura crítica del signo, en relación con el contexto histórico, sus interpretaciones, análisis y representaciones sociales y culturales. 
@@ -98,6 +149,12 @@ Formar a los estudiantes en el manejo de habilidades en lectura crítica del sig
 - Elaborar una construcción semiótica que evidencie el grado de profundidad y asimilación del concepto de signo, símbolo, significado, significante, sujeto –objeto, representante - interpretante
 
 ### Video Arte
+
+#### Maestr@:
+
+#### Horario:
+
+[[Horario/videoarte/(Every F) VIDEO ARTE\|(Every F) VIDEO ARTE]]
 
 #### Objetivo General:
 
