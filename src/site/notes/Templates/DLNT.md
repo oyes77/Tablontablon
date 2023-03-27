@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/templates/dlnt/","tags":["DailyNote"],"created":"2023-03-22T10:31:00.788-05:00","updated":"2023-03-23T15:00:09.195-05:00"}
+{"dg-publish":true,"permalink":"/templates/dlnt/","title":"DLNT","created":"2023-03-22T10:31:00.788-05:00","updated":"2023-03-23T22:33:20.893-05:00"}
 ---
-
 
 
 ## Pensamientos Del Día
@@ -33,4 +32,4 @@ aquí va la basura que revisarás en unos días… probablemente
 
 - - - 
 
-<< [[<% tp.date.now("ddd-DD-MMMM-YYYY", -1) %>\|<% tp.date.now("ddd-DD-MMMM-YYYY", -1) %>]] | [[<% tp.date.now("ddd-DD-MMMM-YYYY", 1) %>\|<% tp.date.now("ddd-DD-MMMM-YYYY", 1) %>]] >>
+<< [[<% tp.date.now("ddd-DD-MMMM-YYYY", -1) %>\|Dia anterior]] | [[<% tp.date.now("ddd-DD-MMMM-YYYY", 1) %>\|Dia siguiente]] >>
