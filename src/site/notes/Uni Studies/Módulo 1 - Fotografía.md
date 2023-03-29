@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","tags":["Universidad,"],"created":"2023-03-14T13:36:47.684-05:00","updated":"2023-03-23T15:25:32.381-05:00"}
+{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","tags":["Universidad,"],"created":"2023-03-14T13:36:47.684-05:00","updated":"2023-03-29T15:02:34.257-05:00"}
 ---
 
 
@@ -29,6 +29,7 @@ Que el estudiante conozca las principales manifestaciones estéticas que histór
 - Conocer los movimientos más significativos en la historia de la pintura y relacionarlos con el lenguaje de la fotografía, estableciendo paradigmas útiles a la realización fotográfica. 
 - Intentar una hermenéutica de las obras pictóricas para el goce con la imagen, adquiriendo, de paso, referentes que ayuden en la conformación del estilo personal.
 - VER, gustar y sentir la imagen. Y, con referencia especial a la fotografía, develar su uso como lenguaje básico de toda Comunicación visual. 
+el gesto y la palabra libro 
 
 ### Formación Ciudadana Y Constitucional
 
@@ -166,3 +167,6 @@ Acercar a lxs estudiantes al arte cinematográfico, a través de la experimentac
 - Sensibilizar a los estudiantes ante la materia prima de la edición: El tiempo
 - Experimentar el uso de la continuidad entre imágenes en movimiento. Afrontar la investigación/creación como método de realización audiovisual. 
 - Realizar ejercicios prácticos que permitan la aplicación de los conocimientos adquiridos y el desarrollo de las capacidades artísticas y expresivas de lxs estudiantes.
+
+### Eventos
+[[ExpoCAM 1\|ExpoCAM 1]]
