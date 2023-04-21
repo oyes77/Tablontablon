@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/romephan/","title":"Romephan","created":"2023-03-21T13:19:35.911-05:00","updated":"2023-03-21T20:20:08.446-05:00"}
+{"dg-publish":true,"permalink":"/proyects/romephan/","title":"Romephan","created":"2023-03-21T13:19:35.911-05:00","updated":"2023-04-01T22:29:53.976-05:00"}
 ---
 
 
@@ -78,11 +78,15 @@ Su nombre es se explica a si mismo, son rios de lava tranquila que suelen fluir 
 
 ### [[Proyects/Mineflow\|Mineflow]]
 
-Sienten pena por los Mineflowneos, pues inevitablemente serán conquistados por ellos para recuperar el secreto que enfriará sus tierras, y las hará fértiles de nuevo.
+Sienten Respeto por los Mineflowneos, han podido pues inevitablemente serán conquistados por ellos para recuperar el secreto que enfriará sus tierras, y las hará fértiles de nuevo.
 
 ### [[Proyects/Channels\|Channels]]
 
+Han tenido poco o nada de contacto, y no conocen demasiado sobre su cultura, algunos clanes decoran sus pueblos con estatuillas y artesanías channels.
+
 ### [[Proyects/Rusted\|Rusted]]
+
+ Han entablado relaciones de comercio antes, algunos clanes son indiferentes a los Rustianos, otros se llevan bien, y unos pocos son escépticos ante las relaciones exteriores.
 
 ### [[Proyects/Torreón\|Torreón]]
 
