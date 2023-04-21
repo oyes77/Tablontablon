@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-03-21T20:20:09.842-05:00"}
+{"dg-publish":true,"permalink":"/proyects/mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-04-01T22:32:28.548-05:00"}
 ---
 
 
@@ -45,6 +45,18 @@ Son puentes de piedra gigantes y anchos que pasan entre montañas, se desconoce 
 
 La montaña hueca es un volcán congelado, se hacen excursiones allì, y es usado como sitio para patinaje de hielo, puest es un lugar protegido de los vientos helados.
 
+### Montes Planos
+
+Son montañas no tan empinadas, lo más parecido a una planicie en las zonas frías de Mineflow, es la zona en la que suele moverse el clan de exploradores con trineos.
+
+### Negrura
+
+Un área en Mineflow con mucho misterio, la nieve tiene reacciones químicas extrañas con minerales de las montañas, y es completamente negra, es muy poco investigada, y uno de los pocos tabús que no se investigan para los mineflowneos. 
+
+### Picos De Los Dragones
+
+En estos picos habitan criaturas antiguas y temidas, son montañas como las otras hasta donde se conoce, pero destacan por su altura, así que los mineflowneos no han podido investigar demasiado,. 
+
 ## Criaturas
 
 ### Buhos Gigantes
@@ -61,7 +73,11 @@ Duras criaturas con una piel de roca,
 
 ### [[Proyects/Channels\|Channels]]
 
+Tienen una inmensa curiosidad por los channels, lo cual los ha llevado a observarlos contínuamente, algo que no le gusta a este pueblo, así que tienen una relación hostil, no militarmente, pero es muy difícil encontrar a un Mineflowneo siendo amigo de un Channels. 
+
 ### [[Proyects/Rusted\|Rusted]]
+
+La tierra de Rusted es de gran interés para mineflow, pues tiene una densidad increible de vida de todos los tipos para ser clasificada y estudiada.
 
 ### [[Proyects/Romephan\|Romephan]]
 
