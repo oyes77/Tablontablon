@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-04-24T10:05:44.178-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-04-24T16:30:21.129-05:00"}
 ---
 
 
@@ -16,7 +16,9 @@ Puedes iniciar donde prefieras, pero los pensamientos son el punto que recomiend
 puedes navegar hacia donde quieras, sin necesidad de seguir la jerarquía de #Referencia - #Idea - #Pensamiento - #Ensayo, todo estará conectado temáticamente, así que seguirá un hillo coherente.
 
 ## Lectura Lineal:
+
 Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en cuanto al desarrollo final de los proyectos, solo necesitarás navegar hacia abajo en la jerarquía si quieres profundizar en conceptos específicos, y ver las referencias que usé para tomar ciertas decisiones.
+
 - - - 
 
 ## #Referencia
@@ -24,16 +26,24 @@ Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en
 > Todo lo que me inspire de alguna manera, y por qué lo hace, puede contener una conexión a una #Idea .
 
 [[]]
+
 ## #Idea
 
 > Conceptos rápidos, frases, bocetos, cualquier resultado de la sinápsis de unas neuronas en cualquier momento, sin pretención de ser algo más, puede ser desarrollado en un #Pensamiento.
 
 [[Quien soy cómo comunicador\|Quien soy cómo comunicador]]
+
 [[Temáticas de autorreferencial\|Temáticas de autorreferencial]]
+
 [[Diseño de triadas\|Diseño de triadas]]
+
 [[Exploración de posibilidades\|Exploración de posibilidades]]
+
 [[Estilo gráfico\|Estilo gráfico]]
 
+[[Atributos Iconográficos\|Atributos Iconográficos]]
+
+[[Atributos Particulares\|Atributos Particulares]]
 
 ## #Pensamiento
 
