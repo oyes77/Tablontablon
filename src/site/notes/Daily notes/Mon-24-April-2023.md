@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-notes/mon-24-april-2023/","title":"Mon-24-April-2023","created":"2023-04-24T10:13:13.629-05:00","updated":"2023-04-24T16:21:15.713-05:00"}
+{"dg-publish":true,"permalink":"/daily-notes/mon-24-april-2023/","title":"Mon-24-April-2023","created":"2023-04-24T10:13:13.629-05:00","updated":"2023-04-24T16:22:33.690-05:00"}
 ---
 
 
@@ -33,7 +33,7 @@ Top model reality en netflix, o mejor otra cosa XD para observar la expresividad
 
 ### La Música En Los 90s Mediante El Anime
 
-este es el tema que debo tratar para 
+este es el tema que debo tratar para historia de la fotografía 
 
 - - - 
 
