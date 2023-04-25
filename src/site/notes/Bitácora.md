@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-04-25T13:23:17.996-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-04-25T13:44:14.102-05:00"}
 ---
 
 
@@ -36,6 +36,7 @@ Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en
 
 | File                                                                | Menciones |
 | ------------------------------------------------------------------- | --------- |
+| [[Estilo Gráfico\|Estilo Gráfico]]                               | 1         |
 | [[Bitácora\|Bitácora]]                                           | 1         |
 | [[Quien Soy Cómo Comunicador\|Quien Soy Cómo Comunicador]]       | 0         |
 | [[Elementos Semióticos\|Elementos Semióticos]]                   | 0         |
@@ -49,7 +50,7 @@ Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en
 
 
 - [[Exploración de posibilidades\|Exploración de posibilidades]]
-- [[Estilo gráfico\|Estilo gráfico]]
+- [[Estilo Gráfico\|Estilo Gráfico]]
 
 ## #Pensamiento
 
