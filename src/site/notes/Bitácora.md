@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-04-25T12:58:43.148-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-04-25T13:23:17.996-05:00"}
 ---
 
 
@@ -25,28 +25,46 @@ Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en
 
 > Todo lo que me inspire de alguna manera, y por qué lo hace, puede contener una conexión a una #Idea .
 
+| File                      | Menciones |
+| ------------------------- | --------- |
+| [[Bitácora\|Bitácora]] | 1         |
+
+
 ## #Idea
 
 > Conceptos rápidos, frases, bocetos, cualquier resultado de la sinápsis de unas neuronas en cualquier momento, sin pretención de ser algo más, puede ser desarrollado en un #Pensamiento.
 
-- [[Quien Soy Cómo Comunicador\|Quien Soy Cómo Comunicador]]
-- [[Temáticas de autorreferencial\|Temáticas de autorreferencial]]
-- [[Diseño de triadas\|Diseño de triadas]]
+| File                                                                | Menciones |
+| ------------------------------------------------------------------- | --------- |
+| [[Bitácora\|Bitácora]]                                           | 1         |
+| [[Quien Soy Cómo Comunicador\|Quien Soy Cómo Comunicador]]       | 0         |
+| [[Elementos Semióticos\|Elementos Semióticos]]                   | 0         |
+| [[Estilo Y Género\|Estilo Y Género]]                             | 0         |
+| [[Temáticas de autorreferencial\|Temáticas de autorreferencial]] | 0         |
+| [[Diseño de triadas\|Diseño de triadas]]                         | 0         |
+| [[Contenido De la Imagen\|Contenido De la Imagen]]               | 0         |
+| [[Composición\|Composición]]                                     | 0         |
+| [[Atributos Particulares\|Atributos Particulares]]               | 0         |
+| [[Atributos Iconográficos\|Atributos Iconográficos]]             | 0         |
+
+
 - [[Exploración de posibilidades\|Exploración de posibilidades]]
 - [[Estilo gráfico\|Estilo gráfico]]
-- [[Intención\|Intención]]
-- [[Elementos Semióticos\|Elementos Semióticos]]
-- [[Continente de la imagen\|Continente de la imagen]]
-- [[Composición\|Composición]]
-- [[Atributos Iconográficos\|Atributos Iconográficos]]
-- [[Atributos Particulares\|Atributos Particulares]]
-- [[Estilo Y Género\|Estilo Y Género]]
-- [[Contenido De la Imagen\|Contenido De la Imagen]]
 
 ## #Pensamiento
 
 > Una idea en la que se ha trabajado, transformándose en algo con más cuerpo, puede componer un ensayo y conectar a una #Idea.
 
+| File                      | Menciones |
+| ------------------------- | --------- |
+| [[Bitácora\|Bitácora]] | 1         |
+
+
 ## #Ensayo
 
 > Textos más largos, dónde conecto #Pensamiento, #Idea y #Referencia, para formar conocimiento, o ayudar a la meta final, desarrollar los proyectos autorreferencial y documental.
+
+| File                      | Menciones |
+| ------------------------- | --------- |
+| [[Bitácora\|Bitácora]] | 1         |
+
