@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-01T21:42:13.406-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-01T21:44:11.130-05:00"}
 ---
 
 
@@ -13,7 +13,7 @@ El formato tal vez sea vertical por eso mismo. lo de materiales fotocromáticos 
 
 - Explorar ideas (mi relación con mi instrumento desde un punto de vista cronológico no porque es demasiado que abordar y no lo veo demasiado interesante, mi relación con el arte en general, no porque no me gusta el arte cómo ente abstracto, o no sé cómo hacerlo homogéneo en una narrativa, mi relación con mi instrumento no cronológico, explorando emociones, resultó ser el final, puedo contar mini historias o facetas centradas en una temática específica)
 - Investigar sobre materiales electrocromáticos (colocar imágenes y registrar en general XD)
-- investigar sobre mesas LED y automatización de estas con OpenRGB o un arduino, still in this step
+- investigar sobre mesas LED (light table) y automatización de estas con OpenRGB o un arduino, still working on this step
 
 ## Sentimientos
 
