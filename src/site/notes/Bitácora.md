@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:21:59.646-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:21.087-05:00"}
 ---
 
 
@@ -21,7 +21,7 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 ```
 
-| File                                                                                    | Menciones |
+| Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
 | [[El Gesto Y la Palabra\|El Gesto Y la Palabra]]                                     | 0         |
 | [[La Imagen Tiempo Y la Imagen Movimiento\|La Imagen Tiempo Y la Imagen Movimiento]] | 0         |
@@ -35,7 +35,7 @@ title: ¿Qué es una #Idea ?
 Su función es encapsular mi mente en el momento sin pretención de ser algo más, cualquier cosa en la que vea el valor suficiente para ser anotada estará aquí, están pensadas para desarrollarse en un #Pensamiento.
 ```
 
-| File                                                                          | Menciones |
+| Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
 | [[Evocar\|Evocar]]                                                         | 0         |
 | [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
@@ -54,7 +54,6 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 | [[Atributos Particulares\|Atributos Particulares]]                         | 0         |
 | [[Atributos Iconográficos\|Atributos Iconográficos]]                       | 0         |
 
-
 - - - 
 
 ```ad-tip
@@ -63,7 +62,7 @@ title: ¿Qué es un #Pensamiento ?
 Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que les vea futuro estarán aquí transformadas en pensamientos, con varios pensamientos se arma un #Ensayo 
 ```
 
-| File                                                      | Menciones |
+| Pensamientos                                              | Menciones |
 | --------------------------------------------------------- | --------- |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]] | 0         |
 | [[Autoref.\|Autoref.]]                                 | 0         |
@@ -77,6 +76,6 @@ title: ¿Qué es un #Ensayo ?
 Textos más largos dónde conecto #Pensamiento, #Idea y #Referencia en una sola página, los Ensayos están enumerados en orden de lectura a diferencia del resto de categorías.
 ```
 
-| File | Menciones |
-| ---- | --------- |
+| Ensayos | Menciones |
+| ------- | --------- |
 
