@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/narrativa-informatica/","title":"Narrativa Informática","created":"2023-04-25T16:51:21.948-05:00","updated":"2023-04-25T17:19:41.073-05:00"}
+{"dg-publish":true,"permalink":"/narrativa-informatica/","title":"Narrativa Informática","tags":["Idea,"],"created":"2023-04-25T16:51:21.948-05:00","updated":"2023-04-26T09:26:58.749-05:00"}
 ---
 
 
@@ -25,3 +25,5 @@ title: A3
 Encontró la tierra y se dió cuenta que había vida (no tan inteligente) , recursos, y clima favorecedor para su hábitat y acomodación, y fijó el rumbo para aterrizar/ establecer contacto
 
 ```
+
+![](https://i.imgur.com/SvFFupI.png)
