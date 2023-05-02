@@ -37,7 +37,6 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | File                                                                          | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
-| [[Replanteación De Bitácora\|Replanteación De Bitácora]]                   | 0         |
 | [[Evocar\|Evocar]]                                                         | 0         |
 | [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
 | [[Mis Preferencias Respecto Al Color\|Mis Preferencias Respecto Al Color]] | 1         |
@@ -64,9 +63,10 @@ title: ¿Qué es un #Pensamiento ?
 Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que les vea futuro estarán aquí transformadas en pensamientos, con varios pensamientos se arma un #Ensayo 
 ```
 
-| File                      | Menciones |
-| ------------------------- | --------- |
-| [[Autoref.\|Autoref.]] | 0         |
+| File                                                      | Menciones |
+| --------------------------------------------------------- | --------- |
+| [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]] | 0         |
+| [[Autoref.\|Autoref.]]                                 | 0         |
 
 
 - - - 
