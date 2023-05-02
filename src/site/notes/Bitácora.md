@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:21.087-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:27.764-05:00"}
 ---
 
 
@@ -53,6 +53,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 | [[Composición\|Composición]]                                               | 0         |
 | [[Atributos Particulares\|Atributos Particulares]]                         | 0         |
 | [[Atributos Iconográficos\|Atributos Iconográficos]]                       | 0         |
+
 
 - - - 
 
