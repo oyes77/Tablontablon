@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:27.764-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:44.543-05:00"}
 ---
 
 
@@ -23,6 +23,7 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 | Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
+| [[El Llanto De Señor Sol\|El Llanto De Señor Sol]]                                   | 0         |
 | [[El Gesto Y la Palabra\|El Gesto Y la Palabra]]                                     | 0         |
 | [[La Imagen Tiempo Y la Imagen Movimiento\|La Imagen Tiempo Y la Imagen Movimiento]] | 0         |
 
