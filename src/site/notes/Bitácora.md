@@ -1,27 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T14:59:48.821-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:16:42.527-05:00"}
 ---
 
 
 # Bitácora
 
-Su organización consiste en las 4 categorías en este mapa de contenidos, no me funcionan tan bien las notas lineales cómo las sueltas, así que he preferido este sistema de organización, por ello mi Bitácora se puede leer de 2 maneras:
+```ad-seealso
+title: Quiero que mi Bitácora sea un reflejo de mi proceso creativo:
 
-## Exploración:
+En este proceso suelo explorar muchas cosas que normalmente no mostraría, o retiraría de una entrega final, por eso he organizado una Bitácora que pueda contener todos los caminos que he explorado, y a su vez que tenga la capacidad de ser concisa al usar tags de procesamiento.
+```
 
-Puedes iniciar donde prefieras, pero los pensamientos son el punto que recomiendo, las ideas son solamente pensamientos en desarrollo, así que pocas veces serán tomadas en cuenta, mediante links podrás ver las referencias, o navegar por el gráfico de páginas a la derecha, que muestra conexiones a diferentes niveles de profundidad.
+## Partes De la Bitácora:
 
-puedes navegar hacia donde quieras, sin necesidad de seguir la jerarquía de #Referencia - #Idea - #Pensamiento - #Ensayo, todo estará conectado temáticamente, así que seguirá un hillo coherente.
+### #Referencia
 
-## Lectura Lineal:
-
-Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en cuanto al desarrollo final de los proyectos, intentaré que en una página de ensayo estén presentados las referencias y pensamientos necesarios para comprenderlo sin la necesidad de saltar a otra página.
-
-- - - 
-
-## #Referencia
-
-> Todo lo que me inspire de alguna manera, y por qué lo hace.
+> Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integrado en un #Ensayo 
 
 | File                                                                                    | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
@@ -29,9 +23,9 @@ Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en
 | [[La Imagen Tiempo Y la Imagen Movimiento\|La Imagen Tiempo Y la Imagen Movimiento]] | 0         |
 
 
-## #Idea
+### #Idea
 
-> Conceptos rápidos, frases, bocetos, cualquier resultado de la sinápsis de unas neuronas en cualquier momento, sin pretención de ser algo más, puede ser desarrollado en un #Pensamiento.
+> Su función es encapsular mi mente en el momento sin pretención de ser algo más, cualquier cosa en la que vea el valor suficiente para ser anotada estará aquí, están pensadas para desarrollarse en un #Pensamiento.
 
 | File                                                                          | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
@@ -54,21 +48,21 @@ Empieza por un #Ensayo , estos están enumerados y encapsularán lo principal en
 | [[Atributos Iconográficos\|Atributos Iconográficos]]                       | 0         |
 
 
-- [[Exploración de posibilidades\|Exploración de posibilidades]]
+### #Pensamiento
 
-## #Pensamiento
-
-> Una idea en la que se ha trabajado, transformándose en algo con más cuerpo, puede componer un ensayo y conectar a una #Idea a desarrollar.
+> Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que les vea futuro estarán aquí transformadas en pensamientos, con varios pensamientos se arma un #Ensayo 
 
 | File                      | Menciones |
 | ------------------------- | --------- |
 | [[Autoref.\|Autoref.]] | 0         |
 
 
-## #Ensayo
+### #Ensayo
 
 > Textos más largos dónde conecto #Pensamiento, #Idea y #Referencia en una sola página.
 
 | File | Menciones |
 | ---- | --------- |
 
+
+El orden de lectura está pensado para que el proceso que seguí en la producción de mi autorreferencial y documental finales pueda ser entendido leyendo únicamente la lista de #Ensayo , usando las #Referencia cómo complementos a este, los #Pensamiento e #Idea son transitorios al #Ensayo , pero están en caso de que el lector quiera explorar más allá de la línea de pensamiento principal que condujo a mi trabajo final. 
