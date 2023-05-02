@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/el-llanto-de-senor-sol/","title":"El Llanto De Señor Sol","tags":["Referencia,"],"created":"2023-05-02T07:22:47.067-05:00","updated":"2023-05-02T08:28:26.194-05:00"}
+{"dg-publish":true,"permalink":"/el-llanto-de-senor-sol/","title":"El Llanto De Señor Sol","tags":["Referencia,"],"created":"2023-05-02T07:22:47.067-05:00","updated":"2023-05-02T08:42:37.479-05:00"}
 ---
 
 
@@ -30,7 +30,7 @@ Historia del cadáver exquisito.
 > y no pudo resistir.
 
 > El diablo era rojo, 
-> ambién verde cómo un sagaz,
+> también verde cómo un sagaz,
 > Ojos llorando sangre,
 > en ellos la inmensidad.
 
@@ -39,27 +39,22 @@ Historia del cadáver exquisito.
 > unos cachos gigantes
 > y un corbatín
 
-> El sol lo quería lo suyo,
+> El sol quería lo suyo,
 > hacer lo de el para sí,
 > por qué el no tenía cuernos, y el diablo sí?
 > Por qué el no tenía orejas, y el diablo sí?
 
-> El diablo y su cola en el cielo se elevó
-> El sol era todo, hasta que ya no,
+> El diablo y su cola en el cielo se elevó,
+> El sol era todo hasta que ya no,
 > El diablo se acercó, frente a frente al sol,
-> El sol era todo, hasta que ya no.
+> El sol era todo hasta que ya no.
 
-> El sol era todo, 
-> hasta que de cerca lo vió,
-> El diablo hermoso, 
-> El sol lloró,
-
-> El sol tenía todo, 
-> hasta que vió a Belcebú
-> El sol quería al diablo, 
-> y su luz le dió
+> El sol era todo, hasta que de cerca lo vió,
+> El diablo hermoso, El sol lloró,
+> El sol tenía todo, hasta que vió a Belcebú
+> El sol quería al diablo, y su luz le dió
 
 > El diablo sonriente,
 > Había devorado otro sol,
-> La luna ascendía, 
+> Elevó a la luna, 
 > hasta el próximo sol.
