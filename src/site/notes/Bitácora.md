@@ -23,6 +23,7 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 | Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
+| [[Libros Semiótica\|Libros Semiótica]]                                               | 0         |
 | [[El Llanto De Señor Sol\|El Llanto De Señor Sol]]                                   | 0         |
 | [[El Gesto Y la Palabra\|El Gesto Y la Palabra]]                                     | 0         |
 | [[La Imagen Tiempo Y la Imagen Movimiento\|La Imagen Tiempo Y la Imagen Movimiento]] | 0         |
@@ -38,6 +39,9 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Teoría De la Comunicación\|Teoría De la Comunicación]]                   | 0         |
+| [[Criterios Curatoriales\|Criterios Curatoriales]]                         | 0         |
+| [[Gráfico Textual\|Gráfico Textual]]                                       | 0         |
 | [[Evocar\|Evocar]]                                                         | 0         |
 | [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
 | [[Mis Preferencias Respecto Al Color\|Mis Preferencias Respecto Al Color]] | 1         |
@@ -64,10 +68,11 @@ title: ¿Qué es un #Pensamiento ?
 Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que les vea futuro estarán aquí transformadas en pensamientos, con varios pensamientos se arma un #Ensayo 
 ```
 
-| Pensamientos                                              | Menciones |
-| --------------------------------------------------------- | --------- |
-| [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]] | 0         |
-| [[Autoref.\|Autoref.]]                                 | 0         |
+| Pensamientos                                                          | Menciones |
+| --------------------------------------------------------------------- | --------- |
+| [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
+| [[Autoref.\|Autoref.]]                                             | 0         |
+| [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 
 
 - - - 
