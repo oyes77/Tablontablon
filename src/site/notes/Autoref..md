@@ -1,13 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-01T21:44:11.130-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-05T09:47:46.621-05:00"}
 ---
 
 
 # Autoref.
 
+> [!warning] Fecha de entrega y exposición!
+> Fecha autoref: [[2023-06-16\|2023-06-16]] 
+> Son mínimo 12 fotos owo
+
 Con mi autorreferencial quiero explorar no una biografía de mi relación con el piano cómo tal, sino los sentimientos que me ha provocado este y han quedado más fuertemente impresos en mi mente, en una colección de 12 fotos divididas en 4 tercios, las fotos estarán arregladas cómo teclas de un piano somehow.
 
-El formato tal vez sea vertical por eso mismo. lo de materiales fotocromáticos es demasiado caro, por lo que tendré que activar LEDs por medio de MIDI con una organeta o algo así, o pasar energía por medio del tacto y que eso resulte en una melodía pregrabada que complemente al trío de imágenes.
+El formato tal vez sea vertical por eso mismo. lo de materiales fotocromáticos es demasiado caro, por lo que tendré que activar LEDs por medio de MIDI con una organeta o algo así, o pasar energía por medio del tacto, por esto las imágenes probablemente acaben siendo verticales, dependiendo de cómo acabe componiendo todo.
+
+Quiero que la ropa sea un reflejo del sentimiento del momento, y usar luces y bold colors, el título de cada colección de imagen sea el sentimiento únicamente, dejarlo muy abierto a interpretación.
 
 ## Pasos En Mi Desarrollo De la Idea:
 
@@ -19,10 +25,30 @@ El formato tal vez sea vertical por eso mismo. lo de materiales fotocromáticos 
 
 Originalmente pienso que con 4 sentimientos es suficiente, pueden ser 2 pares de sentimientos contrarios, el mensaje global que quiero dar con las imágenes es la complejidad de la relación que un músico (yo en este caso particular) puede desarrollar con su instrumento o su oficio.
 
-### 1: Curiosidad
+imagen 1 debe ser un POV que exprese diferente o más fuerte el sentimiento, imagen 2 la imagen ilustrativa normal, imagen 3 algo más abstracto o un objeto que complemente
 
-### 2: Honra
+> Debo pedir cualquier material para préstamo mínimo 5 días antes
 
+### 1: Asombro - blanco, naranja
+El piano es majestuoso, lo veo cómo algo gigante, abstracto e infinito 
+### 2: Honra - azul tones
+El piano es una parte de mi, pertenece a mi identidad, y me siento orgulloso de mis logros en este.
 ### 3: Dolor
-
+El piano me ha herido, 
 ### 4: Disfrute
+
+- - - 
+
+## Preproducción
+
+Qué necesito para las fotos?
+
+Una mesa con un mantel negro para apoyar el piano, pegada a una pared, 
+
+## Producción
+
+La toma y construcción actual de las cosas
+
+## Postproducción
+
+Organización de las imagenes y edición.
