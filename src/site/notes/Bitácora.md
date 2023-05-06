@@ -23,6 +23,8 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 | Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
+| [[Poeta - Rebecca Sol\|Poeta - Rebecca Sol]]                                         | 0         |
+| [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]]           | 1         |
 | [[Libros Semiótica\|Libros Semiótica]]                                               | 0         |
 | [[El Llanto De Señor Sol\|El Llanto De Señor Sol]]                                   | 0         |
 | [[El Gesto Y la Palabra\|El Gesto Y la Palabra]]                                     | 0         |
@@ -39,7 +41,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
-| [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]] | 0         |
+| [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]] | 1         |
 | [[Teoría De la Comunicación\|Teoría De la Comunicación]]                   | 0         |
 | [[Criterios Curatoriales\|Criterios Curatoriales]]                         | 0         |
 | [[Gráfico Textual\|Gráfico Textual]]                                       | 0         |
@@ -71,8 +73,8 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 
 | Pensamientos                                                          | Menciones |
 | --------------------------------------------------------------------- | --------- |
-| [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 | [[Autoref.\|Autoref.]]                                             | 1         |
+| [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 
 
