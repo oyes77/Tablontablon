@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-05T09:47:46.621-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-05T20:05:40.763-05:00"}
 ---
 
 
@@ -29,13 +29,21 @@ imagen 1 debe ser un POV que exprese diferente o más fuerte el sentimiento, ima
 
 > Debo pedir cualquier material para préstamo mínimo 5 días antes
 
-### 1: Asombro - blanco, naranja
+### 1: Asombro - Blanco, Naranja
+
 El piano es majestuoso, lo veo cómo algo gigante, abstracto e infinito 
-### 2: Honra - azul tones
+
+### 2: Honra - Azul Tones
+
 El piano es una parte de mi, pertenece a mi identidad, y me siento orgulloso de mis logros en este.
+
 ### 3: Dolor
-El piano me ha herido, 
-### 4: Disfrute
+
+El piano me ha herido, me ha encadenado y es algo de lo que no puedo alejarme
+
+### 4: Disfrute - Soltura
+
+El piano crea música, y puedo crear música con el, alegría.
 
 - - - 
 
