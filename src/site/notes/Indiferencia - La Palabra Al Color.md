@@ -16,7 +16,7 @@ Hacer eso con cada color en
 
 Originalmente pienso que con 4 sentimientos es suficiente, pueden ser 2 pares de sentimientos contrarios, el mensaje global que quiero dar con las imágenes es la complejidad de la relación que un músico (yo en este caso particular) puede desarrollar con su instrumento o su oficio.
 
-imagen 1 debe ser un POV que exprese diferente o más fuerte el sentimiento, imagen 2 la imagen ilustrativa normal, imagen 3 algo más abstracto o un objeto que complemente
+imagen 1 debe ser un POV (vista de las manos) que exprese diferente o más fuerte el sentimiento, imagen 2 la imagen ilustrativa normal, imagen 3 algo más abstracto o un objeto que complemente
 
 > Debo pedir cualquier material para préstamo mínimo 5 días antes
 
@@ -37,6 +37,8 @@ El piano me ha herido, me ha encadenado y es algo de lo que no puedo alejarme
 El piano crea música, y puedo crear música con el, alegría.
 
 - - - 
+
+- ofc i wanna use hands for all XD
 
 
 </div></div>
