@@ -23,6 +23,8 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 | Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
+| [[William Klein\|William Klein]]                                                     | 0         |
+| [[Diane Arbus\|Diane Arbus]]                                                         | 0         |
 | [[Poeta - Rebecca Sol\|Poeta - Rebecca Sol]]                                         | 0         |
 | [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]]           | 1         |
 | [[Libros Semiótica\|Libros Semiótica]]                                               | 0         |
@@ -30,6 +32,7 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 | [[El Gesto Y la Palabra\|El Gesto Y la Palabra]]                                     | 0         |
 | [[La Imagen Tiempo Y la Imagen Movimiento\|La Imagen Tiempo Y la Imagen Movimiento]] | 0         |
 
+{ .block-language-dataview}
 
 - - -
 
@@ -62,6 +65,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 | [[Atributos Particulares\|Atributos Particulares]]                         | 0         |
 | [[Atributos Iconográficos\|Atributos Iconográficos]]                       | 0         |
 
+{ .block-language-dataview}
 
 - - - 
 
@@ -77,6 +81,7 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 | [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 
+{ .block-language-dataview}
 
 - - - 
 
@@ -89,3 +94,4 @@ Textos más largos dónde conecto #Pensamiento, #Idea y #Referencia en una sola 
 | Ensayos | Menciones |
 | ------- | --------- |
 
+{ .block-language-dataview}
