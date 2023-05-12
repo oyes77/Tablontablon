@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-07T15:00:52.482-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-12T13:59:15.230-05:00"}
 ---
 
 
@@ -19,31 +19,33 @@ Quiero que la ropa sea un reflejo del sentimiento del momento, y usar luces y bo
 
 - Explorar ideas (mi relación con mi instrumento desde un punto de vista cronológico no porque es demasiado que abordar y no lo veo demasiado interesante, mi relación con el arte en general, no porque no me gusta el arte cómo ente abstracto, o no sé cómo hacerlo homogéneo en una narrativa, mi relación con mi instrumento no cronológico, explorando emociones, resultó ser el final, puedo contar mini historias o facetas centradas en una temática específica)
 - Investigar sobre materiales electrocromáticos (colocar imágenes y registrar en general XD)
-- investigar sobre mesas LED (light table) y automatización de estas con OpenRGB o un arduino, still working on this step
+- investigar sobre mesas LED (light table) y automatización de estas con OpenRGB o un arduino, El profe de informática me dió guías para hacer esto más fácil con tiras LED y un PC
 
-## Sentimientos
+## Expresión De Sentimientos
 
-Originalmente pienso que con 4 sentimientos es suficiente, pueden ser 2 pares de sentimientos contrarios, el mensaje global que quiero dar con las imágenes es la complejidad de la relación que un músico (yo en este caso particular) puede desarrollar con su instrumento o su oficio.
+El mensaje global que quiero dar con las imágenes es la complejidad de la relación que un músico (yo en este caso particular) puede desarrollar con su instrumento o su oficio.
 
-imagen 1 debe ser un POV (vista de las manos) que exprese diferente o más fuerte el sentimiento, imagen 2 la imagen ilustrativa normal, imagen 3 algo más abstracto o un objeto que complemente
+imagen 1 de cada grupo será una vista de las manos o mano, en plano cercano (corta en el codo o primerísimo plano en la muñeca/s) que exprese el sentimiento de ese tríptico, imagen 2 un plano general mucho más libre, imagen 3 objeto o imágen de archivo.
+
+Las imágenes deben de sentirse cómo un diálogo con el piano, no debe de ser solo un objeto, por eso la instalación será interactiva.
 
 > Debo pedir cualquier material para préstamo mínimo 5 días antes
 
 ### 1: Asombro - Blanco, Naranja
 
-El piano es majestuoso, lo veo cómo algo gigante, abstracto e infinito 
+El piano es majestuoso, lo veo cómo algo gigante, abstracto e infinito Expreso esto mediante un modelo niño interactuando con el piano, y un archivo de yo de pequeño frente al piano o similar.
 
 ### 2: Honra - Azul Tones
 
-El piano es una parte de mi, pertenece a mi identidad, y me siento orgulloso de mis logros en este.
+El piano es una parte de mi, pertenece a mi identidad, y me siento orgulloso de mis logros en este. Expreso esta adoración al piano mediante el imaginario clásico de un corcentista tocando obras prodigio, con traje, partes, y un porte elegante y solemne.
 
-### 3: Dolor
+### 3: Dolor - Rojo
 
-El piano me ha herido, me ha encadenado y es algo de lo que no puedo alejarme
+El piano me ha herido, me ha encadenado y es algo de lo que no puedo alejarme. Expreso esto con elementos cómo cadenas o cuerdas en las manos, una doble exposición con una (preferiblemente la mía) radiografía de mis muñecas y antebrazo, y una imagen de mí negando al piano, dándole la espalda.
 
-### 4: Disfrute - Soltura
+### 4: Felicidad - Disfrute
 
-El piano crea música, y puedo crear música con el, alegría.
+El piano crea música, y puedo crear música con el, alegría. Expreso esto de manera similar al tríptico azul, pero de manera más casual, sin pretender cumplir un estándar a un público, sino tocando para mí mismo o para mis seres queridos, aquí estoy dudando si colocar solo imágenes archivo, teniendo en cuenta de que mi locación en todas las imágenes serán el teatro, pues quiero que en lo posible el fondo no tenga ningún protagonismo ni haga ruido, la oscuridad del teatro me beneficia mucho en esto, y en que es un entorno controlable, con el límite de mis capacidades únicamente.
 
 - - - 
 
