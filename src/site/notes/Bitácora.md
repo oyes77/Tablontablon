@@ -23,6 +23,7 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 | Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
+| [[Anagrama name\|Anagrama name]]                                                     | 0         |
 | [[William Klein\|William Klein]]                                                     | 0         |
 | [[Diane Arbus\|Diane Arbus]]                                                         | 0         |
 | [[Poeta - Rebecca Sol\|Poeta - Rebecca Sol]]                                         | 0         |
