@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-12T13:59:15.230-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-15T14:42:00.445-05:00"}
 ---
 
 
@@ -59,7 +59,9 @@ Una mesa con un mantel negro para apoyar el piano, pegada a una pared,
 
 ## Producción
 
-La toma y construcción actual de las cosas
+La toma y construcción actual de las cosas, aquí irán sketches de cada imagen.
+
+![450](https://i.imgur.com/nmgaFB5.jpg) ![450](https://i.imgur.com/hzUrHg6.jpg) ![450](https://i.imgur.com/0D5ab7m.jpg) ![450](https://i.imgur.com/5Fpd5kq.jpg) ![450](https://i.imgur.com/ANeBDlX.jpg)
 
 ## Postproducción
 
