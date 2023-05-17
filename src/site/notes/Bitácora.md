@@ -23,6 +23,7 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 | Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
+| [[El Lobo Solitario Y Su Cachorro\|El Lobo Solitario Y Su Cachorro]]                 | 0         |
 | [[Anagrama name\|Anagrama name]]                                                     | 0         |
 | [[William Klein\|William Klein]]                                                     | 0         |
 | [[Diane Arbus\|Diane Arbus]]                                                         | 0         |
@@ -45,6 +46,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Mi Autoconsciencia\|Mi Autoconsciencia]]                                 | 0         |
 | [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]] | 1         |
 | [[Teoría De la Comunicación\|Teoría De la Comunicación]]                   | 0         |
 | [[Criterios Curatoriales\|Criterios Curatoriales]]                         | 0         |
@@ -78,7 +80,7 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 
 | Pensamientos                                                          | Menciones |
 | --------------------------------------------------------------------- | --------- |
-| [[Autoref.\|Autoref.]]                                             | 1         |
+| [[Autoref.\|Autoref.]]                                             | 2         |
 | [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 
