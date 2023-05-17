@@ -70,7 +70,9 @@ Una mesa con un mantel negro para apoyar el piano, pegada a una pared,
 
 ## Producción
 
-La toma y construcción actual de las cosas
+La toma y construcción actual de las cosas, aquí irán sketches de cada imagen.
+
+![450](https://i.imgur.com/nmgaFB5.jpg) ![450](https://i.imgur.com/hzUrHg6.jpg) ![450](https://i.imgur.com/0D5ab7m.jpg) ![450](https://i.imgur.com/5Fpd5kq.jpg) ![450](https://i.imgur.com/ANeBDlX.jpg)
 
 ## Postproducción
 
