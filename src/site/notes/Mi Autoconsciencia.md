@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mi-autoconsciencia/","title":"Mi Autoconsciencia","tags":["Idea,"],"created":"2023-05-17T08:21:32.745-05:00","updated":"2023-05-17T08:32:26.104-05:00"}
+{"dg-publish":true,"permalink":"/mi-autoconsciencia/","title":"Mi Autoconsciencia","tags":["Idea,"],"created":"2023-05-17T08:21:32.745-05:00","updated":"2023-05-17T08:35:52.256-05:00"}
 ---
 
 
@@ -19,6 +19,8 @@ el [[Autoref.\|Autoref.]] tiene cómo herramientas y presentación una:
 
 Historia, Narrativa, Estética al servicio de la narrativa, semiótica, y reflexión psicológica sobre el self
 
-Ensayo de autorreferencial para [[2023-05-31\|2023-05-31]]
+Ensayo de autorreferencial para [[2023-05-31\|2023-05-31]] en reglas APA, 5-10 páginas.
 
-buscar sobre tipologías d
+buscar sobre tipologías de ensayo, este es un ensayo reflexivo.
+
+tipos: (expositivo, argumentativo, reflexivo, creativo)
