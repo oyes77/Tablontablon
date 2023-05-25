@@ -46,6 +46,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Errores Autoref\|Errores Autoref]]                                       | 0         |
 | [[Mi Autoconsciencia\|Mi Autoconsciencia]]                                 | 0         |
 | [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]] | 1         |
 | [[Teoría De la Comunicación\|Teoría De la Comunicación]]                   | 0         |
@@ -80,7 +81,8 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 
 | Pensamientos                                                          | Menciones |
 | --------------------------------------------------------------------- | --------- |
-| [[Autoref.\|Autoref.]]                                             | 2         |
+| [[Postmodernindad\|Postmodernindad]]                               | 0         |
+| [[Autoref.\|Autoref.]]                                             | 3         |
 | [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 
