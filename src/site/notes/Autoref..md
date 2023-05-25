@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-15T14:42:00.445-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-05-17T10:58:32.924-05:00"}
 ---
 
 
@@ -33,19 +33,49 @@ Las imágenes deben de sentirse cómo un diálogo con el piano, no debe de ser s
 
 ### 1: Asombro - Blanco, Naranja
 
-El piano es majestuoso, lo veo cómo algo gigante, abstracto e infinito Expreso esto mediante un modelo niño interactuando con el piano, y un archivo de yo de pequeño frente al piano o similar.
+El piano es majestuoso, algo gigante, abstracto y que representa posibilidades infinitas. Expreso esto mediante un modelo niño interactuando con el piano, y un archivo de yo de pequeño frente al piano o similar.
+
+#### Img 1: Mano
+
+![450](https://i.imgur.com/nmgaFB5.jpg)
+
+#### Img2: Plano General
+
+![450](https://i.imgur.com/nmgaFB5.jpg)
+
+#### Img3: Archivo U Objeto Complementario
 
 ### 2: Honra - Azul Tones
 
-El piano es una parte de mi, pertenece a mi identidad, y me siento orgulloso de mis logros en este. Expreso esta adoración al piano mediante el imaginario clásico de un corcentista tocando obras prodigio, con traje, partes, y un porte elegante y solemne.
+El piano es una parte de mi, pertenece a mi identidad, y me siento orgulloso de mis logros en este, además de una responsabilidad con el. Expreso esta adoración al piano mediante el imaginario clásico de un corcentista tocando obras prodigio, con traje, partes, y un porte elegante y solemne.
+
+#### Img 1: Mano
+
+#### Img2: Plano General
+
+#### Img3: Archivo U Objeto Complementario
 
 ### 3: Dolor - Rojo
 
+[Site Unreachable](https://www.youtube.com/watch?v=dpGpG_0xu1Q)
+
 El piano me ha herido, me ha encadenado y es algo de lo que no puedo alejarme. Expreso esto con elementos cómo cadenas o cuerdas en las manos, una doble exposición con una (preferiblemente la mía) radiografía de mis muñecas y antebrazo, y una imagen de mí negando al piano, dándole la espalda.
+
+#### Img 1: Mano
+
+#### Img2: Plano General
+
+#### Img3: Archivo U Objeto Complementario
 
 ### 4: Felicidad - Disfrute
 
 El piano crea música, y puedo crear música con el, alegría. Expreso esto de manera similar al tríptico azul, pero de manera más casual, sin pretender cumplir un estándar a un público, sino tocando para mí mismo o para mis seres queridos, aquí estoy dudando si colocar solo imágenes archivo, teniendo en cuenta de que mi locación en todas las imágenes serán el teatro, pues quiero que en lo posible el fondo no tenga ningún protagonismo ni haga ruido, la oscuridad del teatro me beneficia mucho en esto, y en que es un entorno controlable, con el límite de mis capacidades únicamente.
+
+#### Img 1: Mano
+
+#### Img2: Plano General
+
+#### Img3: Archivo U Objeto Complementario
 
 - - - 
 
@@ -55,14 +85,30 @@ El piano crea música, y puedo crear música con el, alegría. Expreso esto de m
 
 Qué necesito para las fotos?
 
-Una mesa con un mantel negro para apoyar el piano, pegada a una pared, 
+Una mesa con un mantel negro para apoyar el piano, pegada a una pared, una manera de colocar las imágenes y el lightable en la pared sin atornillar, y que no sea un adhesivo tan fuerte, piano y luces LED, 
 
 ## Producción
 
 La toma y construcción actual de las cosas, aquí irán sketches de cada imagen.
 
-![450](https://i.imgur.com/nmgaFB5.jpg) ![450](https://i.imgur.com/hzUrHg6.jpg) ![450](https://i.imgur.com/0D5ab7m.jpg) ![450](https://i.imgur.com/5Fpd5kq.jpg) ![450](https://i.imgur.com/ANeBDlX.jpg)
+ ![450](https://i.imgur.com/hzUrHg6.jpg) ![450](https://i.imgur.com/0D5ab7m.jpg) ![450](https://i.imgur.com/5Fpd5kq.jpg) ![450](https://i.imgur.com/ANeBDlX.jpg)
 
 ## Postproducción
 
 Organización de las imagenes y edición.
+W
+una palabra relacionada a la emoción, relacionada al a la priopia emoción es decir me duele y qué representa ese dolor?
+
+a qué se parece el piao que duele? por ejemplo(un cuchillo, ejemplo)ejemplobuscar na palabra que me aleje de la literalidad, y priorize el sentimiento de la person.
+u
+a qué parece el piano que duele? un cuchillo por ejemplo, expresar algo ás allá de la literalidad 
+
+en términos estéticos es más potente lograe despertar una emoción en el espectador, es decir buscar: ¿cómo la transmito?
+
+buscar un sentido más allá de significar literalmente.
+
+los objetos estétticos van más allá de su función.
+
+sí se puede imprimir a color en acetato
+
+buscar subsentimientos a los propios sentimientos, por ejemplo, el autosabotaje por encima del dolor, ej: un cuchillo y venas en la imagen de la mano de dolor
