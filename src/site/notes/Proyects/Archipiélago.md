@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/archipielago/","title":"Archipiélago","created":"2023-03-15T20:56:37.931-05:00","updated":"2023-03-23T19:41:33.182-05:00"}
+{"dg-publish":true,"permalink":"/proyects/archipielago/","title":"Archipiélago","created":"2023-03-15T20:56:37.931-05:00","updated":"2023-06-09T23:18:33.150-05:00"}
 ---
 
 
@@ -32,3 +32,8 @@ El sistema va a ser por rol narrativo, la magia puede usarse en cualquier moment
 [[Proyects/Magia\|Magia]]
 
 [[Proyects/Combate\|Combate]]
+
+- sdfgh
+	- sfgh sfh 
+	- sfasdf
+- fgsa 
