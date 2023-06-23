@@ -46,6 +46,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]] | 0         |
 | [[Mi Autoconsciencia\|Mi Autoconsciencia]]                                 | 0         |
 | [[Errores Autoref\|Errores Autoref]]                                       | 0         |
 | [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]] | 1         |
