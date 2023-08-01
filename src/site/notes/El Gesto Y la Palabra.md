@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/el-gesto-y-la-palabra/","title":"El Gesto Y la Palabra","tags":["Referencia,"],"created":"2023-04-26T10:15:04.626-05:00","updated":"2023-04-26T10:15:30.730-05:00"}
+{"dg-publish":true,"permalink":"/el-gesto-y-la-palabra/","title":"El Gesto Y la Palabra","tags":["Referencia,"],"noteIcon":"","created":"2023-04-26T10:15:04.626-05:00","updated":"2023-07-30T16:17:29.178-05:00"}
 ---
 
 
 # El Gesto Y la Palabra
 
-ooootrio libro recomendado por semiótica
+ooootro libro recomendado en clase de semiótica, buscarlo en la biblioteca y leerlo.
