@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atributos-iconograficos/","title":"Atributos Iconográficos","tags":["Idea,"],"created":"2023-04-24T16:24:36.498-05:00","updated":"2023-04-24T16:30:01.000-05:00"}
+{"dg-publish":true,"permalink":"/atributos-iconograficos/","title":"Atributos Iconográficos","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:24:36.498-05:00","updated":"2023-04-24T16:30:01.000-05:00"}
 ---
 
 
