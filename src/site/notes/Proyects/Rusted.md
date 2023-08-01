@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/rusted/","title":"Rusted","created":"2023-03-21T13:19:35.903-05:00","updated":"2023-03-31T19:08:58.936-05:00"}
+{"dg-publish":true,"permalink":"/proyects/rusted/","title":"Rusted","noteIcon":"","created":"2023-03-21T13:19:35.903-05:00","updated":"2023-07-06T07:42:02.000-05:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ### Jerarquía
 
-Rusted es una sociedad basada en el comercio y en la familia, y sus ciudadanos habitan en grandes ciudades en los árboles, 
+Rusted es una sociedad basada en el comercio y en la familia, y sus ciudadanos habitan en grandes ciudades en los árboles, son anárquicos y cuidan a los suyos y a su comunidad por sobre los demás, así cómo el bosque.
 
 ### Personalidad
 
@@ -75,6 +75,6 @@ Han acogido a algunos Channels, su religión les parece curiosa, pues, ¿cómo p
 
 ## Arte / Magia
 
-La magia de rusted es enfocada usando música, los sonidos de las flautas y las cuerdas les recuerdan a sus antepasados, tocan tonadas de sus familias, modificando el ánimo y potenciado las emociones que las personas pueden sentir, así mismo, pueden cambiar levemente el comportamiento de criaturas y plantas a su favor.
+La magia de rusted es enfocada usando música, los sonidos de las flautas y las cuerdas les recuerdan a sus antepasados, tocan tonadas de sus familias, modificando el ánimo y potenciado las emociones que las personas pueden sentir dependiendo de la tonada que ejecuten, así mismo, pueden cambiar levemente el comportamiento de criaturas y plantas a su favor.
 
 ---
