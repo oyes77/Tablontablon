@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-04-01T22:32:28.548-05:00"}
+{"dg-publish":true,"permalink":"/proyects/mineflow/","title":"Mineflow","noteIcon":"","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-07-06T07:37:29.000-05:00"}
 ---
 
 
@@ -87,6 +87,6 @@ Tienen una relación hostil con Romephan, los Romephanos suelen intentar invadir
 
 ## Arte / Magia
 
-Su magia es invocada leyendo libros y estudiando. Su magia les permite saber con certeza ciertas cosas sobre criaturas, plantas, fenómenos, y demás cualidades observaables. son investigadores natos debido a esto. suelen usarla para descubrir más sobre el mundo, y desentrañar los secretos de este.
+Su magia es invocada leyendo libros, estudiando o recordando información de un libro que tengan en sus manos. Esta les permite saber con certeza ciertas cosas sobre criaturas, plantas, fenómenos, y demás cualidades observaables. son investigadores natos debido a esto. suelen usarla para descubrir más sobre el mundo y desentrañar sus secretos mediante observación y prácticas científicas e investigativas, la magia se centra en la recolecciónde información y el análisis mediantela observación.
 
 ---
