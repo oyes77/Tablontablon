@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:44.543-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"noteIcon":"","created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:44.543-05:00"}
 ---
 
 
@@ -23,15 +23,13 @@ Todo lo que me inspire de alguna manera y por qué lo hace, solo puede ser integ
 
 | Referencias                                                                             | Menciones |
 | --------------------------------------------------------------------------------------- | --------- |
+| [[El Gesto Y la Palabra\|El Gesto Y la Palabra]]                                     | 0         |
 | [[El Lobo Solitario Y Su Cachorro\|El Lobo Solitario Y Su Cachorro]]                 | 0         |
-| [[Anagrama name\|Anagrama name]]                                                     | 0         |
 | [[William Klein\|William Klein]]                                                     | 0         |
 | [[Diane Arbus\|Diane Arbus]]                                                         | 0         |
 | [[Poeta - Rebecca Sol\|Poeta - Rebecca Sol]]                                         | 0         |
-| [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]]           | 1         |
 | [[Libros Semiótica\|Libros Semiótica]]                                               | 0         |
 | [[El Llanto De Señor Sol\|El Llanto De Señor Sol]]                                   | 0         |
-| [[El Gesto Y la Palabra\|El Gesto Y la Palabra]]                                     | 0         |
 | [[La Imagen Tiempo Y la Imagen Movimiento\|La Imagen Tiempo Y la Imagen Movimiento]] | 0         |
 
 { .block-language-dataview}
@@ -49,7 +47,6 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 | [[Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]] | 0         |
 | [[Mi Autoconsciencia\|Mi Autoconsciencia]]                                 | 0         |
 | [[Errores Autoref\|Errores Autoref]]                                       | 0         |
-| [[Indiferencia - La Palabra Al Color\|Indiferencia - La Palabra Al Color]] | 1         |
 | [[Teoría De la Comunicación\|Teoría De la Comunicación]]                   | 0         |
 | [[Criterios Curatoriales\|Criterios Curatoriales]]                         | 0         |
 | [[Gráfico Textual\|Gráfico Textual]]                                       | 0         |
@@ -82,9 +79,9 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 
 | Pensamientos                                                          | Menciones |
 | --------------------------------------------------------------------- | --------- |
+| [[Fotografía mental\|Fotografía mental]]                           | 0         |
 | [[Arco Dramático\|Arco Dramático]]                                 | 0         |
-| [[Autoref.\|Autoref.]]                                             | 3         |
-| [[Postmodernindad\|Postmodernindad]]                               | 0         |
+| [[Autoref.\|Autoref.]]                                             | 2         |
 | [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 
@@ -98,7 +95,8 @@ title: ¿Qué es un #Ensayo ?
 Textos más largos dónde conecto #Pensamiento, #Idea y #Referencia en una sola página, los Ensayos están enumerados en orden de lectura a diferencia del resto de categorías.
 ```
 
-| Ensayos | Menciones |
-| ------- | --------- |
+| Ensayos                                     | Menciones |
+| ------------------------------------------- | --------- |
+| [[Bitácora De Campo\|Bitácora De Campo]] | 0         |
 
 { .block-language-dataview}
