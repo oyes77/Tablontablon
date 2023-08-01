@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/romephan/","title":"Romephan","created":"2023-03-21T13:19:35.911-05:00","updated":"2023-04-01T22:29:53.976-05:00"}
+{"dg-publish":true,"permalink":"/proyects/romephan/","title":"Romephan","noteIcon":"","created":"2023-03-21T13:19:35.911-05:00","updated":"2023-07-06T07:39:40.000-05:00"}
 ---
 
 
@@ -31,7 +31,7 @@ Las labores que más hacen también dependen de sus clanes, algunos ejemplos son
 
 ## Territorio
 
-Las islas de romephan están vivas de actividad volcánica, calor y ceniza, el suelo es de piedra caliente o praderas con muy poca vegetación, donde se asentan algunas tribus, mientras que las más valientes viven en los propios volcanes.
+Las islas de romephan están vivas de actividad volcánica, calor y ceniza, el suelo es de piedra caliente o praderas con muy poca vegetación donde se asentan algunas tribus, mientras que las más valientes viven en los propios volcanes.
 
 ### Las Minas
 
@@ -92,7 +92,7 @@ Han tenido poco o nada de contacto, y no conocen demasiado sobre su cultura, alg
 
 ## Arte / Magia
 
-Cada una de estos clanes desarrolla su propia magia, basada en el color rojo, para usar esta magia los clanes usan diferentes formas de movimientos con el cuerpo, como artes de combate, danzas, y gimnasia.
+Cada una de estos clanes desarrolla su propia magia, basada en el color rojo, para usar esta magia los clanes usan diferentes formas de movimientos con el cuerpo, como artes de combate, danzas, y gimnasia, que deben ser ejecutadas correctamente para que la magia sea completada.
 
 Esta magia reconstruye tomando elementos de la naturaleza, uniendolos y transformandolos en algo nuevo, a diferencia de Channels, en vez de transformar algo a su forma más simple, usa los materiales simples para crear cosa más complejas.
 
