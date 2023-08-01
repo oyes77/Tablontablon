@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evocar/","title":"Evocar","tags":["Idea,"],"created":"2023-04-27T07:47:06.083-05:00","updated":"2023-04-27T07:48:15.434-05:00"}
+{"dg-publish":true,"permalink":"/evocar/","title":"Evocar","tags":["Idea,"],"noteIcon":"","created":"2023-04-27T07:47:06.083-05:00","updated":"2023-04-27T07:48:15.434-05:00"}
 ---
 
 
