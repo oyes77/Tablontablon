@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/dlnt/","title":"DLNT","tags":["Daily"],"noteIcon":"","created":"2023-03-22T10:31:00.788-05:00","updated":"2023-07-31T21:41:01.927-05:00"}
+{"dg-publish":true,"permalink":"/templates/dlnt/","title":"DLNT","tags":["Daily"],"noteIcon":"","created":"2023-03-22T10:31:00.788-05:00","updated":"2023-08-01T13:50:45.746-05:00"}
 ---
 
 
