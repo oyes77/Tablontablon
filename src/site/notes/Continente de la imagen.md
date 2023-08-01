@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/continente-de-la-imagen/","title":"Continente de la imagen","created":"2023-04-24T16:35:07.998-05:00","updated":"2023-04-24T16:35:55.770-05:00"}
+{"dg-publish":true,"permalink":"/continente-de-la-imagen/","title":"Continente de la imagen","noteIcon":"","created":"2023-04-24T16:35:07.998-05:00","updated":"2023-04-24T16:35:55.770-05:00"}
 ---
 
 
