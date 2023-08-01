@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/torreon/","title":"Torreón","created":"2023-03-21T13:19:35.927-05:00","updated":"2023-03-21T14:17:18.292-05:00"}
+{"dg-publish":true,"permalink":"/proyects/torreon/","title":"Torreón","noteIcon":"","created":"2023-03-21T13:19:35.927-05:00","updated":"2023-06-28T00:14:46.277-05:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 En el torreón los territorios envían los jóvenes al ser lo suficientemente maduros según sus padres, a aprender sobre el mundo.
 
 ## Cultura
+Hay muy pocos torrenses, incluso el término torrense es un apodo a los que no tienen magia o no saben usarla, más que a los nacidos del Torreón, el Torreón no es un territorio reconocido, sino una zona neutra con representantes de cada Territorio administrando la ciudad y enseñando a los  jóvenes elegidos.
 
 ## Geografía
 
