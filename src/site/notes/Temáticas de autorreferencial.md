@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tematicas-de-autorreferencial/","title":"Temáticas de autorreferencial","tags":["Idea,"],"created":"2023-04-24T16:40:48.556-05:00","updated":"2023-04-24T16:41:55.737-05:00"}
+{"dg-publish":true,"permalink":"/tematicas-de-autorreferencial/","title":"Temáticas de autorreferencial","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:40:48.556-05:00","updated":"2023-04-24T16:41:55.737-05:00"}
 ---
 
 
