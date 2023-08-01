@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-estetica-de-uno-mismo/","title":"La Estética De Uno Mismo","tags":["Idea,"],"created":"2023-04-26T10:35:47.943-05:00","updated":"2023-04-26T10:37:20.860-05:00"}
+{"dg-publish":true,"permalink":"/la-estetica-de-uno-mismo/","title":"La Estética De Uno Mismo","tags":["Idea,"],"noteIcon":"","created":"2023-04-26T10:35:47.943-05:00","updated":"2023-04-26T10:37:20.860-05:00"}
 ---
 
 
