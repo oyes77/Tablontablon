@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/replanteando-mi-bitacora/","title":"Replanteando mi Bitácora","tags":["Pensamiento,"],"created":"2023-04-27T08:49:17.599-05:00","updated":"2023-05-01T22:25:12.510-05:00"}
+{"dg-publish":true,"permalink":"/replanteando-mi-bitacora/","title":"Replanteando mi Bitácora","tags":["Pensamiento,"],"noteIcon":"","created":"2023-04-27T08:49:17.599-05:00","updated":"2023-05-01T22:25:12.510-05:00"}
 ---
 
 
