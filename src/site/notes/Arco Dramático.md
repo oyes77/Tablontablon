@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arco-dramatico/","title":"Arco Dramático","tags":["Pensamiento,"],"created":"2023-06-13T08:01:26.306-05:00","updated":"2023-06-13T08:17:56.981-05:00"}
+{"dg-publish":true,"permalink":"/arco-dramatico/","title":"Arco Dramático","tags":["Pensamiento,"],"noteIcon":"","created":"2023-06-13T08:01:26.306-05:00","updated":"2023-06-13T08:17:56.981-05:00"}
 ---
 
 
