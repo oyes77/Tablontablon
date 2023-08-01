@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/el-llanto-de-senor-sol/","title":"El Llanto De Señor Sol","tags":["Referencia,"],"created":"2023-05-02T07:22:47.067-05:00","updated":"2023-05-02T08:42:37.479-05:00"}
+{"dg-publish":true,"permalink":"/el-llanto-de-senor-sol/","title":"El Llanto De Señor Sol","tags":["Referencia,"],"noteIcon":"","created":"2023-05-02T07:22:47.067-05:00","updated":"2023-05-02T08:42:37.479-05:00"}
 ---
 
 
