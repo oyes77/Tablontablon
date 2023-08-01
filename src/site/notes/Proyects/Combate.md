@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/combate/","title":"Combate","created":"2023-03-21T13:19:35.945-05:00","updated":"2023-03-22T22:28:46.574-05:00"}
+{"dg-publish":true,"permalink":"/proyects/combate/","title":"Combate","noteIcon":"","created":"2023-03-21T13:19:35.945-05:00","updated":"2023-03-22T22:28:46.574-05:00"}
 ---
 
 
