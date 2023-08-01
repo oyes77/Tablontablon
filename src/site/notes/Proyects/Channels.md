@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/channels/","title":"Channels","created":"2023-03-21T13:19:35.909-05:00","updated":"2023-03-21T20:20:04.482-05:00"}
+{"dg-publish":true,"permalink":"/proyects/channels/","title":"Channels","noteIcon":"","created":"2023-03-21T13:19:35.909-05:00","updated":"2023-07-18T16:18:01.443-05:00"}
 ---
 
 
@@ -103,9 +103,9 @@ Estos son, según los habitantes de Channel, criaturas gigantes que pueden contr
 ## Relaciones
 
 ### [[Proyects/Mineflow\|Mineflow]]
-
+Tienen una relación evasiva con Mineflow, pues los ven cómo colonizadores y metiches que buscan revelar sus secretos.
 ### [[Proyects/Romephan\|Romephan]]
-
+Aborrecen la magia de channels, pues el combate les parece un arte que lleva a la guerra y no a la unificación.
 ### [[Proyects/Rusted\|Rusted]]
 
 Suelen comerciar con Rusted huesos de animales del desierto, que suelen ser mucho más densos, a la vez que maleables, que los de los otros territorios.
@@ -117,12 +117,10 @@ Ven al Torreón como una oportunidad de que sus jóvenes conozcan los defectos d
  > [!tip] Info
  > Esto gracias a el hongo. adicionalmente rusted lo usa porque han notado que asusta a ciertas criaturas peligrosas en el bosque.
 
-No se suelen relacionar con Mineflow ni con Romephan, pues los primeros solo están interesados en desvelar y sus secretos, y los segundos en el combate, algo que Channels aborrece, el combate solo ha sido usado contadas veces.
-
-Ningún otro territorio se ha asentado en el desierto de Chanels, pues los que se han aventurado a explorarlo y se han quedado por demasiado tiempo, han desaparecido y nunca han encontrado cuerpos o alguna edificación.
+Ningún otro territorio se ha asentado en el desierto de Channels, pues los que se han aventurado a explorarlo y se han quedado por demasiado tiempo, han desaparecido y nunca han encontrado cuerpos o alguna edificación.
 
 ## Arte / Magia
 
-Su magia se activa al rezar, pues creen en la Paz que les otorga su religión de las dunas. Al usar la magia del arte, convierten lo complejo en su versión más simple, como formas geométricas, simplificar los colores, o transformar algo en sus materiales de construcción.
+Su magia se activa al rezar y sentirse conectados con las dunas, pues creen en la Paz que les otorga su religión de las dunas. Al usar la magia del arte, convierten lo complejo en su versión más simple, como formas geométricas, simplificar los colores, o transformar algo en sus materiales de construcción.
 
 ---
