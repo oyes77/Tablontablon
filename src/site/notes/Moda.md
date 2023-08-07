@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/moda/","title":"Moda","tags":["Idea,"],"noteIcon":"","created":"2023-04-26T10:19:44.903-05:00","updated":"2023-04-26T10:36:19.464-05:00"}
+{"dg-publish":true,"permalink":"/moda/","title":"Moda","tags":["Idea,"],"noteIcon":"","created":"2023-04-26T10:19:44.903-05:00","updated":"2023-08-07T13:31:13.451-05:00"}
 ---
 
 
 # Moda
 
-La moda contiene un subtexto rico en mensajes y explicaciones sobre la cultura, el profe da el ejemplo de medellín, cómo los colores suelen ser neutros en la cuidad, la mayoría de personas usa gris, negros o azules oscuros, en la noche sin embargo, suelen romperse los límites de este decoro o miedo a sobresalir, con la cultura del reggaetón, la estética brillante, saturada y de despilfarro, este análisis tiene no el fin de entender a medellín, sino ser consientes de cómo la moda es una característica derivada de la cultura, por lo que habla de esta, no es algo “banal” o vulgar, etc, y debo pensar también cómo usar esta forma de narrar en mi autorreferencial.
+Qué cosas me gustan? debo analizar e introspeccionar mi ropa, mis objetos, qué considero bello en mi mundanéz o día a día
 
-[[La Estética De Uno Mismo\|La Estética De Uno Mismo]]
+> [!ai]+ AI
+>
+> >[!abstract] 📖Condensado
+> >La moda es una expresión cultural que transmite mensajes y refleja la identidad de una sociedad. Por ejemplo, en Medellín, los colores neutros como el gris, el negro y el azul oscuro son comunes en la vestimenta diaria. Sin embargo, durante la noche, se rompen las normas y se adopta una estética brillante y extravagante influenciada por la cultura del reguetón. Es importante comprender que la moda no es superficial ni vulgar, sino que revela aspectos culturales. Además, al analizar nuestra propia estética personal, podemos definir nuestro [[Estilo Gráfico\|estilo gráfico]] y utilizarlo como punto de partida en nuestra narrativa auto-referencial.
