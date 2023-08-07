@@ -44,20 +44,20 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
+| [[Moda\|Moda]]                                                             | 0         |
+| [[Quien Soy Cómo Comunicador\|Quien Soy Cómo Comunicador]]                 | 0         |
+| [[Momentos Decisivos\|Momentos Decisivos]]                                 | 0         |
+| [[Criterios Curatoriales\|Criterios Curatoriales]]                         | 0         |
+| [[Atributos Iconográficos\|Atributos Iconográficos]]                       | 0         |
 | [[Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]] | 0         |
 | [[Mi Autoconsciencia\|Mi Autoconsciencia]]                                 | 0         |
 | [[Errores Autoref\|Errores Autoref]]                                       | 0         |
 | [[Teoría De la Comunicación\|Teoría De la Comunicación]]                   | 0         |
-| [[Criterios Curatoriales\|Criterios Curatoriales]]                         | 0         |
 | [[Gráfico Textual\|Gráfico Textual]]                                       | 0         |
 | [[Evocar\|Evocar]]                                                         | 0         |
-| [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
-| [[Mis Preferencias Respecto Al Color\|Mis Preferencias Respecto Al Color]] | 1         |
-| [[La Estética De Uno Mismo\|La Estética De Uno Mismo]]                     | 1         |
-| [[Moda\|Moda]]                                                             | 0         |
 | [[Estilo Gráfico\|Estilo Gráfico]]                                         | 2         |
 | [[Narrativa Informática\|Narrativa Informática]]                           | 0         |
-| [[Quien Soy Cómo Comunicador\|Quien Soy Cómo Comunicador]]                 | 0         |
 | [[Elementos Semióticos\|Elementos Semióticos]]                             | 0         |
 | [[Estilo Y Género\|Estilo Y Género]]                                       | 0         |
 | [[Temáticas de autorreferencial\|Temáticas de autorreferencial]]           | 0         |
@@ -65,7 +65,6 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 | [[Contenido De la Imagen\|Contenido De la Imagen]]                         | 0         |
 | [[Composición\|Composición]]                                               | 0         |
 | [[Atributos Particulares\|Atributos Particulares]]                         | 0         |
-| [[Atributos Iconográficos\|Atributos Iconográficos]]                       | 0         |
 
 { .block-language-dataview}
 
@@ -79,11 +78,11 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 
 | Pensamientos                                                          | Menciones |
 | --------------------------------------------------------------------- | --------- |
+| [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 | [[Fotografía mental\|Fotografía mental]]                           | 0         |
 | [[Arco Dramático\|Arco Dramático]]                                 | 0         |
 | [[Autoref.\|Autoref.]]                                             | 2         |
 | [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
-| [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 
 { .block-language-dataview}
 
