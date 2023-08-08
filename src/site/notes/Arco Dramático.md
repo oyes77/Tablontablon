@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arco-dramatico/","title":"Arco Dramático","tags":["Pensamiento,"],"noteIcon":"","created":"2023-06-13T08:01:26.306-05:00","updated":"2023-06-13T08:17:56.981-05:00"}
+{"dg-publish":true,"permalink":"/arco-dramatico/","title":"Arco Dramático","tags":["Pensamiento,"],"noteIcon":"","created":"2023-06-13T08:01:26.306-05:00","updated":"2023-08-08T15:46:39.277-05:00"}
 ---
 
 
@@ -32,3 +32,15 @@ La oportunidad de superar su debilidad y la situación que lo abrumaba en la cri
 ### Resolución
 
 Se ven los resultados de la historia y se cierran los arcos o cabos sueltos, es preferible que sea corta.
+
+
+
+> [!multi-column]
+> 
+> > [!abstract] 📖 Condensado
+> > El arco dramático es una estructura narrativa que sigue un patrón de eventos en una historia. Incluye un disparador que desencadena la acción, un conflicto interno que impulsa al protagonista a tomar acción, una crisis en la que el protagonista se enfrenta a un callejón sin salida y debe hacer un sacrificio, un clímax en el que se pone todo en juego y finalmente una resolución donde se cierran los cabos sueltos.
+>
+> > [!example] 🕯️ Información Adicional
+> > - El arco dramático es similar al viaje del héroe, pero no necesariamente implica elementos fantásticos o mitológicos.
+> > - Durante el acto 2, el protagonista puede encontrarse con diferentes personajes o situaciones que cumplan roles de aliados, mentores o enemigos temporales.
+> > - La resolución debe ser breve y mostrar los resultados de la historia de manera satisfactoria.
