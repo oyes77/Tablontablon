@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/daily-notes/mon-24-april-2023/","title":"Mon-24-April-2023","noteIcon":"","created":"2023-04-24T10:13:13.629-05:00","updated":"2023-07-30T16:22:30.890-05:00"}
+{"dg-publish":true,"permalink":"/journal/daily-notes/mon-24-april-2023/","title":"Mon-24-April-2023","tags":["Daily,"],"noteIcon":"","created":"2023-04-24T10:13:13.629-05:00","updated":"2023-08-07T13:41:14.325-05:00"}
 ---
 
 
