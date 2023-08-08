@@ -44,13 +44,15 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]] | 0         |
+| [[Contenido De la Imagen\|Contenido De la Imagen]]                         | 0         |
+| [[Continente de la imagen\|Continente de la imagen]]                       | 0         |
 | [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
 | [[Moda\|Moda]]                                                             | 0         |
 | [[Quien Soy Cómo Comunicador\|Quien Soy Cómo Comunicador]]                 | 0         |
 | [[Momentos Decisivos\|Momentos Decisivos]]                                 | 0         |
 | [[Criterios Curatoriales\|Criterios Curatoriales]]                         | 0         |
 | [[Atributos Iconográficos\|Atributos Iconográficos]]                       | 0         |
-| [[Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]] | 0         |
 | [[Mi Autoconsciencia\|Mi Autoconsciencia]]                                 | 0         |
 | [[Errores Autoref\|Errores Autoref]]                                       | 0         |
 | [[Teoría De la Comunicación\|Teoría De la Comunicación]]                   | 0         |
@@ -62,7 +64,6 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 | [[Estilo Y Género\|Estilo Y Género]]                                       | 0         |
 | [[Temáticas de autorreferencial\|Temáticas de autorreferencial]]           | 0         |
 | [[Diseño de triadas\|Diseño de triadas]]                                   | 0         |
-| [[Contenido De la Imagen\|Contenido De la Imagen]]                         | 0         |
 | [[Composición\|Composición]]                                               | 0         |
 | [[Atributos Particulares\|Atributos Particulares]]                         | 0         |
 
@@ -94,8 +95,9 @@ title: ¿Qué es un #Ensayo ?
 Textos más largos dónde conecto #Pensamiento, #Idea y #Referencia en una sola página, los Ensayos están enumerados en orden de lectura a diferencia del resto de categorías.
 ```
 
-| Ensayos                                     | Menciones |
-| ------------------------------------------- | --------- |
-| [[Bitácora De Campo\|Bitácora De Campo]] | 0         |
+| Ensayos                                       | Menciones |
+| --------------------------------------------- | --------- |
+| [[Bitácora De Campo\|Bitácora De Campo]]   | 0         |
+| [[Figuras Literarias\|Figuras Literarias]] | 0         |
 
 { .block-language-dataview}
