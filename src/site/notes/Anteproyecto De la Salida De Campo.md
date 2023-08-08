@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anteproyecto-de-la-salida-de-campo/","title":"Anteproyecto De la Salida De Campo","tags":["Idea,"],"noteIcon":"","created":"2023-06-23T00:04:23.392-05:00","updated":"2023-06-23T02:01:28.597-05:00"}
+{"dg-publish":true,"permalink":"/anteproyecto-de-la-salida-de-campo/","title":"Anteproyecto De la Salida De Campo","tags":["Idea,"],"noteIcon":"","created":"2023-06-23T00:04:23.392-05:00","updated":"2023-08-07T18:52:19.008-05:00"}
 ---
 
 
@@ -28,3 +28,17 @@ Mostrar y resaltar la importancia de estos espacios transitorios en la vida de l
 cómo meta secundaria, busco darle reconocimiento a las mujeres que atienden estos lugares,
 
 Según datos de la Federación Nacional de Comerciantes Empresarios (Fenalco), la mitad de las tiendas colombianas son administradas por mujeres que en su mayoría son madres cabeza de familia y su edad promedio esta por los 42 años.
+
+> [!multi-column]
+> 
+> > [!abstract] 📖 Condensado
+> > Fotografiar establecimientos comerciales locales en Sonson, incluyendo barrios, corregimientos y fincas. Crear dípticos con imágenes del establecimiento y retratos de los dueños/empleados o visitantes. 
+>
+> > [!example] 🕯️ Información Adicional
+> > - Realizar entrevistas y crónicas para recopilar información sobre los establecimientos y la ciudad.
+> > - Tomar fotografías basadas en las narraciones obtenidas durante las entrevistas.
+> > - Resaltar la importancia de estos espacios en la vida de los habitantes y su reflejo de identidad social y de clase.
+> > - Destacar la preferencia de consumidores de estratos 1, 2 y 3 por estos establecimientos.
+> > - Contraste entre las diferentes formas de vivir y ver el mundo en cada espacio dentro del territorio.
+> > - Reconocimiento a las mujeres que administran estos lugares, especialmente madres cabeza de familia.
+
