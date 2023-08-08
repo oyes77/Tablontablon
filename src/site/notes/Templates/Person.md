@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/templates/person/","title":"{{firstname}} {{lastname}}","tags":["Person"],"noteIcon":"","created":"2023-03-23T22:00:18.836-05:00","updated":"2023-08-07T19:16:38.583-05:00"}
+{"dg-publish":true,"permalink":"/templates/person/","title":"{{firstname}} {{lastname}}","tags":["Person"],"noteIcon":"","created":"2023-03-23T22:00:18.836-05:00","updated":"2023-08-07T19:30:46.716-05:00"}
 ---
 
 
 # {{firstname}} {{lastname}}
 
-## Info Adicional:
+> [!info] 🏵️ Resumen
+> .
+> .
+> .
+> .
 
-
-
----- 
 > [!multi-column]
 > 
 > > [!question] 📞 Contacto
