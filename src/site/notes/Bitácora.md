@@ -44,10 +44,10 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
+| [[Continente de la imagen\|Continente de la imagen]]                       | 0         |
 | [[Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]] | 0         |
 | [[Contenido De la Imagen\|Contenido De la Imagen]]                         | 0         |
-| [[Continente de la imagen\|Continente de la imagen]]                       | 0         |
-| [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
 | [[Moda\|Moda]]                                                             | 0         |
 | [[Quien Soy Cómo Comunicador\|Quien Soy Cómo Comunicador]]                 | 0         |
 | [[Momentos Decisivos\|Momentos Decisivos]]                                 | 0         |
@@ -79,9 +79,9 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 
 | Pensamientos                                                          | Menciones |
 | --------------------------------------------------------------------- | --------- |
+| [[Arco Dramático\|Arco Dramático]]                                 | 0         |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 | [[Fotografía mental\|Fotografía mental]]                           | 0         |
-| [[Arco Dramático\|Arco Dramático]]                                 | 0         |
 | [[Autoref.\|Autoref.]]                                             | 2         |
 | [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 
