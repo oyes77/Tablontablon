@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos/","title":"Instructivo Eventos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T16:29:42.184-05:00"}
+{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos/","title":"Instructivo Eventos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T16:31:04.576-05:00"}
 ---
 
 
@@ -33,9 +33,5 @@ Antes de anunciar el evento, asegúrate de completar los campos correspondientes
 
 ¡Ya estás list@ para crear momentos inolvidables en nuestros eventos nebulosos!
 
-
-
-
-
-
-![](https://i.imgur.com/Tfvb0Oj.png)
+Ejemplo:
+![](https://i.imgur.com/Dk7BrGY.png)
