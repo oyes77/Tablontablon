@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/person/","title":"{{firstname}} {{lastname}}","tags":["Person"],"noteIcon":"","created":"2023-03-23T22:00:18.836-05:00","updated":"2023-08-07T19:30:46.716-05:00"}
+{"dg-publish":true,"permalink":"/templates/person/","title":"{{firstname}} {{lastname}}","tags":["Person"],"noteIcon":"","created":"2023-03-23T22:00:18.836-05:00","updated":"2023-08-07T22:23:58.399-05:00"}
 ---
 
 
