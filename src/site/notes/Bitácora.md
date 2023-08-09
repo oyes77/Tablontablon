@@ -79,10 +79,10 @@ Una o varias #Idea procesadas en un texto con más cuerpo, las ideas a las que l
 
 | Pensamientos                                                          | Menciones |
 | --------------------------------------------------------------------- | --------- |
+| [[Autoref.\|Autoref.]]                                             | 2         |
 | [[Arco Dramático\|Arco Dramático]]                                 | 0         |
 | [[Replanteando Mi Bitácora\|Replanteando Mi Bitácora]]             | 0         |
 | [[Fotografía mental\|Fotografía mental]]                           | 0         |
-| [[Autoref.\|Autoref.]]                                             | 2         |
 | [[Informe Sobre Sonsón, Colombia\|Informe Sobre Sonsón, Colombia]] | 0         |
 
 { .block-language-dataview}
