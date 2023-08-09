@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos-ezma-pc/","title":"Instructivo Eventos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T20:26:00.906-05:00"}
+---
+
+
+# Guia de Eventos Nebulosos ✨
+**¡Descubre cómo crear eventos increíbles y emocionantes para disfrutar al máximo!**
+
+Hay dos tipos de eventos que puedes organizar: eventos únicos y eventos semanales. Ambos siguen un proceso similar.
+
+Para empezar, elige una fecha y hora para tu evento. Si es un evento semanal, la fecha siempre será el mismo día de la semana, a menos que surja una emergencia. Si es un evento único, programa la fecha con cinco días de anticipación o al inicio del mes. No olvides establecer también la hora.
+
+El siguiente paso es crear una imagen espectacular para el banner del evento. Si es un evento semanal con una temática fija, como jugar Gartic Phone o ver películas, puedes utilizar una imagen preexistente. ¡Pero si quieres algo más original, nuestros talentosos artistas pueden diseñar un banner exclusivo para ti! La resolución ideal para el banner es de 800x220 píxeles. Recuerda tener tu banner listo con al menos cuatro días de anticipación a la fecha programada del evento, ya que ese día se publica el anuncio oficial… Hablando del anuncio:
+
+El anuncio debe contener los siguientes elementos en un mismo mensaje y en el siguiente orden:
+
+# 🎤 ¡Noche de Karaoke! (título con un emoji relacionado)
+
+¡Esta noche cantaremos juntos las canciones que ustedes soliciten! Deja tus inhibiciones a un lado porque ¡esa canción no se cantará sola! (descripción complementaria opcional)
+
+- Micrófono obligatorio.
+- Duración del evento: 3 horas.
+- Podrás pedir una canción a la vez para que todos tengamos la oportunidad de mostrar nuestro talento.
+- (lista de información importante o instrucciones para el evento, como el uso del micrófono y la duración aproximada).
+
+![](https://i.imgur.com/Tfvb0Oj.png)
+(imagen del evento)
+@Jugador @Molestables (Pings obligatorios)
+(Link de invitación al evento)
+
+- - -
+Antes de anunciar el evento, asegúrate de completar los campos correspondientes en el menú de eventos con la misma información del anuncio (título, descripción, aclaraciones e instrucciones, imagen), además de los campos adicionales del evento (fecha y hora, día, lugar).
+
+¡Ya estás list@ para crear momentos inolvidables en nuestros eventos nebulosos!
+
+Ejemplo:
+![](https://i.imgur.com/Dk7BrGY.png)
+
+- - - 
+### Recomendaciones:
+- Dile a los usuarios sobre el próximo evento para que sigan participando 
+- pueden subir los sketches y dibujos que hicieron en el evento si es de arte en el canal de chat-arte 
+- no hay ningún problema en que los eventos se alarguen más de lo esperado si todos tienen energía y ganas de continuar nwn
