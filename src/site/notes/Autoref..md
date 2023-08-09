@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"noteIcon":"","created":"2023-05-01T15:11:52.746-05:00","updated":"2023-06-02T15:04:31.636-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"noteIcon":"","created":"2023-05-01T15:11:52.746-05:00","updated":"2023-08-08T20:37:01.754-05:00"}
 ---
 
 
@@ -35,7 +35,7 @@ El piano es una parte de mi, pertenece a mi identidad, y me siento orgulloso de 
 
 ### 3: Autosabotaje - Rojo
 
-[Site Unreachable](https://www.youtube.com/watch?v=dpGpG_0xu1Q)
+![Site Unreachable](https://www.youtube.com/watch?v=dpGpG_0xu1Q)
 
 El piano me ha herido y me he herido por seguir con el. la imagen 1 es yo cotradome las venas desde la muñeca con una aguja de hilo o unas tijeras de maquillaje, en todo caso que la herramienta se vea frágil, pero causando daño de todas maneras, también puedo usar vendas.
 
