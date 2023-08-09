@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos-ezma-pc/","title":"Guia de Eventos Nebulosos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T20:45:15.378-05:00"}
+{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos-ezma-pc/","title":"Guia de Eventos Nebulosos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T20:58:37.913-05:00"}
 ---
 
 
@@ -35,9 +35,11 @@ Antes de anunciar el evento, asegúrate de completar los campos correspondientes
 ¡Ya estás list@ para crear momentos inolvidables en nuestros eventos nebulosos!
 
 Ejemplo:
-![right|450](https://i.imgur.com/Dk7BrGY.png)
-- - -  
-- ### Recomendaciones:
+
+> [!blank-container|right-medium] nyanya nyaaaa uuuuuuuuuuuuuuuuu
+> ![](https://i.imgur.com/Dk7BrGY.png)
+> ### Recomendaciones:
+
 - Dile a los usuarios sobre el próximo evento para que sigan participando 
 - pueden subir los sketches y dibujos que hicieron en el evento si es de arte en el canal de chat-arte 
 - no hay ningún problema en que los eventos se alarguen más de lo esperado si todos tienen energía y ganas de continuar nwn
