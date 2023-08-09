@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos-ezma-pc/","title":"Instructivo Eventos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T20:26:00.906-05:00"}
+{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos-ezma-pc/","title":"Guia de Eventos Nebulosos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T20:45:15.378-05:00"}
 ---
 
 
-# Guia de Eventos Nebulosos ✨
+# Guia De Eventos Nebulosos ✨
+
 **¡Descubre cómo crear eventos increíbles y emocionantes para disfrutar al máximo!**
 
 Hay dos tipos de eventos que puedes organizar: eventos únicos y eventos semanales. Ambos siguen un proceso similar.
@@ -14,7 +15,7 @@ El siguiente paso es crear una imagen espectacular para el banner del evento. Si
 
 El anuncio debe contener los siguientes elementos en un mismo mensaje y en el siguiente orden:
 
-# 🎤 ¡Noche de Karaoke! (título con un emoji relacionado)
+# 🎤 ¡Noche De Karaoke! (título Con Un Emoji relacionado)
 
 ¡Esta noche cantaremos juntos las canciones que ustedes soliciten! Deja tus inhibiciones a un lado porque ¡esa canción no se cantará sola! (descripción complementaria opcional)
 
@@ -23,7 +24,7 @@ El anuncio debe contener los siguientes elementos en un mismo mensaje y en el si
 - Podrás pedir una canción a la vez para que todos tengamos la oportunidad de mostrar nuestro talento.
 - (lista de información importante o instrucciones para el evento, como el uso del micrófono y la duración aproximada).
 
-![](https://i.imgur.com/Tfvb0Oj.png)
+![|775](https://i.imgur.com/Tfvb0Oj.png)
 (imagen del evento)
 @Jugador @Molestables (Pings obligatorios)
 (Link de invitación al evento)
@@ -34,10 +35,9 @@ Antes de anunciar el evento, asegúrate de completar los campos correspondientes
 ¡Ya estás list@ para crear momentos inolvidables en nuestros eventos nebulosos!
 
 Ejemplo:
-![](https://i.imgur.com/Dk7BrGY.png)
-
-- - - 
-### Recomendaciones:
+![right|450](https://i.imgur.com/Dk7BrGY.png)
+- - -  
+- ### Recomendaciones:
 - Dile a los usuarios sobre el próximo evento para que sigan participando 
 - pueden subir los sketches y dibujos que hicieron en el evento si es de arte en el canal de chat-arte 
 - no hay ningún problema en que los eventos se alarguen más de lo esperado si todos tienen energía y ganas de continuar nwn
