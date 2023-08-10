@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora-de-campo/","title":"Bitácora De Campo","tags":["Ensayo"],"noteIcon":"","created":"2023-07-24T22:03:22.627-05:00","updated":"2023-08-10T15:22:53.477-05:00"}
+{"dg-publish":true,"permalink":"/bitacora-de-campo/","title":"Bitácora De Campo","tags":["Ensayo"],"noteIcon":"","created":"2023-07-24T22:03:22.627-05:00","updated":"2023-08-10T17:20:36.900-05:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Usé chatGPT con búsqueda a a web para hacer un scrape rápido de información sobre Sonsón, y darme una idea de qué podría haber en la ciudad desde diferentes puntos de vista (Turístico, Religioso, Agricultor, Cultural histórico)
 - Me decidí por abordar un tema cotidiano en la vida de cualquier Sonsoreño, pero que fuera motivo de apersonación.
 ## Inicio Del Proyecto
-
+Seguí las preguntas orientadoras que recomendó la profe Juli, 
 ## Práctica Del Proyecto/Producción
 
 ### Día 0 - Llegada
@@ -48,6 +48,7 @@ Caminé buscando fotos en otras partes de Sonsón a las que no había ido, y enc
 ## Edición Del Proyecto/Post-Producción
 
 ### Grabaciones
+Extraje el texto de las conversaciones con Whisper AI ![](https://i.imgur.com/BOBAeJA.png)
 
 ### Imágenes
 Edité las imágenes en Affinity Photo, usando cómo guía de los colores y tonos que quería darle a las imágenes la propia bander de Sonsón, con blancos cálidos y sombras de tonos verdosos.
