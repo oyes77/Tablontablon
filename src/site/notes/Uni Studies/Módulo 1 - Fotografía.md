@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","tags":["Universidad,"],"noteIcon":"","created":"2023-03-14T13:36:47.684-05:00","updated":"2023-04-21T18:16:14.079-05:00"}
+{"dg-publish":true,"permalink":"/uni-studies/modulo-1-fotografia/","title":"Módulo 1 - Fotografía","tags":["Universidad,"],"noteIcon":"","created":"2023-05-09T16:09:49.000-05:00","updated":"2023-04-21T18:16:14.000-05:00"}
 ---
 
 
