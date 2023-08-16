@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"noteIcon":"","created":"2023-05-09T16:06:24.000-05:00","updated":"2023-05-01T22:37:44.000-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"noteIcon":"","created":"2023-05-09T16:06:24.000-05:00","updated":"2023-08-16T10:07:32.603-05:00"}
 ---
 
 
@@ -102,3 +102,4 @@ Textos más largos dónde conecto #Pensamiento, #Idea y #Referencia en una sola 
 | [[Figuras Literarias\|Figuras Literarias]] | 0         |
 
 { .block-language-dataview}
+
