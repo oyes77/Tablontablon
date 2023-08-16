@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ezma-hub/","title":"Ezma Hub","tags":["Drawingattack","Universidad","Personal","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-05-09T16:07:09.000-05:00","updated":"2023-08-16T10:10:50.239-05:00"}
+{"dg-publish":true,"permalink":"/ezma-hub/","title":"Ezma Hub","tags":["Drawingattack","Universidad","Personal","gardenEntry"],"noteIcon":"","created":"2023-05-09T16:07:09.000-05:00","updated":"2023-08-16T10:14:09.551-05:00"}
 ---
 
 
@@ -24,8 +24,6 @@ Los tags sirven para organizar notas por temática o estado globalmente, por eje
 
 Los contextos comúnes de cada nota, por ahora no me da el tiempo para hacer más cosas que mi carrera universitaria, y mi comunidad de discord, así que todo lo adicional está encapsulado dentro del tag personal.
 
-#### #Drawingattack - Referentes a Mi Comunidad De Arte
-
-#### #Universidad - Referentes a Mi Carrera Universitaria
-
-#### #Personal - Referentes a Todo Lo Demás
+- #Drawingattack - Referentes a Mi Comunidad De Arte
+- #Universidad - Referentes a Mi Carrera Universitaria
+- #Personal - Referentes a Todo Lo Demás
