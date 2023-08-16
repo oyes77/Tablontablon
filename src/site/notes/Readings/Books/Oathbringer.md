@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/books/oathbringer/","title":"Oathbringer","tags":["Book"],"noteIcon":"","created":"2023-08-09T21:43:03.800-05:00","updated":"2023-08-09T21:43:13.139-05:00"}
+{"dg-publish":true,"permalink":"/readings/books/oathbringer/","title":"Oathbringer","tags":["Book"],"noteIcon":"","created":"2023-08-09T22:47:31.000-05:00","updated":"2023-08-09T21:43:13.000-05:00"}
 ---
 
 
