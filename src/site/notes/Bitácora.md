@@ -44,6 +44,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Composición\|Composición]]                                               | 0         |
 | [[Guión casa de papel\|Guión casa de papel]]                               | 0         |
 | [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
 | [[Continente de la imagen\|Continente de la imagen]]                       | 0         |
@@ -64,8 +65,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 | [[Elementos Semióticos\|Elementos Semióticos]]                             | 0         |
 | [[Estilo Y Género\|Estilo Y Género]]                                       | 0         |
 | [[Temáticas de autorreferencial\|Temáticas de autorreferencial]]           | 0         |
-| [[Diseño de triadas\|Diseño de triadas]]                                   | 0         |
-| [[Composición\|Composición]]                                               | 0         |
+| [[Diseño de triadas\|Diseño de triadas]]                                   | 1         |
 | [[Atributos Particulares\|Atributos Particulares]]                         | 0         |
 
 { .block-language-dataview}
