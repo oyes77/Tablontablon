@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/daily-notes/thu-23-march-2023/","title":"DLNT","tags":["Daily,"],"noteIcon":"","created":"2023-03-23T01:34:00.572-05:00","updated":"2023-08-07T13:41:19.951-05:00"}
+{"dg-publish":true,"permalink":"/journal/daily-notes/thu-23-march-2023/","title":"DLNT","tags":["Daily,"],"noteIcon":"","created":"2023-08-07T14:42:08.000-05:00","updated":"2023-08-07T13:41:19.000-05:00"}
 ---
 
 
