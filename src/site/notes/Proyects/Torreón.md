@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/torreon/","title":"Torreón","noteIcon":"","created":"2023-03-21T13:19:35.927-05:00","updated":"2023-06-28T00:14:46.277-05:00"}
+{"dg-publish":true,"permalink":"/proyects/torreon/","title":"Torreón","noteIcon":"","created":"2023-06-28T11:25:46.000-05:00","updated":"2023-06-28T00:14:46.000-05:00"}
 ---
 
 
