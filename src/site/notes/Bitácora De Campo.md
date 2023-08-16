@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora-de-campo/","title":"Bitácora De Campo","tags":["Ensayo"],"noteIcon":"","created":"2023-07-24T22:03:22.627-05:00","updated":"2023-08-10T19:25:14.613-05:00"}
+{"dg-publish":true,"permalink":"/bitacora-de-campo/","title":"Bitácora De Campo","tags":["Ensayo"],"noteIcon":"","created":"2023-08-10T19:51:22.000-05:00","updated":"2023-08-10T19:42:49.000-05:00"}
 ---
 
 
@@ -8,20 +8,16 @@
 ## Ideación Del Proyecto
 
 ### Lluvia De Ideas
-- Usé chatGPT con búsqueda a a web para hacer un scrape rápido de información sobre Sonsón, y darme una idea de qué podría haber en la ciudad desde diferentes puntos de vista (Turístico, Religioso, Agricultor, Cultural histórico)
+- Usé chatGPT con búsqueda a web para hacer una extracción y resumen información sobre Sonsón además de hacer una investigación propia, para acercarme al contexto de la ciudad desde diferentes puntos de vista (Turístico, Religioso, Agricultor, Cultural histórico).
 - Me decidí por abordar un tema cotidiano en la vida de cualquier Sonsoreño, pero que fuera motivo de apersonación.
 
-- - -
 ## Inicio Del Proyecto
 Seguí las preguntas orientadoras que recomendó la profe [[People/JULIANA RESTREPO SANTAMARIA\|Juli]], Postulé varias alternativas al enfoque de por qué quería tomarle fotos a los integrantes y las tiendas tradicionales de sonsón, la retroalimentación presentada en clase me ayudó a elegir finalmente uno de estos enfoques.
 
-- - -
 ## Práctica Del Proyecto/Producción
 
 ### Día 0 - Llegada
 En el día de llegada tomé fotos no relacionadas al proyecto, y me dediqué a recorrer los espacios y a hacerme familiar con el pueblo. 
-
-- - -
 #### Imágenes del primer día:
 > [!multi-column]
 > 
@@ -32,7 +28,6 @@ En el día de llegada tomé fotos no relacionadas al proyecto, y me dediqué a r
 > > ![|450](https://i.imgur.com/bH8BNxh.png)
 > 
 
-- - - 
 #### Google Maps:
 > [!multi-column ]
 > > [!info|wide-2] 📷
@@ -46,15 +41,13 @@ En el día de llegada tomé fotos no relacionadas al proyecto, y me dediqué a r
 > > Regresé a la plaza y me encontré con el profesor [[People/ANDRES ALBERTO MONTAÑO HERNANDEZ\|Andrés]], quien me hizo reevaluar mi metodología, el primer día no fué muy productivo respecto a fotos, pero el ejercicio de entrevistas fué largo y tendido, el me aconsejó buscar primero las imágenes, y luego de asegurar esto dedicarle tiempo a lo demás.
 > > 
 
-
-- - -
 ### Día 3
 
 Caminé buscando fotos en otras partes de Sonsón a las que no había ido, y encontré más lugares y personas a las que fotografiar en base a la nueva metodología, y grababa una conversación solo si surgía naturalmente en el proceso de tomar las fotografías, recorrí el norte y occidente de Sonsón junto con la profesora [[People/JULIANA RESTREPO SANTAMARIA\| Juli]]
 
 ### Día 4 - Final
 Por la mañana empecé a descartar fotografías de la cámara, e ir adelantando el trabajo de selección, además de liberar espacio a la SD del Profesor [[People/SIGIFREDO ESCOBAR GOMEZ\|Sigi]]
-- - -
+
 ## Edición Del Proyecto/Post-Producción
 
 ### Grabaciones
@@ -62,8 +55,8 @@ Extraje el texto de las conversaciones con Whisper AI, no obtuve el ejercicio qu
 
 ![](https://i.imgur.com/BOBAeJA.png)
 
-- - - 
 ### Imágenes
 Edité las imágenes en Affinity Photo, usando cómo guía de los colores y tonos que quería darle a las imágenes la propia bander de Sonsón, con blancos cálidos y sombras de tonos verdosos.
-- - - 
+
+![](https://i.imgur.com/F5v7fy3.png)
 
