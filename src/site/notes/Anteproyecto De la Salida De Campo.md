@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anteproyecto-de-la-salida-de-campo/","title":"Anteproyecto De la Salida De Campo","tags":["Idea,"],"noteIcon":"","created":"2023-06-23T00:04:23.392-05:00","updated":"2023-08-07T18:52:19.008-05:00"}
+{"dg-publish":true,"permalink":"/anteproyecto-de-la-salida-de-campo/","title":"Anteproyecto De la Salida De Campo","tags":["Idea,"],"noteIcon":"","created":"2023-08-07T19:14:51.000-05:00","updated":"2023-08-07T18:52:19.000-05:00"}
 ---
 
 
