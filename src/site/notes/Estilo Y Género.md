@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estilo-y-genero/","title":"Estilo Y Género","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:43:23.647-05:00","updated":"2023-04-24T16:46:48.262-05:00"}
+{"dg-publish":true,"permalink":"/estilo-y-genero/","title":"Estilo Y Género","tags":["Idea,"],"noteIcon":"","created":"2023-05-09T16:07:04.000-05:00","updated":"2023-04-24T16:46:48.000-05:00"}
 ---
 
 
