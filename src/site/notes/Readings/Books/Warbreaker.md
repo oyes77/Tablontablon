@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/books/warbreaker/","title":"Warbreaker","tags":["Book",1],"noteIcon":"","created":"2023-08-08T22:05:07.381-05:00","updated":"2023-08-08T22:17:03.162-05:00"}
+{"dg-publish":true,"permalink":"/readings/books/warbreaker/","title":"Warbreaker","tags":["Book",1],"noteIcon":"","created":"2023-08-08T22:47:00.000-05:00","updated":"2023-08-08T22:17:03.000-05:00"}
 ---
 
 
