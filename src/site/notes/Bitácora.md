@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"noteIcon":"","created":"2023-04-21T15:36:09.876-05:00","updated":"2023-05-01T22:37:44.543-05:00"}
+{"dg-publish":true,"permalink":"/bitacora/","title":"Bitácora","tags":["Referencia","Idea","Pensamiento","Ensayo"],"noteIcon":"","created":"2023-05-09T16:06:24.000-05:00","updated":"2023-05-01T22:37:44.000-05:00"}
 ---
 
 
@@ -44,6 +44,7 @@ Su función es encapsular mi mente en el momento sin pretención de ser algo má
 
 | Ideas                                                                         | Menciones |
 | ----------------------------------------------------------------------------- | --------- |
+| [[Guión casa de papel\|Guión casa de papel]]                               | 0         |
 | [[Inclinaciones Estéticas\|Inclinaciones Estéticas]]                       | 0         |
 | [[Continente de la imagen\|Continente de la imagen]]                       | 0         |
 | [[Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]] | 0         |
