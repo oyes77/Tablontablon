@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/ernesto-correa-herrera/","title":"ERNESTO  CORREA HERRERA","tags":["Person"],"noteIcon":"","created":"2023-03-23T14:58:45.590-05:00","updated":"2023-08-07T19:33:46.962-05:00"}
+{"dg-publish":true,"permalink":"/people/ernesto-correa-herrera/","title":"ERNESTO  CORREA HERRERA","tags":["Person"],"noteIcon":"","created":"2023-08-07T20:19:21.000-05:00","updated":"2023-08-07T19:33:46.000-05:00"}
 ---
 
 
