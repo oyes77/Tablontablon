@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/errores-autoref/","title":"Errores Autoref","tags":["Idea,"],"noteIcon":"","created":"2023-05-25T08:34:25.150-05:00","updated":"2023-05-25T09:19:16.981-05:00"}
+{"dg-publish":true,"permalink":"/errores-autoref/","title":"Errores Autoref","tags":["Idea,"],"noteIcon":"","created":"2023-05-25T11:42:48.000-05:00","updated":"2023-05-25T09:19:16.000-05:00"}
 ---
 
 
