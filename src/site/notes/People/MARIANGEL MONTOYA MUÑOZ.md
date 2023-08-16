@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/mariangel-montoya-munoz/","title":"MARIANGEL MONTOYA MUÑOZ","tags":["Person"],"noteIcon":"","created":"2023-08-07T19:15:15.366-05:00","updated":"2023-08-07T19:32:47.380-05:00"}
+{"dg-publish":true,"permalink":"/people/mariangel-montoya-munoz/","title":"MARIANGEL MONTOYA MUÑOZ","tags":["Person"],"noteIcon":"","created":"2023-08-07T20:19:23.000-05:00","updated":"2023-08-07T19:32:47.000-05:00"}
 ---
 
 
