@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/magia/","title":"Magia","noteIcon":"","created":"2023-03-21T13:19:35.943-05:00","updated":"2023-07-07T15:26:15.495-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Magia/","title":"Magia","noteIcon":"","created":"2023-03-21T13:19:35.943-05:00","updated":"2023-07-07T15:26:15.495-05:00"}
 ---
 
 
