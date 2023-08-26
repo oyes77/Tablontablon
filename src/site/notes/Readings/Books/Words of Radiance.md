@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/readings/books/words-of-radiance/","title":"Words of Radiance","tags":["Book"],"noteIcon":"","created":"2023-08-09T22:47:32.000-05:00","updated":"2023-08-09T21:43:20.000-05:00"}
+{"dg-publish":true,"permalink":"/readings/books/words-of-radiance/","title":"Words of Radiance","tags":["Book, Referencia,"],"noteIcon":"","created":"2023-08-09T21:42:40.700-05:00","updated":"2023-08-23T01:41:59.504-05:00"}
 ---
 
 
 # Words of Radiance
+
 - - -
 > [!multi-column]
 > 
 > > [!blank-container|wide-1]
-> >  ![cover|300](http://books.google.com/books/content?id=dTUAAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+> > ![cover|300](http://books.google.com/books/content?id=dTUAAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 > >- Contiene *1364* Páginas
 > >- Escrito por *Brandon Sanderson*
 > 
