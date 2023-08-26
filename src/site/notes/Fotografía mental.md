@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fotografia-mental/","title":"Fotografía Mental","tags":["Pensamiento"],"noteIcon":"","created":"2023-07-14T11:10:12.657-05:00","updated":"2023-07-18T10:56:06.347-05:00"}
+{"dg-publish":true,"permalink":"/fotografia-mental/","title":"Fotografía Mental","tags":["Pensamiento"],"noteIcon":"","created":"2023-07-23T12:39:38.710-05:00","updated":"2023-07-23T12:39:40.350-05:00"}
 ---
 
 
