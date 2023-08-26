@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estilo-grafico/","title":"Estilo Gráfico","tags":["Idea,"],"noteIcon":"","created":"2023-04-25T13:43:48.019-05:00","updated":"2023-04-26T09:31:04.096-05:00"}
+{"dg-publish":true,"permalink":"/Estilo Gráfico/","title":"Estilo Gráfico","tags":["Idea,"],"noteIcon":"","created":"2023-04-25T13:43:48.019-05:00","updated":"2023-04-26T09:31:04.096-05:00"}
 ---
 
 
