@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"noteIcon":"","created":"2023-08-08T20:46:07.000-05:00","updated":"2023-08-08T20:37:01.000-05:00"}
+{"dg-publish":true,"permalink":"/autoref/","title":"Autoref.","tags":["Pensamiento,"],"noteIcon":"","created":"2023-05-01T15:11:52.746-05:00","updated":"2023-08-08T20:37:01.754-05:00"}
 ---
 
 
