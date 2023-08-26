@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contenido-de-la-imagen/","title":"Contenido De la Imagen","tags":["Idea,"],"noteIcon":"","created":"2023-08-07T14:42:01.000-05:00","updated":"2023-08-07T14:13:23.000-05:00"}
+{"dg-publish":true,"permalink":"/contenido-de-la-imagen/","title":"Contenido De la Imagen","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:36:40.052-05:00","updated":"2023-08-07T14:13:23.442-05:00"}
 ---
 
 
