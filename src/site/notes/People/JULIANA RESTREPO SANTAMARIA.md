@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/juliana-restrepo-santamaria/","title":"JULIANA RESTREPO SANTAMARIA","tags":["Person"],"noteIcon":"","created":"2023-08-07T19:30:05.924-05:00","updated":"2023-08-10T15:21:59.240-05:00"}
+{"dg-publish":true,"permalink":"/People/JULIANA RESTREPO SANTAMARIA/","title":"JULIANA RESTREPO SANTAMARIA","tags":["Person"],"noteIcon":"","created":"2023-08-07T19:30:05.924-05:00","updated":"2023-08-10T15:21:59.240-05:00"}
 ---
 
 
