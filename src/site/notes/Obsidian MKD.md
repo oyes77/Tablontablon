@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-mkd/","title":"Obsidian MKD","noteIcon":"","created":"2023-08-08T21:46:54.000-05:00","updated":"2023-08-08T21:05:20.000-05:00"}
+{"dg-publish":true,"permalink":"/obsidian-mkd/","title":"Obsidian MKD","noteIcon":"","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-25T23:52:22.526-05:00"}
 ---
 
 
@@ -12,45 +12,23 @@ ttttttttttttttttttt
 #### Rrrrrrrrrrrrrrrrrrrrrrrraaaaaaaaf
 
 ##### Rrrrrrrrrrrrrrrrrrrrrrrr Fefe
-
+- afafafaf gadfgadg
+- hghgfgh erhaf jtj
+ - aegreg ooooooooooooooooooo
+ - [[textgenerator/prompts/awesomechatgpt/essaywriterAwesome\|essaywriterAwesome]] 
+-  ysiuis  Rrrrrrrrrrrrrrrrrrrrrrrrr
 ###### Rrrrrrrrrrrrrrrrrrrr Afwfsda
 Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** [[EZADE\|EZADE]]
 nyaaaaaaaaaaaaa
+
+> ajsdkjsa
+
 - [X]  Eeeeeeeeeeeee 
 - [ ] Eeeeeeeeeeeee
 - [x] GAGAGAGA ✅ 2023-07-31
 - [ ] 📅 2023-08-06 ⏫ ➕ 2023-07-31  ==GGGGGGGGGG==
 
-| Syntax | Description     |
-|--------|-----------------|
-| - [ ]  | Unchecked       |
-| - [x]  | Checked         |
-| - [>]  | Rescheduled     |
-| - [<]  | Scheduled       |
-| - [!]  | Important       |
-| - [-]  | Cancelled       |
-| - [/]  | In Progress     |
-| - [?]  | Question        |
-| - [* ]  | Star            |
-| - [n]  | Note            |
-| - [l]  | Location        |
-| - [i]  | Information     |
-| - [I]  | Idea            |
-| - [S]  | Amount          |
-| - [p]  | Pro             |
-| - [c]  | Con             |
-| - [b]  | Bookmark        |
-| - ["]  | Quote           |
-| - [0]  | Speech bubble 0 |
-| - [1]  | Speech bubble 1 |
-| - [2]  | Speech bubble 2 |
-| - [3]  | Speech bubble 3 |
-| - [4]  | Speech bubble 4 |
-| - [5]  | Speech bubble 5 |
-| - [6]  | Speech bubble 6 |
-| - [7]  | Speech bubble 7 |
-| - [8]  | Speech bubble 8 |
-| - [9]  | Speech bubble 9 |
+xxxxxxxxxxxxxxxxxxxxxxxx
 - [3] fefafaf  ✅ 2023-07-31
 - [S] fffffffffff
 - [i] Si
