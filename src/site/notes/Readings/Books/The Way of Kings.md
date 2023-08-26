@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/books/the-way-of-kings/","title":"The Way of Kings","tags":["Book"],"noteIcon":"","created":"2023-08-08T22:46:59.000-05:00","updated":"2023-08-08T22:16:59.000-05:00"}
+{"dg-publish":true,"permalink":"/readings/books/the-way-of-kings/","title":"The Way of Kings","tags":["Book","Referencia"],"noteIcon":"","created":"2023-08-08T22:00:01.181-05:00","updated":"2023-08-23T01:40:57.536-05:00"}
 ---
 
 
