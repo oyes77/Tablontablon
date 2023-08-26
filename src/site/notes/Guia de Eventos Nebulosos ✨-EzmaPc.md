@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/guia-de-eventos-nebulosos-ezma-pc/","title":"Guia de Eventos Nebulosos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T20:58:37.913-05:00"}
+{"dg-publish":true,"permalink":"/Guia de Eventos Nebulosos ✨-EzmaPc/","title":"Guia de Eventos Nebulosos ✨","tags":["Drawingattack,"],"noteIcon":"","created":"2023-08-08T16:06:58.600-05:00","updated":"2023-08-08T20:58:37.913-05:00"}
 ---
 
 
