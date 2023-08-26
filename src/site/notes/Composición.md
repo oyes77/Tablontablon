@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/composicion/","title":"Composición","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:32:55.822-05:00","updated":"2023-08-16T10:09:29.000-05:00"}
+{"dg-publish":true,"permalink":"/Composición/","title":"Composición","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:32:55.822-05:00","updated":"2023-08-16T10:09:29.000-05:00"}
 ---
 
 
