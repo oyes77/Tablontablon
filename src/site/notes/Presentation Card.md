@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/presentation-card/","title":"Presentation card","noteIcon":"","created":"2023-08-05T16:32:49.000-05:00","updated":"2023-08-04T13:42:23.000-05:00"}
+{"dg-publish":true,"permalink":"/presentation-card/","title":"Presentation card","noteIcon":"","created":"2023-08-04T13:24:13.199-05:00","updated":"2023-08-04T13:42:23.357-05:00"}
 ---
 
 
