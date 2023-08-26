@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/andres-alberto-montano-hernandez/","title":"ANDRES ALBERTO MONTAÑO HERNANDEZ","tags":["Person"],"noteIcon":"","created":"2023-08-07T23:24:07.000-05:00","updated":"2023-08-07T22:39:11.000-05:00"}
+{"dg-publish":true,"permalink":"/people/andres-alberto-montano-hernandez/","title":"ANDRES ALBERTO MONTAÑO HERNANDEZ","tags":["Person"],"noteIcon":"","created":"2023-08-07T22:24:55.431-05:00","updated":"2023-08-07T22:39:11.223-05:00"}
 ---
 
 # ANDRES ALBERTO MONTAÑO HERNANDEZ
