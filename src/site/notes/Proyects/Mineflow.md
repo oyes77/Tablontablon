@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/mineflow/","title":"Mineflow","noteIcon":"","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-07-06T07:37:29.000-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Mineflow/","title":"Mineflow","noteIcon":"","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-07-06T07:37:29.000-05:00"}
 ---
 
 
