@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-mkd/","title":"Obsidian MKD","noteIcon":"","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-25T23:52:22.526-05:00"}
+{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","noteIcon":"","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-25T23:52:22.526-05:00"}
 ---
 
 
