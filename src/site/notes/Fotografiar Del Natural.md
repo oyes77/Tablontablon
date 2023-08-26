@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fotografiar-del-natural/","title":"Fotografiar del Natural","noteIcon":"","created":"2023-08-04T05:33:33.000-05:00","updated":"2023-08-03T23:45:55.000-05:00"}
+{"dg-publish":true,"permalink":"/fotografiar-del-natural/","title":"Fotografiar del Natural","noteIcon":"","created":"2023-08-03T12:14:48.223-05:00","updated":"2023-08-03T23:45:55.851-05:00"}
 ---
 
 
