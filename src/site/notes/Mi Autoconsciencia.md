@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mi-autoconsciencia/","title":"Mi Autoconsciencia","tags":["Idea,"],"noteIcon":"","created":"2023-05-30T00:59:36.000-05:00","updated":"2023-05-29T23:51:33.000-05:00"}
+{"dg-publish":true,"permalink":"/mi-autoconsciencia/","title":"Mi Autoconsciencia","tags":["Idea,"],"noteIcon":"","created":"2023-05-17T08:21:32.745-05:00","updated":"2023-05-29T23:51:33.106-05:00"}
 ---
 
 
