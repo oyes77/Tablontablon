@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diseno-de-triadas/","title":"Diseño de triadas","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:39:50.108-05:00","updated":"2023-04-24T16:40:41.044-05:00"}
+{"dg-publish":true,"permalink":"/Diseño de triadas/","title":"Diseño de triadas","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:39:50.108-05:00","updated":"2023-04-24T16:40:41.044-05:00"}
 ---
 
 
