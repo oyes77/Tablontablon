@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inclinaciones-esteticas/","title":"Inclinaciones Estéticas","tags":["Idea,"],"noteIcon":"","created":"2023-04-26T10:15:58.768-05:00","updated":"2023-08-08T16:42:38.224-05:00"}
+{"dg-publish":true,"permalink":"/Inclinaciones Estéticas/","title":"Inclinaciones Estéticas","tags":["Idea,"],"noteIcon":"","created":"2023-04-26T10:15:58.768-05:00","updated":"2023-08-08T16:42:38.224-05:00"}
 ---
 
 
