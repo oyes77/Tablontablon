@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diane-arbus/","title":"Diane Arbus","tags":["Referencia,"],"noteIcon":"","created":"2023-05-08T14:24:36.535-05:00","updated":"2023-05-08T15:14:08.337-05:00"}
+{"dg-publish":true,"permalink":"/Diane Arbus/","title":"Diane Arbus","tags":["Referencia,"],"noteIcon":"","created":"2023-05-08T14:24:36.535-05:00","updated":"2023-05-08T15:14:08.337-05:00"}
 ---
 
 
