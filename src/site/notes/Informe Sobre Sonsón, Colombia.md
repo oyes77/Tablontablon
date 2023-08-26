@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informe-sobre-sonson-colombia/","title":"Informe Sobre Sonsón, Colombia","tags":["Pensamiento,"],"noteIcon":"","created":"2023-05-05T09:47:33.004-05:00","updated":"2023-05-05T10:01:16.914-05:00"}
+{"dg-publish":true,"permalink":"/Informe Sobre Sonsón, Colombia/","title":"Informe Sobre Sonsón, Colombia","tags":["Pensamiento,"],"noteIcon":"","created":"2023-05-05T09:47:33.004-05:00","updated":"2023-05-05T10:01:16.914-05:00"}
 ---
 
 
