@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/readings/","title":"Readings","noteIcon":"","created":"2023-03-16T18:48:24.715-05:00","updated":"2023-03-22T22:42:28.325-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Readings/","title":"Readings","noteIcon":"","created":"2023-03-16T18:48:24.715-05:00","updated":"2023-03-22T22:42:28.325-05:00"}
 ---
 
 
