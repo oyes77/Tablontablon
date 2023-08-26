@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proyects/rusted/","title":"Rusted","noteIcon":"","created":"2023-03-21T13:19:35.903-05:00","updated":"2023-07-06T07:42:02.000-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Rusted/","title":"Rusted","noteIcon":"","created":"2023-03-21T13:19:35.903-05:00","updated":"2023-07-06T07:42:02.000-05:00"}
 ---
 
 
