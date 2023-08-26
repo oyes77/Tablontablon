@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moda/","title":"Moda","tags":["Idea,"],"noteIcon":"","created":"2023-08-07T13:41:53.000-05:00","updated":"2023-08-07T13:31:13.000-05:00"}
+{"dg-publish":true,"permalink":"/moda/","title":"Moda","tags":["Idea,"],"noteIcon":"","created":"2023-04-26T10:19:44.903-05:00","updated":"2023-08-07T13:31:13.451-05:00"}
 ---
 
 
