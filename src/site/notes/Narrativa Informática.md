@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/narrativa-informatica/","title":"Narrativa Informática","tags":["Idea,"],"noteIcon":"","created":"2023-05-09T16:08:37.000-05:00","updated":"2023-04-26T09:26:58.000-05:00"}
+{"dg-publish":true,"permalink":"/narrativa-informatica/","title":"Narrativa Informática","tags":["Idea,"],"noteIcon":"","created":"2023-04-25T16:51:21.948-05:00","updated":"2023-04-26T09:26:58.749-05:00"}
 ---
 
 
