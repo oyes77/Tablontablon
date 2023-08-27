@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","noteIcon":"","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-25T23:52:22.526-05:00"}
+{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","noteIcon":"","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-26T20:51:47.796-05:00"}
 ---
 
 
@@ -20,7 +20,7 @@ ttttttttttttttttttt
 ###### Rrrrrrrrrrrrrrrrrrrr Afwfsda
 Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** [[EZADE\|EZADE]]
 nyaaaaaaaaaaaaa
-
+[GitHub - Akifyss/obsidian-border: A theme for obsidian.md](https://github.com/Akifyss/obsidian-border)
 > ajsdkjsa
 
 - [X]  Eeeeeeeeeeeee 
@@ -83,3 +83,34 @@ Crea tu personaje **con el siguiente Formato**:
 
 </div></div>
 
+
+```note-orange
+This text color is orange.
+```
+```note-yellow
+This text color is yellow.
+```
+```note-green
+This text color is green.
+```
+```note-blue
+This text color is blue.
+```
+```note-purple
+This text color is purple.
+```
+```note-pink
+This text color is pink.
+```
+```note-red
+This text color is red.
+```
+```note-gray
+This text color is gray.
+```
+
+```note-brown
+This text color is brown.
+```
+
+[[Note from the Blue Topaz to Organize Me I Suppose\|Note from the Blue Topaz to Organize Me I Suppose]]
