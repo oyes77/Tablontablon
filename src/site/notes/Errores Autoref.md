@@ -5,7 +5,7 @@
 
 # Errores Autoref
 
-Hablando sobre el [[Autoref.\|Autoref.]]
+Hablando sobre el [[Zettle/Autoref.\|Autoref.]]
 
 no diluir, es mejor tener pocos elementos pero concisos, a mychos pero que pierdan el significado de lo que quiero contar,, por ejemplo, solo tener 3 cosas en la foto, por ejemplo
 
