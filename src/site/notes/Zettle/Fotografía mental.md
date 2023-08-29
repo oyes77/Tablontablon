@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Fotografía mental/","title":"Fotografía Mental","tags":["Pensamiento"],"noteIcon":"","created":"2023-07-23T12:39:38.710-05:00","updated":"2023-08-26T20:26:34.505-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Fotografía mental/","title":"Fotografía Mental","tags":["Pensamiento"],"created":"2023-07-23T12:39:38.710-05:00","updated":"2023-08-26T20:26:34.505-05:00"}
 ---
 
 
