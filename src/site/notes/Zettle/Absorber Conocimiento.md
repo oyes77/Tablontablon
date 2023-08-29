@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Absorber Conocimiento/","title":"Absorber Conocimiento","tags":["Idea,"],"noteIcon":"","created":"2023-08-26T21:18:30.819-05:00","updated":"2023-08-26T22:17:42.253-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Absorber Conocimiento/","title":"Absorber Conocimiento","tags":["Idea,"],"created":"2023-08-26T21:18:30.819-05:00","updated":"2023-08-26T22:17:42.253-05:00"}
 ---
 
 
