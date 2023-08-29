@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tablón/","title":"Tablón","noteIcon":"","created":"2023-05-08T00:05:02.217-05:00","updated":"2023-05-14T23:24:14.787-05:00"}
+{"dg-publish":true,"permalink":"/Tablón/","title":"Tablón","created":"2023-05-08T00:05:02.217-05:00","updated":"2023-05-14T23:24:14.787-05:00"}
 ---
 
 
