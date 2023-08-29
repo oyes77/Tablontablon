@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Quien Soy Cómo Comunicador/","title":"Quien Soy Cómo Comunicador","tags":["Idea,"],"noteIcon":"","created":"2023-04-25T12:55:14.509-05:00","updated":"2023-08-07T13:20:30.462-05:00"}
+{"dg-publish":true,"permalink":"/Quien Soy Cómo Comunicador/","title":"Quien Soy Cómo Comunicador","tags":["Idea,"],"created":"2023-04-25T12:55:14.509-05:00","updated":"2023-08-07T13:20:30.462-05:00"}
 ---
 
 
