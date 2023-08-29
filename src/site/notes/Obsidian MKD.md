@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","noteIcon":"","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-26T20:51:47.796-05:00"}
+{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-28T17:53:00.490-05:00"}
 ---
 
 
@@ -114,3 +114,32 @@ This text color is brown.
 ```
 
 [[Note from the Blue Topaz to Organize Me I Suppose\|Note from the Blue Topaz to Organize Me I Suppose]]
+
+```chartsview
+#-----------------#
+#- chart type    -#
+#-----------------#
+type: Area
+
+#-----------------#
+#- chart data    -#
+#-----------------#
+data:
+  - label: "1951"
+    value: 38
+  - label: "1952"
+    value: 52
+  - label: "1956"
+    value: 61
+  - label: "1957"
+    value: 145
+  - label: "1958"
+    value: 48
+
+#-----------------#
+#- chart options -#
+#-----------------#
+options:
+  xField: label
+  yField: value
+```
