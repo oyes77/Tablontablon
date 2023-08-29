@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Channels/","title":"Channels","noteIcon":"","created":"2023-03-21T13:19:35.909-05:00","updated":"2023-07-18T16:18:01.443-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Channels/","title":"Channels","created":"2023-03-21T13:19:35.909-05:00","updated":"2023-07-18T16:18:01.443-05:00"}
 ---
 
 
