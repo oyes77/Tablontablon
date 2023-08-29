@@ -1,18 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["Weekly"],"noteIcon":"","created":"2023-07-31T20:59:28.704-05:00","updated":"2023-08-23T00:31:42.991-05:00"}
+{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-08-28T18:43:24.105-05:00"}
 ---
 
 
 ## 📅 Nota Semanal:
 <% tp.file.cursor() %>
 
-> [!blank-container] Esta semana:
-> - [[Journal/Daily notes/<% tp.date.now("YYYY-MM-DD", -1) %>\|Dia anterior]]
+> [!multi-column]
+> 
+> > [!blank-container|wide-1] Esta semana:
+> > ## Esta Semana:
+> >- [[<% tp.date.weekday("YYYY-MM-DD", 1) %>\|Monday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 2) %>\|Tuesday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 3) %>\|Wednesday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 4) %>\|Thursday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 5) %>\|Friday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 6) %>\|Saturday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 7) %>\|Sunday]]
+> 
+> > [!hint|wide-3] 💭 Week Thoughts
+> > 
 
+- - - 
+## Checklist
 
-<br>
-
-**Checklist**
 - [ ] Clear email inbox
 - [ ] Process physical notes
 - [ ] Process digital notes/inbox
@@ -26,6 +37,4 @@
 	- [ ] Move now active projects to Projects folder
 	- [ ] Archive projects no longer needed/of interest
 - [ ] Choose tasks for the week
-
-<br>
 
