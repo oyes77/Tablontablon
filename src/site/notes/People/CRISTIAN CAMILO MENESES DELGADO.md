@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/CRISTIAN CAMILO MENESES DELGADO/","title":"CRISTIAN CAMILO MENESES DELGADO","tags":["Person"],"noteIcon":"","created":"2023-08-07T22:25:19.160-05:00","updated":"2023-08-07T22:25:44.137-05:00"}
+{"dg-publish":true,"permalink":"/People/CRISTIAN CAMILO MENESES DELGADO/","title":"CRISTIAN CAMILO MENESES DELGADO","tags":["Person"],"created":"2023-08-07T22:25:19.160-05:00","updated":"2023-08-07T22:25:44.137-05:00"}
 ---
 
 
