@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Diseño de triadas/","title":"Diseño de triadas","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:39:50.108-05:00","updated":"2023-08-26T20:26:16.068-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Diseño de triadas/","title":"Diseño de triadas","tags":["Idea,"],"created":"2023-04-24T16:39:50.108-05:00","updated":"2023-08-26T20:26:16.068-05:00"}
 ---
 
 
