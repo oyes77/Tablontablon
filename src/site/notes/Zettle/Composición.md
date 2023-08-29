@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Composición/","title":"Composición","tags":["Idea,"],"noteIcon":"","created":"2023-04-24T16:32:55.822-05:00","updated":"2023-08-26T20:25:50.861-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Composición/","title":"Composición","tags":["Idea,"],"created":"2023-04-24T16:32:55.822-05:00","updated":"2023-08-26T20:25:50.861-05:00"}
 ---
 
 
