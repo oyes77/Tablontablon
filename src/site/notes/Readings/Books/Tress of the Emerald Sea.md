@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Tress of the Emerald Sea/","title":"Tress of the Emerald Sea","tags":["Book, Referencia,"],"created":"2023-08-22T23:47:15.088-05:00","updated":"2023-08-23T01:41:06.049-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Tress of the Emerald Sea/","title":"Tress of the Emerald Sea","tags":["Book, Referencia,"],"created":"2023-08-22T23:47:15.088-05:00","updated":"2023-08-30T23:48:04.485-05:00"}
 ---
 
 
@@ -21,3 +21,6 @@
 ## Final Review
 
 ## My Insights
+The art is amazing, I really like the selection of only highlight one color (the one of the spores) in the mayority of the book, and damn the illustrations are so great, the whole book is not just words, it’s worth to get el tapa dura xd, instead of reading it on the Kindle or whatever.
+
+The story is like Brandon said in the comments after everything, a fairy tale for adults, it’s simple but appealing, and have a fairy tale structure and feels like that. also ITS FROM HOID that’s a thing by itself, even through the ending was meh ><, I like it cuz it’s stuff from the cosmere and yada yada, but by itself it wasn’t really satisfactorio imo.
