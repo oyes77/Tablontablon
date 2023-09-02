@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/El Llanto De Señor Sol/","title":"El Llanto De Señor Sol","tags":["Referencia,"],"created":"2023-05-02T07:22:47.067-05:00","updated":"2023-08-26T20:26:16.114-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/El Llanto De Señor Sol/","title":"El Llanto De Señor Sol","tags":["ensayo,"],"created":"2023-05-02T07:22:47.067-05:00","updated":"2023-08-31T17:07:57.277-05:00"}
 ---
 
 
 # El Llanto De Señor Sol
 
-Historia del cadáver exquisito.
+Historia del [[Zettle/Cadáver Exquisito\|Cadáver Exquisito]]
 
 ![](https://i.imgur.com/hIlKDO4.jpg)
 
