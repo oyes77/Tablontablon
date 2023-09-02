@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Arco Dramático/","title":"Arco Dramático","tags":["Pensamiento,"],"created":"2023-06-13T08:01:26.306-05:00","updated":"2023-08-26T20:25:15.278-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Arco Dramático/","title":"Arco Dramático","tags":["Pensamiento,"],"created":"2023-06-13T08:01:26.306-05:00","updated":"2023-08-31T12:36:33.498-05:00"}
 ---
 
 
 # Arco Dramático
 
-Bumps de guión tipo viaje del héroe pero noes
-
+Un tipo de estructura de guión o estructura narrativa, o arquetipo de guión que se basa en el viaje del héroe.
 ## Acto 1
 
 ### Disparador
