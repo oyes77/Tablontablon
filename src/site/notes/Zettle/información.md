@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/información/","tags":["Pensamiento,"],"created":"2023-08-31T17:10:34.397-05:00","updated":"2023-08-31T17:41:22.515-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/información/","tags":["Pensamiento,"],"created":"2023-08-31T17:10:34.397-05:00","updated":"2023-09-01T20:19:30.776-05:00"}
 ---
 
 
@@ -11,6 +11,6 @@
 - - - 
 > [!question] Links
 > es un paso para [[Zettle/Formar Conocimiento\|Formar Conocimiento]]
-> [[Zettle/conocimiento\|conocimiento]]
+> [[Zettle/Conocimiento\|Conocimiento]]
 
 
