@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Autoref./","title":"Autoref.","tags":["Pensamiento,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-08-26T20:25:15.371-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Autoref./","title":"Autoref.","tags":["Ensayo,"],"created":"2023-05-01T15:11:52.746-05:00","updated":"2023-08-31T12:40:23.671-05:00"}
 ---
 
 
