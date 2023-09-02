@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-08-29T16:53:42.680-05:00"}
+{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-09-01T23:04:20.965-05:00"}
 ---
 
 
@@ -15,7 +15,6 @@ ttttttttttttttttttt
 - afafafaf gadfgadg
 - hghgfgh erhaf jtj
  - aegreg ooooooooooooooooooo
- - [[textgenerator/prompts/awesomechatgpt/essaywriterAwesome\|essaywriterAwesome]] 
 -  ysiuis  Rrrrrrrrrrrrrrrrrrrrrrrrr
 ###### Rrrrrrrrrrrrrrrrrrrr Afwfsda
 Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** [[EZADE\|EZADE]]
@@ -64,22 +63,23 @@ xxxxxxxxxxxxxxxxxxxxxxxx
 
 > [!abstract]
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/proyects/archipielago/#como-participar" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cerebro-digital/#explicacion" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-## Cómo Participar
+## Explicación
+> [!multi-column]
+> 
+> > [!seealso|wide-1] Previamente…
+> > Esto estaba dedicado a [[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] cómo un ejercicio de clase, sin embargo me sirve cómo un punto de partida para mi [[Cerebro digital\|Cerebro Digital]].
+> 
+> > [!info|wide-3] Pautas
+> > - No hay temas que no valgan, sean académicos o no, el conocimiento no tiene barreras
+> > - la información solo es información cuando se recibe, no existe una metafísica de la información… creo 
+> > - Las ideas no son un resultado, sino un medio al fin
+> 
 
-Crea tu personaje **con el siguiente Formato**:
-
-> Nombre: Oka
-> Raza: Humana
-> Edad (de 12 a 30 años): 24 años
-> Territorio: Torreón
-> Apariencia: Oka es una chica de pelo blanco y camisa de rayas, uusualmente lleva unas gafas de inventora que construyó un artesano muy conocido de Romephan, y son una reliquia que le vendió un comerciante de Rusted, Tiene una marca de nacimiento en la parte trasera del cuello.
-> personalidad (en unas cuantas frases cortas): La más Extrovertida en la torre, La hija de nadie, Selectora de talentos pensativa.
-> Historia: Escribe el mucho texto que necesites aquí! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugsiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-> Imagen: Dibuja a tu OC! (si no tienes tiempo, no es obligatorio, pero es muy recomendado)
+- - -
 
 </div></div>
 
