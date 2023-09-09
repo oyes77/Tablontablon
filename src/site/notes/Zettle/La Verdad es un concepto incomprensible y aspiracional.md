@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Verdad es un concepto incomprensible y aspiracional/","title":"la verdad","tags":["Idea",""],"created":"2023-08-31T17:51:25.506-05:00","updated":"2023-09-08T20:08:02.570-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Verdad es un concepto incomprensible y aspiracional/","title":"la verdad","tags":["ZeType/Idea",""],"created":"2023-08-31T17:51:25.506-05:00","updated":"2023-09-09T18:22:06.929-05:00"}
 ---
 
 
