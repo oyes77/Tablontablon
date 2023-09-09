@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Atributos Iconográficos/","title":"Atributos Iconográficos","tags":["Idea,"],"created":"2023-04-24T16:24:36.498-05:00","updated":"2023-08-31T12:39:07.610-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Atributos Iconográficos/","title":"Atributos Iconográficos","tags":["Idea"],"created":"2023-04-24T16:24:36.498-05:00","updated":"2023-09-05T07:57:12.023-05:00"}
 ---
 
 
