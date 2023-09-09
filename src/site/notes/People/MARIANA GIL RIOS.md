@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/MARIANA GIL RIOS/","title":"MARIANA  GIL RIOS","tags":["Person"],"created":"2023-08-07T22:22:19.708-05:00","updated":"2023-09-08T19:36:23.012-05:00"}
+{"dg-publish":true,"permalink":"/People/MARIANA GIL RIOS/","title":"MARIANA  GIL RIOS","tags":["NoteType/Person"],"created":"2023-08-07T22:22:19.708-05:00","updated":"2023-09-09T18:10:48.522-05:00"}
 ---
 
 
