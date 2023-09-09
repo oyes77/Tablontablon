@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Composición en la imagen/","title":"Composición","tags":["Idea,"],"created":"2023-04-24T16:32:55.822-05:00","updated":"2023-08-31T12:42:55.734-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Composición en la imagen/","title":"Composición","tags":["Idea",""],"created":"2023-04-24T16:32:55.822-05:00","updated":"2023-09-08T19:36:16.932-05:00"}
 ---
 
 
