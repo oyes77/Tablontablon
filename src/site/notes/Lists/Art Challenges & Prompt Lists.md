@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lists/Art Challenges & Prompt Lists/","title":"Art Challenges & Prompt Lists","tags":["Drawingattack"],"created":"2023-03-16T22:12:19.572-05:00","updated":"2023-09-01T23:08:34.667-05:00"}
+{"dg-publish":true,"permalink":"/Lists/Art Challenges & Prompt Lists/","title":"Art Challenges & Prompt Lists","tags":["Contexto/Drawingattack"],"created":"2023-03-16T22:12:19.572-05:00","updated":"2023-09-09T18:10:03.305-05:00"}
 ---
 
 
