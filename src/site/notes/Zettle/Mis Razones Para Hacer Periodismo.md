@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Mis Razones Para Hacer Periodismo/","title":"mis razones para hacer periodismo","tags":["Idea",""],"created":"2023-09-05T07:11:57.636-05:00","updated":"2023-09-08T19:36:14.475-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Mis Razones Para Hacer Periodismo/","title":"mis razones para hacer periodismo","tags":["ZeType/Idea",""],"created":"2023-09-05T07:11:57.636-05:00","updated":"2023-09-09T18:22:00.714-05:00"}
 ---
 
 
