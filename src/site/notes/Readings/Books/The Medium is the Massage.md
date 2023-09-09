@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Medium is the Massage/","title":"The Medium is the Massage","tags":["Book"],"created":"2023-09-09T18:04:12.052-05:00","updated":"2023-09-09T18:05:03.737-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Medium is the Massage/","title":"The Medium is the Massage","tags":["NoteType/Book"],"created":"2023-09-09T18:04:12.052-05:00","updated":"2023-09-09T18:11:16.720-05:00"}
 ---
 
 
