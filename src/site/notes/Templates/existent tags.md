@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/existent tags/","title":"existent tags","tags":["Ensayo","Referencia","Idea","Pensamiento","Drawingattack","Universidad","Personal","Daily","Weekly","Person","KanbanNote","Book","Article","TOC","Thought","excalidraw"],"created":"2023-09-08T20:23:59.911-05:00","updated":"2023-09-09T18:06:33.325-05:00"}
+{"dg-publish":true,"permalink":"/Templates/existent tags/","title":"Existent Tags","tags":["ZeType/Ensayo","ZeType/Referencia","ZeType/Idea","ZeType/Pensamiento","Contexto/Drawingattack","Contexto/Universidad","Contexto/Personal","NoteType/Daily","NoteType/Weekly","NoteType/KanbanNote","NoteType/Book","NoteType/Article","NoteType/TOC","NoteType/excalidraw","NoteType/Person"],"created":"2023-09-08T20:23:59.911-05:00","updated":"2023-09-09T18:25:05.889-05:00"}
 ---
 
 
@@ -7,7 +7,10 @@
 
 NEW TAGS: 
 
-Contexts: #Universidad #Personal #Drawingattack
-note type: #Book #KanbanNote #Person #Daily #Article #TOC #Weekly #excalidraw 
-ZettleType: #Idea #Pensamiento #Referencia #Ensayo 
-ZettleTopic: Imagen, Fotografía Audio, Comunicación, Psicología, Música
+Contexts: #Contexto/Universidad #Contexto/Personal #Contexto/Drawingattack
+
+NoteType: #NoteType/Book #NoteType/KanbanNote #NoteType/Person #NoteType/Daily #NoteType/Article #NoteType/TOC #NoteType/Weekly #NoteType/excalidraw 
+
+ZeType: #ZeType/Idea #ZeType/Pensamiento #ZeType/Referencia #ZeType/Ensayo 
+
+ZeTopic: #ZeTopic/Imagen, #ZeTopic/Fotografía, #ZeTopic/Dibujo, #ZeTopic/Video, #ZeTopic/Multimedia, #ZeTopic/Animación2D, #ZeTopic/Animación3D, #ZeTopic/Audio, #ZeTopic/Comunicación, #ZeTopic/Psicología, #ZeTopic/Música,
