@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/ERNESTO CORREA HERRERA/","title":"ERNESTO  CORREA HERRERA","tags":["Person"],"created":"2023-03-23T14:58:45.590-05:00","updated":"2023-09-08T19:36:23.305-05:00"}
+{"dg-publish":true,"permalink":"/People/ERNESTO CORREA HERRERA/","title":"ERNESTO  CORREA HERRERA","tags":["NoteType/Person"],"created":"2023-03-23T14:58:45.590-05:00","updated":"2023-09-09T18:10:48.184-05:00"}
 ---
 
 
