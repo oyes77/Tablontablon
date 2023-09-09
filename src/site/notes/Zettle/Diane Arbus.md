@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Diane Arbus/","title":"Diane Arbus","tags":["Referencia,"],"created":"2023-05-08T14:24:36.535-05:00","updated":"2023-08-26T20:26:16.029-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Diane Arbus/","title":"Diane Arbus","tags":["Referencia",""],"created":"2023-05-08T14:24:36.535-05:00","updated":"2023-09-08T19:36:16.795-05:00"}
 ---
 
 
