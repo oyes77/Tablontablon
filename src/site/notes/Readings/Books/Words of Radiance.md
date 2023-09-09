@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Words of Radiance/","title":"Words of Radiance","tags":["Book, Referencia,"],"created":"2023-08-09T21:42:40.700-05:00","updated":"2023-08-23T01:41:59.504-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Words of Radiance/","title":"Words of Radiance","tags":["Book","Referencia",""],"created":"2023-08-09T21:42:40.700-05:00","updated":"2023-09-08T19:36:22.455-05:00"}
 ---
 
 
