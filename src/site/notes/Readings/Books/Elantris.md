@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Elantris/","title":"Elantris","tags":["Book, Referencia,"],"created":"2023-08-08T22:06:02.324-05:00","updated":"2023-08-23T01:40:29.594-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Elantris/","title":"Elantris","tags":["Book","Referencia",""],"created":"2023-08-08T22:06:02.324-05:00","updated":"2023-09-08T19:36:22.663-05:00"}
 ---
 
 # Elantris
