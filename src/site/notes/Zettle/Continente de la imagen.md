@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Continente de la imagen/","title":"Continente de la imagen","tags":["Idea",""],"created":"2023-04-24T16:35:07.998-05:00","updated":"2023-09-08T19:36:16.947-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Continente de la imagen/","title":"Continente de la imagen","tags":["ZeType/Idea",""],"created":"2023-04-24T16:35:07.998-05:00","updated":"2023-09-09T18:21:55.375-05:00"}
 ---
 
 
