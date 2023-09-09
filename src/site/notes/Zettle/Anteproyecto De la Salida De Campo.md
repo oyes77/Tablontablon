@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Anteproyecto De la Salida De Campo/","title":"Anteproyecto De la Salida De Campo","tags":["Ensayo",""],"created":"2023-06-23T00:04:23.392-05:00","updated":"2023-09-08T19:36:17.028-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Anteproyecto De la Salida De Campo/","title":"Anteproyecto De la Salida De Campo","tags":["ZeType/Ensayo",""],"created":"2023-06-23T00:04:23.392-05:00","updated":"2023-09-09T18:21:22.242-05:00"}
 ---
 
 
