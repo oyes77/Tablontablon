@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Inclinaciones Estéticas/","title":"Inclinaciones Estéticas","tags":["Idea",""],"created":"2023-04-26T10:15:58.768-05:00","updated":"2023-09-08T19:36:15.782-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Inclinaciones Estéticas/","title":"Inclinaciones Estéticas","tags":["ZeType/Idea",""],"created":"2023-04-26T10:15:58.768-05:00","updated":"2023-09-09T18:21:59.238-05:00"}
 ---
 
 
