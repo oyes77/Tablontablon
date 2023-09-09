@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Errores Autoref/","title":"Errores Autoref","tags":["Idea",""],"created":"2023-05-25T08:34:25.150-05:00","updated":"2023-09-08T19:36:27.262-05:00"}
+{"dg-publish":true,"permalink":"/Errores Autoref/","title":"Errores Autoref","tags":["ZeType/Idea",""],"created":"2023-05-25T08:34:25.150-05:00","updated":"2023-09-09T18:21:51.207-05:00"}
 ---
 
 
