@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","tags":["Idea",""],"created":"2023-09-05T07:37:11.125-05:00","updated":"2023-09-08T20:09:56.276-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","tags":["ZeType/Idea",""],"created":"2023-09-05T07:37:11.125-05:00","updated":"2023-09-09T18:21:56.221-05:00"}
 ---
 
 
