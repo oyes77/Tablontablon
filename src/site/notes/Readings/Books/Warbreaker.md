@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Warbreaker/","title":"Warbreaker","tags":["Book","Referencia"],"created":"2023-08-08T22:05:07.381-05:00","updated":"2023-09-08T19:36:22.272-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Warbreaker/","title":"Warbreaker","tags":["NoteType/Book","ZeType/Referencia"],"created":"2023-08-08T22:05:07.381-05:00","updated":"2023-09-09T18:23:11.494-05:00"}
 ---
 
 
