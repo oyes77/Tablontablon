@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Estilo Gráfico/","title":"Estilo Gráfico","tags":["Idea,"],"created":"2023-04-25T13:43:48.019-05:00","updated":"2023-08-26T20:26:43.796-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Estilo Gráfico/","title":"Estilo Gráfico","tags":["Idea",""],"created":"2023-04-25T13:43:48.019-05:00","updated":"2023-09-08T19:36:16.576-05:00"}
 ---
 
 
