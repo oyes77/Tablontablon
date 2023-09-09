@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/The purpose of journalism Serving, uniting, and informing/","title":"el fin de El Periodismo","tags":["Idea"],"created":"2023-09-05T06:28:41.486-05:00","updated":"2023-09-08T20:09:56.972-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/The purpose of journalism Serving, uniting, and informing/","title":"el fin de El Periodismo","tags":["ZeType/Idea"],"created":"2023-09-05T06:28:41.486-05:00","updated":"2023-09-09T18:22:05.686-05:00"}
 ---
 
 
