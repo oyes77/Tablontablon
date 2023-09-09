@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Entender El Mundo Desde El Lenguaje/","title":"ver el mundo desde el lenguaje","tags":["Idea",""],"created":"2023-08-31T17:53:11.760-05:00","updated":"2023-09-08T20:08:02.028-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Entender El Mundo Desde El Lenguaje/","title":"ver el mundo desde el lenguaje","tags":["ZeType/Idea",""],"created":"2023-08-31T17:53:11.760-05:00","updated":"2023-09-09T18:22:07.055-05:00"}
 ---
 
 
