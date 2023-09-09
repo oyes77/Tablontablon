@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/¿Por Qué Debes Escribir/","title":"¿Por Qué Debes Escribir","tags":["KanbanNote"],"created":"2023-09-08T17:55:20.937-05:00","updated":"2023-09-09T17:32:41.188-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/¿Por Qué Debes Escribir/","title":"¿Por Qué Debes Escribir","tags":["NoteType/KanbanNote"],"created":"2023-09-08T17:55:20.937-05:00","updated":"2023-09-09T18:24:06.496-05:00"}
 ---
 
 
