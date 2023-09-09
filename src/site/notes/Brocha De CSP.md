@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Brocha De CSP/","title":"Brocha De CSP","tags":["Referencia","Dibujo"],"created":"2023-03-27T15:02:09.381-05:00","updated":"2023-09-01T23:12:40.672-05:00"}
+{"dg-publish":true,"permalink":"/Brocha De CSP/","title":"Brocha De CSP","tags":["Referencia"],"created":"2023-03-27T15:02:09.381-05:00","updated":"2023-09-09T18:01:49.023-05:00"}
 ---
 
 
