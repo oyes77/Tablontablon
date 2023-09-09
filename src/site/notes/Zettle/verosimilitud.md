@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/verosimilitud/","tags":["Idea",""],"created":"2023-08-31T17:42:37.542-05:00","updated":"2023-09-08T20:07:15.576-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/verosimilitud/","tags":["ZeType/Idea",""],"created":"2023-08-31T17:42:37.542-05:00","updated":"2023-09-09T18:22:05.206-05:00"}
 ---
 
 
