@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Seguir el dinero cómo periodista/","tags":["Idea",""],"created":"2023-09-06T07:59:58.608-05:00","updated":"2023-09-08T19:39:53.920-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Seguir el dinero cómo periodista/","tags":["ZeType/Idea",""],"created":"2023-09-06T07:59:58.608-05:00","updated":"2023-09-09T18:22:01.694-05:00"}
 ---
 
 
