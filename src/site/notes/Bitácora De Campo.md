@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Bitácora De Campo/","title":"Bitácora De Campo","tags":["Ensayo"],"created":"2023-07-24T22:03:22.627-05:00","updated":"2023-08-10T19:42:49.850-05:00"}
+{"dg-publish":true,"permalink":"/Bitácora De Campo/","title":"Bitácora De Campo","tags":["Ensayo"],"created":"2023-07-24T22:03:22.627-05:00","updated":"2023-09-08T19:36:27.926-05:00"}
 ---
 
 
