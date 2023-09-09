@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Teoría De la Comunicación/","title":"Teoría De la Comunicación","tags":["Idea,"],"created":"2023-05-02T10:20:39.912-05:00","updated":"2023-05-02T10:28:05.812-05:00"}
+{"dg-publish":true,"permalink":"/Teoría De la Comunicación/","title":"Teoría De la Comunicación","tags":["Idea",""],"created":"2023-05-02T10:20:39.912-05:00","updated":"2023-09-08T19:36:21.107-05:00"}
 ---
 
 
