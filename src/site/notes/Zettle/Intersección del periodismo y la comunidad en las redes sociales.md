@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Intersección del periodismo y la comunidad en las redes sociales/","tags":["Idea",""],"created":"2023-09-05T07:02:10.797-05:00","updated":"2023-09-08T20:04:51.042-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Intersección del periodismo y la comunidad en las redes sociales/","tags":["ZeType/Idea",""],"created":"2023-09-05T07:02:10.797-05:00","updated":"2023-09-09T18:22:05.999-05:00"}
 ---
 
 
