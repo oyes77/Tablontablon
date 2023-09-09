@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La importancia de la información/","tags":["Pensamiento",""],"created":"2023-08-31T17:10:34.397-05:00","updated":"2023-09-08T20:09:55.686-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La importancia de la información/","tags":["ZeType/Pensamiento",""],"created":"2023-08-31T17:10:34.397-05:00","updated":"2023-09-09T18:22:20.062-05:00"}
 ---
 
 
