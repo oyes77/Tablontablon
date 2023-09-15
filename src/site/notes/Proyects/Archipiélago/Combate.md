@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Combate/","title":"Combate","created":"2023-03-21T13:19:35.945-05:00","updated":"2023-09-06T15:08:16.035-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Combate/","title":"Combate","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.945-05:00","updated":"2023-09-09T18:28:53.692-05:00"}
 ---
 
 
