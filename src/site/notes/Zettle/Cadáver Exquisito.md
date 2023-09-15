@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Cadáver Exquisito/","tags":["ZeType/Idea",""],"created":"2023-08-31T17:00:33.980-05:00","updated":"2023-09-09T18:21:54.110-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Cadáver Exquisito/","tags":["ZeType/Pensamiento"],"created":"2023-08-31T17:00:33.980-05:00","updated":"2023-09-14T19:14:11.380-05:00"}
 ---
 
 
