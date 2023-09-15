@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Torreón/","title":"Torreón","created":"2023-03-21T13:19:35.927-05:00","updated":"2023-09-08T19:36:22.724-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Torreón/","title":"Torreón","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.927-05:00","updated":"2023-09-09T18:29:41.836-05:00"}
 ---
 
 
