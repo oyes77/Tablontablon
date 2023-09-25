@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["NoteType/Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-09-09T18:12:53.159-05:00"}
+{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["NoteType/Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-09-19T00:34:49.292-05:00"}
 ---
 
 
@@ -10,13 +10,13 @@
 > 
 > > [!blank-container|wide-1] Esta semana:
 > > ## Esta Semana:
-> >- [[<% tp.date.weekday("YYYY-MM-DD", 1) %>\|Monday]]
-> > - [[<% tp.date.weekday("YYYY-MM-DD", 2) %>\|Tuesday]]
-> > - [[<% tp.date.weekday("YYYY-MM-DD", 3) %>\|Wednesday]]
-> > - [[<% tp.date.weekday("YYYY-MM-DD", 4) %>\|Thursday]]
-> > - [[<% tp.date.weekday("YYYY-MM-DD", 5) %>\|Friday]]
-> > - [[<% tp.date.weekday("YYYY-MM-DD", 6) %>\|Saturday]]
-> > - [[<% tp.date.weekday("YYYY-MM-DD", 7) %>\|Sunday]]
+> >- [[<% tp.date.weekday("YYYY-MM-DD", 0, tp.file.title, "GGGG-[W]WW") %>\|Monday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 1, tp.file.title, "GGGG-[W]WW") %>\|Tuesday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 2, tp.file.title, "GGGG-[W]WW") %>\|Wednesday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 3, tp.file.title, "GGGG-[W]WW") %>\|Thursday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 4, tp.file.title, "GGGG-[W]WW") %>\|Friday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 5, tp.file.title, "GGGG-[W]WW") %>\|Saturday]]
+> > - [[<% tp.date.weekday("YYYY-MM-DD", 6, tp.file.title, "GGGG-[W]WW") %>\|Sunday]]
 > 
 > > [!hint|wide-3] 💭 Week Thoughts
 > > 
