@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos/","title":"los sonidos no tienen un valor intrínseco por si mismos","tags":["ZeType/Pensamiento","ZeTopic/Música"],"created":"2023-09-19T15:18:54.259-05:00","updated":"2023-09-19T15:21:35.666-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos/","title":"Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos","tags":["ZeType/Pensamiento","ZeTopic/Música"],"created":"2023-09-19T15:18:54.259-05:00","updated":"2023-09-25T12:37:13.196-05:00"}
 ---
 
 
