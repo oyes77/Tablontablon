@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Ejemplos de Embed Discord/","title":"Absorber conocimiento","tags":["ZeType/Referencia"],"created":"2023-08-26T21:18:30.819-05:00","updated":"2023-09-18T23:15:36.269-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Ejemplos de Embed Discord/","title":"Ejemplos de Embed Discord","tags":["ZeType/Referencia"],"created":"2023-08-26T21:18:30.819-05:00","updated":"2023-09-25T12:37:49.728-05:00"}
 ---
 
 
-#  Ejemplos de Embed Discord
+# Ejemplos De Embed Discord
 
 ![](https://i.imgur.com/IXnE1Ph.png)
 
@@ -30,7 +30,6 @@ userprofile de thumbnails en vez del server owo
 > > 
 > 
 
-
 > [!summary] 
 > 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=Z9XIMAtntmw&list=WL&index=299" target="_blank">
@@ -53,5 +52,3 @@ userprofile de thumbnails en vez del server owo
 > [!question] Links
 > .
 > .
-
-
