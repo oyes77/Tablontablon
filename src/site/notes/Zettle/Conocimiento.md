@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Conocimiento/","title":"conocimiento","tags":["ZeType/Pensamiento"],"created":"2023-08-31T17:34:11.435-05:00","updated":"2023-09-09T18:22:19.643-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Conocimiento/","title":"conocimiento","tags":["ZeType/Pensamiento"],"created":"2023-08-31T17:34:11.435-05:00","updated":"2023-09-19T01:00:21.426-05:00"}
 ---
 
 
