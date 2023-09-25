@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","tags":["ZeType/Pensamiento","ZeTopic/Comunicación"],"created":"2023-09-05T07:37:11.125-05:00","updated":"2023-09-19T00:59:21.383-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","title":"Cómo Ser Explicativo","tags":["ZeType/Pensamiento","ZeTopic/Comunicación"],"created":"2023-09-05T07:37:11.125-05:00","updated":"2023-09-25T12:37:13.109-05:00"}
 ---
 
 
