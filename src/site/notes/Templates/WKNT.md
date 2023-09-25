@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["NoteType/Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-09-19T00:34:49.292-05:00"}
+{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["NoteType/Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-09-25T17:05:44.913-05:00"}
 ---
 
 
