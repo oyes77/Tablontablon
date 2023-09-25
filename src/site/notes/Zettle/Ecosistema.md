@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Ecosistema/","title":"Ecosistema","tags":["ZeType/Idea",""],"created":"2023-08-26T21:26:09.227-05:00","updated":"2023-09-09T18:21:56.575-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Ecosistema/","title":"Ecosistema","tags":["ZeType/Idea",""],"created":"2023-08-26T21:26:09.227-05:00","updated":"2023-09-19T01:02:21.426-05:00"}
 ---
 
 
