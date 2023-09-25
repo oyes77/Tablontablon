@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guia De Eventos Nebulosos ✨/","title":"Guia de Eventos Nebulosos ✨","tags":["Contexto/Drawingattack","gardenEntry","gardenEntry"],"created":"2023-08-08T16:06:58.600-05:00","updated":"2023-09-09T18:10:02.986-05:00"}
+{"dg-publish":true,"permalink":"/Guia De Eventos Nebulosos ✨/","title":"Guia De Eventos Nebulosos ✨","tags":["Contexto/Drawingattack","gardenEntry","gardenEntry"],"created":"2023-08-08T16:06:58.600-05:00","updated":"2023-09-22T17:13:01.823-05:00"}
 ---
 
 
@@ -25,11 +25,15 @@ El anuncio debe contener los siguientes elementos en un mismo mensaje y en el si
 - (lista de información importante o instrucciones para el evento, como el uso del micrófono y la duración aproximada).
 
 ![|775](https://i.imgur.com/Tfvb0Oj.png)
+
 (imagen del evento)
+
 @Jugador @Molestables (Pings obligatorios)
+
 (Link de invitación al evento)
 
 - - -
+
 Antes de anunciar el evento, asegúrate de completar los campos correspondientes en el menú de eventos con la misma información del anuncio (título, descripción, aclaraciones e instrucciones, imagen), además de los campos adicionales del evento (fecha y hora, día, lugar).
 
 ¡Ya estás list@ para crear momentos inolvidables en nuestros eventos nebulosos!
@@ -37,7 +41,8 @@ Antes de anunciar el evento, asegúrate de completar los campos correspondientes
 Ejemplo:
 
  ![|450](https://i.imgur.com/Dk7BrGY.png)
-### Recomendaciones:
+
+## Recomendaciones:
 
 - Dile a los usuarios sobre el próximo evento para que sigan participando 
 - pueden subir los sketches y dibujos que hicieron en el evento si es de arte en el canal de chat-arte 
