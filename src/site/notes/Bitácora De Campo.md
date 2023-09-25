@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Bitácora De Campo/","title":"Bitácora De Campo","tags":["ZeType/Ensayo"],"created":"2023-07-24T22:03:22.627-05:00","updated":"2023-09-09T18:21:21.726-05:00"}
+{"dg-publish":true,"permalink":"/Bitácora De Campo/","title":"Bitácora De Campo","tags":["ZeType/Ensayo"],"created":"2023-07-24T22:03:22.627-05:00","updated":"2023-09-14T19:55:51.415-05:00"}
 ---
 
 
 # Bitácora De Campo
-
+[[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]]
 ## Ideación Del Proyecto
 
 ### Lluvia De Ideas
@@ -12,7 +12,7 @@
 - Me decidí por abordar un tema cotidiano en la vida de cualquier Sonsoreño, pero que fuera motivo de apersonación.
 
 ## Inicio Del Proyecto
-Seguí las preguntas orientadoras que recomendó la profe [[People/JULIANA RESTREPO SANTAMARIA\|Juli]], Postulé varias alternativas al enfoque de por qué quería tomarle fotos a los integrantes y las tiendas tradicionales de sonsón, la retroalimentación presentada en clase me ayudó a elegir finalmente uno de estos enfoques.
+Seguí las [[Zettle/Anteproyecto De la Salida De Campo\|preguntas orientadoras]] que recomendó la profe [[People/JULIANA RESTREPO SANTAMARIA\|Juli]], Postulé varias alternativas al enfoque de por qué quería tomarle fotos a los integrantes y las tiendas tradicionales de sonsón, la retroalimentación presentada en clase me ayudó a elegir finalmente uno de estos enfoques.
 
 ## Práctica Del Proyecto/Producción
 
