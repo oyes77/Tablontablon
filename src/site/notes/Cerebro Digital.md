@@ -36,21 +36,22 @@
 > > Textos reflexivos dónde conecto múltiples pensamientos, o que hace uso de estos para un producto final
 > 
 
-| Ideas                                                                                           | Links |
-| ----------------------------------------------------------------------------------------------- | ----- |
-| [[Zettle/Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]]            | 2     |
-| [[Zettle/Autoref.\|Autoref.]]                                                                | 2     |
-| [[Zettle/Figuras Literarias\|Figuras Literarias]]                                            | 1     |
-| [[Zettle/Fotografía Mental\|Fotografía Mental]]                                              | 1     |
-| [[Zettle/La Mirada\|La Mirada]]                                                              | 0     |
-| [[Zettle/I did some experimenting with Dall-e 2\|I did some experimenting with Dall-e 2]]    | 1     |
-| [[Zettle/El Llanto De Señor Sol\|El Llanto De Señor Sol]]                                    | 2     |
-| [[Cabeza\|Cabeza]]                                                                           | 0     |
-| [[Zettle/Guión Video Historia\|Guión Video Historia]]                                        | 0     |
-| [[Bitácora De Campo\|Bitácora De Campo]]                                                     | 1     |
-| [[Informática Teórica S\|Informática Teórica S]]                                             | 0     |
-| [[Templates/existent tags\|existent tags]]                                                   | 0     |
-| [[Which Are My Flaws and how to Overcome Them\|Which Are My Flaws and how to Overcome Them]] | 1     |
+| Ideas                                                                                                  | Links |
+| ------------------------------------------------------------------------------------------------------ | ----- |
+| [[Zettle/Informática Teórica Ejercicio De Ads\|Informática Teórica Ejercicio De Ads]]               | 0     |
+| [[Zettle/Which Are My Flaws and how to Overcome Them\|Which Are My Flaws and how to Overcome Them]] | 1     |
+| [[Zettle/Acordes Autorreferencial\|Acordes Autorreferencial]]                                       | 0     |
+| [[Zettle/Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]]                   | 2     |
+| [[Zettle/Autoref.\|Autoref.]]                                                                       | 4     |
+| [[Zettle/Figuras Literarias\|Figuras Literarias]]                                                   | 1     |
+| [[Zettle/Fotografía Mental\|Fotografía Mental]]                                                     | 1     |
+| [[Zettle/La Mirada\|La Mirada]]                                                                     | 0     |
+| [[Zettle/I did some experimenting with Dall-e 2\|I did some experimenting with Dall-e 2]]           | 1     |
+| [[Zettle/El Llanto De Señor Sol\|El Llanto De Señor Sol]]                                           | 2     |
+| [[Cabeza\|Cabeza]]                                                                                  | 0     |
+| [[Zettle/Guión Video Historia\|Guión Video Historia]]                                               | 0     |
+| [[Zettle/Bitácora De Campo\|Bitácora De Campo]]                                                     | 1     |
+| [[Templates/existent tags\|existent tags]]                                                          | 0     |
 
 { .block-language-dataview}
 
