@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Velocidad Es Enemigo De la Precisión/","title":"La velocidad es enemigo de la precisión","tags":["ZeType/Idea",""],"created":"2023-09-05T07:30:44.781-05:00","updated":"2023-09-09T18:21:59.750-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Velocidad Es Enemigo De la Precisión/","title":"La Velocidad Es Enemigo De la Precisión","tags":["ZeType/Idea",""],"created":"2023-09-05T07:30:44.781-05:00","updated":"2023-09-25T12:37:13.186-05:00"}
 ---
 
 
