@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-09-14T19:16:45.499-05:00"}
+{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-09-23T22:57:00.069-05:00"}
 ---
 
 
@@ -22,9 +22,10 @@ ttttttttttttttttttt
 
 ###### Rrrrrrrrrrrrrrrrrrrr Afwfsda
 
-Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** [[EZADE\|EZADE]]
+Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** [[EZADE\|EZADE]] el azul drawing drawing va además drawing att drawing 
 
-nyaaaaaaaaaaaaa
+nyaaaaaaaaaaaaa [[Proyects/Drawing Attack/Video De Introducción\|Video De Introducción]] eeee
+
 > what the hell xd
 [GitHub - Akifyss/obsidian-border: A theme for obsidian.md](https://github.com/Akifyss/obsidian-border)
 
@@ -33,7 +34,7 @@ nyaaaaaaaaaaaaa
 - [X] Eeeeeeeeeeeee 
 - [ ] Eeeeeeeeeeeee
 - [x] GAGAGAGA ✅ 2023-07-31
-- [ ] 📅 2023-08-06 ⏫ ➕ 2023-07-31 ==GGGGGGGGGG==
+- [ ] 📅 2023-08-06 ⏫ ➕ 2023-07-31 ==ggg*GGG**GG*G*G**GGG*ggg==
 
 xxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -68,6 +69,8 @@ xxxxxxxxxxxxxxxxxxxxxxxx
 >> - [x] Define Use Case
 >> - [x] Craft User Story
 >> - [ ] Develop draft sketches
+{ #l7s1r6}
+
 
 > [!abstract]
 > 
