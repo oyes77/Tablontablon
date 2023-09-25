@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Mis Razones Para Hacer Periodismo/","title":"mis razones para hacer periodismo","tags":["ZeType/Idea",""],"created":"2023-09-05T07:11:57.636-05:00","updated":"2023-09-09T18:22:00.714-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Mis Razones Para Hacer Periodismo/","title":"Mis Razones Para Hacer Periodismo","tags":["ZeType/Idea",""],"created":"2023-09-05T07:11:57.636-05:00","updated":"2023-09-25T12:37:13.198-05:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 > **cómo**
 > Por redes sociales, principalmente en video (Tiktok, Youtube), 
 > **cuando** 
-> Cuando tenga tiempo  (?) xd pregunta meme
+> Cuando tenga tiempo (?) xd pregunta meme
 > **dónde**
 > Redeso ciales
 
