@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Verdad es un concepto incomprensible y aspiracional/","title":"la verdad","tags":["ZeType/Idea",""],"created":"2023-08-31T17:51:25.506-05:00","updated":"2023-09-09T18:22:06.929-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Verdad es un concepto incomprensible y aspiracional/","title":"La Verdad es un concepto incomprensible y aspiracional","tags":["ZeType/Idea",""],"created":"2023-08-31T17:51:25.506-05:00","updated":"2023-09-25T12:37:13.183-05:00"}
 ---
 
 
-# La Verdad es un concepto incomprensible y aspiracional
+# La Verdad Es Un Concepto Incomprensible Y Aspiracional
 
 > [!summary] 
 > la verdad es un concepto de la realidad objetiva a la que no tenemos acceso, es un ideal humano el aspirar a ella, porque la verdad es imposible de comprender o abarcar por un solo ser que no es obligatoriamente el todo.
