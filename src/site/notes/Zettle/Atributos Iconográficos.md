@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Atributos Iconográficos/","title":"Atributos Iconográficos","tags":["ZeType/Pensamiento","ZeTopic/Imagen"],"created":"2023-04-24T16:24:36.498-05:00","updated":"2023-09-14T22:10:10.446-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Atributos Iconográficos/","title":"Atributos Iconográficos","tags":["ZeType/Pensamiento","ZeTopic/Imagen"],"created":"2023-04-24T16:24:36.498-05:00","updated":"2023-09-25T12:37:12.963-05:00"}
 ---
 
 
