@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Libros Semiótica/","title":"Libros Semiótica","tags":["ZeType/Referencia",""],"created":"2023-05-02T10:54:05.714-05:00","updated":"2023-09-09T18:23:14.567-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Libros Semiótica/","title":"Libros Semiótica","tags":["ZeType/Referencia",""],"created":"2023-05-02T10:54:05.714-05:00","updated":"2023-09-25T12:37:49.679-05:00"}
 ---
 
 
