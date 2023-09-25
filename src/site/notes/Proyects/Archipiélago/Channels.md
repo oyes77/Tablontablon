@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.909-05:00","updated":"2023-09-09T18:28:45.789-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.909-05:00","updated":"2023-09-23T23:40:08.231-05:00"}
 ---
 
 
