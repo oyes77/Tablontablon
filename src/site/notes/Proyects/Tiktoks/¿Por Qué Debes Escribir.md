@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/¿Por Qué Debes Escribir/","title":"¿Por Qué Debes Escribir","tags":["NoteType/KanbanNote"],"created":"2023-09-08T17:55:20.937-05:00","updated":"2023-09-09T18:24:06.496-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/¿Por Qué Debes Escribir/","title":"¿Por Qué Debes Escribir","tags":["NoteType/KanbanNote"],"created":"2023-09-08T17:55:20.937-05:00","updated":"2023-09-18T06:36:44.000-05:00"}
 ---
 
 
 # ¿Por Qué Debes Escribir
 
-Tu no sabes si sabes algo hasta que lo dices, por eso expresar con palabras claras tu conocimiento es fundamental, si no entendías algo del todo, al escribirlo lo acabarás de entender, por qué escribirlo y no decirlo? porque escrito lo puedes buscar después, básicamente
+Tu no sabes si sabes algo hasta que lo dices, por eso expresar con palabras claras tu conocimiento es fundamental, si no entendías algo del todo, al escribirlo y pretender que lo entiendes, lo acabarás de entender, por qué escribirlo y no decirlo? porque escrito lo puedes buscar después, básicamente.
 
 ## Guión
 
