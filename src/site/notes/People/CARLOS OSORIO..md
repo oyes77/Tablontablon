@@ -18,5 +18,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[2023-09-25\|2023-09-25]] 18:42
+> > - Creado: [[Journal/Daily notes/2023-09-25\|2023-09-25]] 18:42
 > > - Desde: g.jaramillo@udea.edu.co  
