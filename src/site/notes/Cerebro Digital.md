@@ -38,6 +38,7 @@
 
 | Ideas                                                                                                  | Links |
 | ------------------------------------------------------------------------------------------------------ | ----- |
+| [[Templates/existent tags\|existent tags]]                                                          | 0     |
 | [[Zettle/Informática Teórica Ejercicio De Ads\|Informática Teórica Ejercicio De Ads]]               | 0     |
 | [[Zettle/Which Are My Flaws and how to Overcome Them\|Which Are My Flaws and how to Overcome Them]] | 1     |
 | [[Zettle/Acordes Autorreferencial\|Acordes Autorreferencial]]                                       | 0     |
@@ -51,7 +52,6 @@
 | [[Cabeza\|Cabeza]]                                                                                  | 0     |
 | [[Zettle/Guión Video Historia\|Guión Video Historia]]                                               | 0     |
 | [[Zettle/Bitácora De Campo\|Bitácora De Campo]]                                                     | 1     |
-| [[Templates/existent tags\|existent tags]]                                                          | 0     |
 
 { .block-language-dataview}
 
