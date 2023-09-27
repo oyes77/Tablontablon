@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Uni Studies/Módulo 5 - Cine ficción/","title":"Módulo 5 - Cine ficción","tags":["Contexto/Universidad",""],"created":"2023-03-14T13:36:57.817-05:00","updated":"2023-09-09T18:09:40.753-05:00"}
+{"dg-publish":true,"permalink":"/Uni Studies/Módulo 5 - Cine ficción/","title":"Módulo 5 - Cine ficción","tags":["Contexto/Universidad",""],"created":"2023-03-14T13:36:57.817-05:00","updated":"2023-09-26T21:25:46.371-05:00"}
 ---
 
 
-# Módulo 5 - Cine ficción
+# Módulo 5 - Cine Ficción
