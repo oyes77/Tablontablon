@@ -1,9 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/Uni Studies/Módulo 2 - Audio/","title":"Módulo 2 - Audio","tags":["Contexto/Universidad",""],"created":"2023-03-14T13:36:53.016-05:00","updated":"2023-09-26T18:12:52.510-05:00"}
+{"dg-publish":true,"permalink":"/Uni Studies/Módulo 2 - Audio/","title":"Módulo 2 - Audio","tags":["Contexto/Universidad",""],"created":"2023-03-14T13:36:53.016-05:00","updated":"2023-09-27T11:04:17.686-05:00"}
 ---
 
 
 # Módulo 2 - Audio
+
+Se puede hacer una multimedia, cualquier cosa para el taller central, pero el protagonista es el sonido, si el producto es awesom, pero el sonido es 50/50, el sonido es lo que se califica realmente.
+
+Ejemplos: podcasts, bitácora, puesta en escena, argumental acusmático, sonoviso, documental acusmático, etc.
+
+## Factibles :
+
+- Diseños de bandas sonoras! Radiodramas, radioteatros, publireportajes, crónicas, reseñas, entrevistas.
+- SE PUEDE HACER EL SCORE DE UN PROYECTO DE 3 RO O 4 TO SEMESTRE X EJEMPLO OWOWOWOWWOWOWO
 
 ## [[Uni Studies/Estética Integrada\|Estética Integrada]]
 
