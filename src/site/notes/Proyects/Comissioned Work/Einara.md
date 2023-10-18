@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Comissioned Work/Einara/","title":"Einara","created":"2023-09-25T17:17:01.086-05:00","updated":"2023-09-25T17:33:25.520-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Comissioned Work/Einara/","title":"Einara","created":"2023-09-25T17:17:01.086-05:00","updated":"2023-10-18T16:40:01.323-05:00"}
 ---
 
 
@@ -70,4 +70,9 @@ Funciona de una forma muy sencilla:
 > [!blank-container]
 > 
 > ![](file:///C:/Users/Ezma/AppData/Local/Packages/oice_16_974fa576_32c1d314_1e12/AC/Temp/msohtmlclip1/01/clip_image010.png) And ahe Will be always available to help you to fight against vulnerabilities
-> 
+>
+
+---
+## So I need an actual script for the video:
+
+
