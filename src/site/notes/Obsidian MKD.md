@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-09-23T22:57:00.069-05:00"}
+{"dg-publish":true,"permalink":"/Obsidian MKD/","title":"Obsidian MKD","created":"2023-07-31T17:03:18.464-05:00","updated":"2023-10-03T16:31:54.840-05:00"}
 ---
 
 
@@ -68,7 +68,7 @@ xxxxxxxxxxxxxxxxxxxxxxxx
 >> [!todo]+
 >> - [x] Define Use Case
 >> - [x] Craft User Story
->> - [ ] Develop draft sketches
+>> - [x] Develop draft sketches
 { #l7s1r6}
 
 
