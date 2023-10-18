@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Rusted/","title":"Rusted","created":"2023-03-21T13:19:35.903-05:00","updated":"2023-09-09T18:29:35.801-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Rusted/","title":"Rusted","created":"2023-03-21T13:19:35.903-05:00","updated":"2023-10-08T19:07:55.289-05:00"}
 ---
 
 
@@ -55,11 +55,9 @@ Estas cuevas tienen un hongo en la piedra que las hacen fluorescentes al tacto y
 
 ## Criaturas
 
-## Personajes
+## [[Personajes De Rusted\|Personajes De Rusted]]
 
-### Tablón
-
-tablón, o Tablita para algunos, es el lider actual de la casa rusted en el Torreón,
+## [[Proyects/Archipiélago/Razas De Rusted\|Razas De Rusted]]
 
 ## Relaciones
 
@@ -73,8 +71,8 @@ Han acogido a algunos Channels, su religión les parece curiosa, pues, ¿cómo p
 
 ### [[Proyects/Archipiélago/Torreón\|Torreón]]
 
-## Arte / Magia
+## [[Proyects/Archipiélago/Magia De Rusted\|Magia De Rusted]]
 
-La magia de rusted es enfocada usando música, los sonidos de las flautas y las cuerdas les recuerdan a sus antepasados, tocan tonadas de sus familias, modificando el ánimo y potenciado las emociones que las personas pueden sentir dependiendo de la tonada que ejecuten, así mismo, pueden cambiar levemente el comportamiento de criaturas y plantas a su favor.
+
 
 ---
