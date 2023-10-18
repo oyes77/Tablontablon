@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["NoteType/Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-09-25T17:05:44.913-05:00"}
+{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["NoteType/Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-10-03T16:14:35.478-05:00"}
 ---
 
 
@@ -24,17 +24,4 @@
 - - - 
 ## Checklist
 
-- [ ] Clear email inbox
-- [ ] Process physical notes
-- [ ] Process digital notes/inbox
-- [ ] Clear Downloads folder
-- [ ] Clear Desktop
-- [ ] Process browser tabs
-- [ ] Check calendar
-- [ ] Declutter desk
-- [ ] Review To Do List
-- [ ] Review Projects
-	- [ ] Move now active projects to Projects folder
-	- [ ] Archive projects no longer needed/of interest
-- [ ] Choose tasks for the week
 
