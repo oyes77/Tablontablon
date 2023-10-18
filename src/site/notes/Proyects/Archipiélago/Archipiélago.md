@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","created":"2023-03-15T20:56:37.931-05:00","updated":"2023-09-09T18:28:39.821-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","created":"2023-03-15T20:56:37.931-05:00","updated":"2023-10-08T19:05:41.069-05:00"}
 ---
 
-
+S
 # Archipiélago
 
 > [!help] Explicación de Lectura
@@ -23,13 +23,9 @@ El archipiélago es un conjunto de Islas muy diferentes unas de otras, donde el 
 
 - - - 
 
-# Sistema
+# [[Proyects/Archipiélago/Sistema De Rol Del Archipiélago\|Sistema De Rol Del Archipiélago]]
 
 El sistema va a ser por rol narrativo, la magia puede usarse en cualquier momento siempre que se cumpla su requisito de invocación,
-
-[[Proyects/Archipiélago/Creación De Personajes\|Creación De Personajes]]
-[[Proyects/Archipiélago/Magia\|Magia]]
-[[Proyects/Archipiélago/Combate\|Combate]]
 
 - - -
 
