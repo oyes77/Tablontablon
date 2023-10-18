@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.909-05:00","updated":"2023-09-23T23:40:08.231-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.909-05:00","updated":"2023-10-08T19:07:06.787-05:00"}
 ---
 
 
@@ -118,9 +118,11 @@ Ven al Torreón como una oportunidad de que sus jóvenes conozcan los defectos d
  > Esto gracias a el hongo. adicionalmente rusted lo usa porque han notado que asusta a ciertas criaturas peligrosas en el bosque.
 
 Ningún otro territorio se ha asentado en el desierto de Channels, pues los que se han aventurado a explorarlo y se han quedado por demasiado tiempo, han desaparecido y nunca han encontrado cuerpos o alguna edificación.
+## [[Proyects/Archipiélago/Personajes De Channels\|Personajes De Channels]]
+## [[Proyects/Archipiélago/Razas De Channels\|Razas De Channels]]
+## [[Proyects/Archipiélago/Magia De Channels\|Magia De Channels]]
 
-## Arte / Magia
 
-Su magia se activa al rezar y sentirse conectados con las dunas, pues creen en la Paz que les otorga su religión de las dunas. Al usar la magia del arte, convierten lo complejo en su versión más simple, como formas geométricas, simplificar los colores, o transformar algo en sus materiales de construcción.
 
 ---
+
