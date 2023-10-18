@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Uni Studies/Módulo 2 - Audio/","title":"Módulo 2 - Audio","tags":["Contexto/Universidad","ZeTopic/Audio"],"created":"2023-03-14T13:36:53.016-05:00","updated":"2023-09-27T11:06:11.905-05:00"}
+{"dg-publish":true,"permalink":"/Uni Studies/Módulo 2 - Audio/","title":"Módulo 2 - Audio","tags":["Contexto/Universidad","ZeTopic/Audio"],"created":"2023-03-14T13:36:53.016-05:00","updated":"2023-10-02T15:04:43.091-05:00"}
 ---
 
 
@@ -16,8 +16,13 @@ Ejemplos: podcasts, bitácora, puesta en escena, argumental acusmático, sonovis
 
 ## [[Uni Studies/Estética Integrada\|Estética Integrada]]
 
-## [[Historia colombiana del siglo XX - XXI\|Historia colombiana del siglo XX - XXI]]
+## [[Uni Studies/Historia Colombiana Del Siglo XX - XXI\|Historia Colombiana Del Siglo XX - XXI]]
 
-## [[Sociedad Contemporanea\|Sociedad Contemporanea]]
+## [[Uni Studies/Sociedad Contemporánea\|Sociedad Contemporánea]]
 
-## [[Radio Digital\|Radio Digital]]
+## [[Uni Studies/Radio Digital\|Radio Digital]]
+
+##  [[Uni Studies/Géneros Y Formatos Informativos\|Géneros Y Formatos Informativos]]
+## [[Uni Studies/Expresión Sonora Y Textual\|Expresión Sonora Y Textual]]
+
+## [[Uni Studies/Imagen Sonora\|Imagen Sonora]]
