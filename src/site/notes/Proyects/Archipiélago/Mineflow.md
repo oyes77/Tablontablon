@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-09-09T18:29:18.573-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-10-08T19:09:15.473-05:00"}
 ---
 
 
@@ -67,8 +67,8 @@ Estos buhos fueron domesticados por las personas de mineflow, algunos se atreven
 
 Duras criaturas con una piel de roca,
 
-## Personajes
-
+## [[Proyects/Archipiélago/Personajes De Mineflow\|Personajes De Mineflow]]
+## [[Proyects/Archipiélago/Razas De Mineflow\|Razas De Mineflow]]
 ## Relaciones
 
 ### [[Proyects/Archipiélago/Channels\|Channels]]
@@ -85,8 +85,8 @@ Tienen una relación hostil con Romephan, los Romephanos suelen intentar invadir
 
 ### [[Proyects/Archipiélago/Torreón\|Torreón]]
 
-## Arte / Magia
+## [[Proyects/Archipiélago/Magia De Mineflow\|Magia De Mineflow]]
 
-Su magia es invocada leyendo libros, estudiando o recordando información de un libro que tengan en sus manos. Esta les permite saber con certeza ciertas cosas sobre criaturas, plantas, fenómenos, y demás cualidades observaables. son investigadores natos debido a esto. suelen usarla para descubrir más sobre el mundo y desentrañar sus secretos mediante observación y prácticas científicas e investigativas, la magia se centra en la recolecciónde información y el análisis mediantela observación.
+
 
 ---
