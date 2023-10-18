@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Torreón/","title":"Torreón","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.927-05:00","updated":"2023-09-09T18:29:41.836-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Torreón/","title":"Torreón","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.927-05:00","updated":"2023-10-08T18:56:24.787-05:00"}
 ---
 
 
@@ -18,7 +18,7 @@ El torreón es una isla relativamente plana, es una ciudad construida en piedras
 
 ## Criaturas
 
-## Personajes
+## [[Personajes De Torreón\|Personajes De Torreón]]
 
 ### Oka
 
