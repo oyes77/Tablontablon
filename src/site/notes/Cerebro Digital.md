@@ -38,8 +38,9 @@
 
 | Ideas                                                                                                  | Links |
 | ------------------------------------------------------------------------------------------------------ | ----- |
-| [[La Oportunidad Del Preso.\|La Oportunidad Del Preso.]]                                            | 0     |
+| [[Proyects/Pedro y el conflicto armado/Brainstorm\|Brainstorm]]                                     | 1     |
 | [[Templates/existent tags\|existent tags]]                                                          | 0     |
+| [[La Oportunidad Del Preso.\|La Oportunidad Del Preso.]]                                            | 0     |
 | [[Zettle/Informática Teórica Ejercicio De Ads\|Informática Teórica Ejercicio De Ads]]               | 0     |
 | [[Zettle/Which Are My Flaws and how to Overcome Them\|Which Are My Flaws and how to Overcome Them]] | 1     |
 | [[Zettle/Acordes Autorreferencial\|Acordes Autorreferencial]]                                       | 0     |
