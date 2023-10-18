@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/existent tags/","title":"Existent Tags","tags":["ZeType/Ensayo","ZeType/Referencia","ZeType/Idea","ZeType/Pensamiento","Contexto/Drawingattack","Contexto/Universidad","Contexto/Personal","NoteType/Daily","NoteType/Weekly","NoteType/KanbanNote","NoteType/Book","NoteType/Article","NoteType/TOC","NoteType/excalidraw","NoteType/Person"],"created":"2023-09-08T20:23:59.911-05:00","updated":"2023-09-26T17:25:09.769-05:00"}
+{"dg-publish":true,"permalink":"/Templates/existent tags/","title":"Existent Tags","created":"2023-09-08T20:23:59.911-05:00","updated":"2023-10-04T21:48:12.513-05:00"}
 ---
 
 
@@ -9,7 +9,7 @@ NEW TAGS:
 
 Contexts: #Contexto/Universidad #Contexto/Personal #Contexto/Drawingattack
 
-NoteType: #NoteType/Book #NoteType/KanbanNote #NoteType/Person #NoteType/Daily #NoteType/Article #NoteType/TOC #NoteType/Weekly #NoteType/excalidraw 
+NoteType: #NoteType/Book #NoteType/KanbanNote #NoteType/Person #NoteType/Daily #NoteType/Article #NoteType/TOC #NoteType/Weekly #NoteType/excalidraw #NoteType/Video #NoteType/Omnivore 
 
 ZeType: #ZeType/Idea #ZeType/Pensamiento #ZeType/Referencia #ZeType/Ensayo 
 
