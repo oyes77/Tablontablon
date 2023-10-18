@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Romephan/","title":"Romephan","created":"2023-03-21T13:19:35.911-05:00","updated":"2023-09-09T18:29:30.037-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Romephan/","title":"Romephan","created":"2023-03-21T13:19:35.911-05:00","updated":"2023-10-08T19:07:32.081-05:00"}
 ---
 
 
@@ -72,8 +72,8 @@ Su nombre es se explica a si mismo, son rios de lava tranquila que suelen fluir 
 
 ### Golem Rojo
 
-## Personajes
-
+## [[Personajes De Romephan\|Personajes De Romephan]]
+## [[Proyects/Archipiélago/Razas De Romephan\|Razas De Romephan]]
 ## Relaciones
 
 ### [[Proyects/Archipiélago/Mineflow\|Mineflow]]
@@ -90,10 +90,8 @@ Han tenido poco o nada de contacto, y no conocen demasiado sobre su cultura, alg
 
 ### [[Proyects/Archipiélago/Torreón\|Torreón]]
 
-## Arte / Magia
+## [[Proyects/Archipiélago/Magia De Romephan\|Magia De Romephan]]
 
-Cada una de estos clanes desarrolla su propia magia, basada en el color rojo, para usar esta magia los clanes usan diferentes formas de movimientos con el cuerpo, como artes de combate, danzas, y gimnasia, que deben ser ejecutadas correctamente para que la magia sea completada.
 
-Esta magia reconstruye tomando elementos de la naturaleza, uniendolos y transformandolos en algo nuevo, a diferencia de Channels, en vez de transformar algo a su forma más simple, usa los materiales simples para crear cosa más complejas.
 
 ---
