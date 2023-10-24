@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.909-05:00","updated":"2023-10-24T10:56:37.509-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","tags":["Contexto/Drawingattack"],"created":"2023-03-21T13:19:35.909-05:00","updated":"2023-10-24T10:56:52.355-05:00"}
 ---
 
 
@@ -7,8 +7,7 @@
 
 ## Lore
 
-## Cultura
-
+## [[Proyects/Archipiélago/Cultura De Channels\|Cultura De Channels]]
 
 ## [[Proyects/Archipiélago/Geografía De Channels\|Geografía De Channels]]
 
