@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/Zettle/Guión De Historia De la Infancia/","title":"Guión De Historia De la Infancia","created":"2023-10-18T16:49:53.151-05:00","updated":"2023-10-23T23:20:13.720-05:00"}
+---
+
+
+# Guión De Historia De la Infancia
+
+Estaba en el nevado del ruiz con mi familia (personajes: tía, abuelo y abuela en la carpa conmigo, el perro blanco crespo de panita q me rescata)
+
+llevábamos 2 días haciendo senderismo Escalando el nevado del ruiz, yo tenía 11 años entonces, la historia se sitúa en una noche en la que Acampamos, y en el cielo no había ninguna nube, a la 1 A.M me despierto, dormía en la carpa con mi abuelo, y desperté a las 4 AM, quería ver las estrellas, me dijeron que fuera hacia la carpa de mi tía, me perdí afuera en total oscuridad, y al final el perro del nevado me encontró y me guió de regreso al campamento.
+
+---
+
+*Sonidos de la noche en la montaña, grillos cantando y el viento susurrando entre los árboles.*
+
+Ezma: (Voz serena y emotiva) Desperté una noche estrellada en el Nevado del Ruiz. Yo, con tan solo once años, acampaba en una carpa unto a mi abuelo tras dos agotadores días de senderismo y escalada. El cielo estaba despejado, sin una sola nube.
+
+*Se escuchan pasos en el suelo y el crujir de sacos de dormir mientras me acomodo en la carpa.*
+
+Ezma: (Sigo) era de madrugada, y desde el techo semitransparente la carpa se veían puntitos luminosos por montón, eran estrellas, más de las que había visto nunca, Desperté a mi abuelo en susurros, quien me permitió salir a ver el firmamento, con la condición de buscar la carpa de mi tía para que me acompañar.
+
+*Sonidos de pasos y la cremallera de la carpa.*
+
+Ezma: (Continúo) salí de la carpa y me aventuré hacia la de mi tía. me perdí En la absoluta oscuridad de la montaña, mi respiración comenzaba a estar agitada, y en la oscuridad solo podía escuchar el crujir del suelo bajo mis pies, adentrandome por no sé cuánto tiempo en la oscuridad, dejándome lleavr por mis miedos.
+
+*Sonido de un perro aullando a la distancia.*
+
+Ezma: (Conmovido) Pero la montaña guarda sus secretos, y en esa noche, el perro de un campesino que habíamos visitado el día anterior me encontró, con un ladrido lastimero, llegó a rescatarme.
+
+*Se oyen ladridos y pasos de un perro acercándose.*
+
+Ezma: (Con emoción) Los ladridos del fiel compañero me daban dirección y compañía la oscuridad, guiándome de regreso al campamento y a la seguridad de la carpa de mi tía, que al escucharlo lo llamó.
+
+*Sonidos de pasos que se desvanecen en el suelo mientras vuelvo a la carpa y el perro se aleja. La música suave comienza a tocar de fondo 
