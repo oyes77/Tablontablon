@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guia De Eventos Nebulosos ✨/","title":"Guia De Eventos Nebulosos ✨","tags":["Contexto/Drawingattack","gardenEntry"],"created":"2023-08-08T16:06:58.600-05:00","updated":"2023-09-26T18:08:40.264-05:00"}
+{"dg-publish":true,"permalink":"/Guia De Eventos Nebulosos ✨/","title":"Guia De Eventos Nebulosos ✨","tags":["Contexto/Drawingattack","gardenEntry","gardenEntry"],"created":"2023-08-08T16:06:58.600-05:00","updated":"2023-09-26T18:08:40.264-05:00"}
 ---
 
 
