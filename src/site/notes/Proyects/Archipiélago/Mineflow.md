@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-10-08T19:09:15.473-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-10-24T10:31:17.470-05:00"}
 ---
 
 
@@ -33,29 +33,7 @@ Los científicos se comunican mediante Buhos gigantes, que pueden maniobrar en l
 
  > Hay un grupo de Flowerianos que rechazan el estilo de vida de la mayoría, son exploradores, usan trineos jalados por lobos de las nieves, y se dedican a hacer mapas de las montañas, cuevas, y territorios de mineflow, por esto es la tierra con los mapas más detallados luego de Rusted.
 
-## Territorio
-
-Mineflow es una isla gigante con montañas, picos helados y glaciares en el mar, además de formaciones de hielo gigantes en la propia superficie de la isla. Ocurren tormentas de nieve y vientos arrasadores comunmente.
-
-### Puentes
-
-Son puentes de piedra gigantes y anchos que pasan entre montañas, se desconoce su antiguedad exacta, pero los estudios de los Mineflowneos afirman que llevan más de 10.000 años desde su construcción, y no se entiende cómo siguen en pie dadas las extremas condiciones del territorio de Mineflow.
-
-### Montaña Hueca
-
-La montaña hueca es un volcán congelado, se hacen excursiones allì, y es usado como sitio para patinaje de hielo, puest es un lugar protegido de los vientos helados.
-
-### Montes Planos
-
-Son montañas no tan empinadas, lo más parecido a una planicie en las zonas frías de Mineflow, es la zona en la que suele moverse el clan de exploradores con trineos.
-
-### Negrura
-
-Un área en Mineflow con mucho misterio, la nieve tiene reacciones químicas extrañas con minerales de las montañas, y es completamente negra, es muy poco investigada, y uno de los pocos tabús que no se investigan para los mineflowneos. 
-
-### Picos De Los Dragones
-
-En estos picos habitan criaturas antiguas y temidas, son montañas como las otras hasta donde se conoce, pero destacan por su altura, así que los mineflowneos no han podido investigar demasiado,. 
+## [[Proyects/Archipiélago/Geografía De Mineflow\|Geografía De Mineflow]]
 
 ## Criaturas
 
@@ -68,7 +46,9 @@ Estos buhos fueron domesticados por las personas de mineflow, algunos se atreven
 Duras criaturas con una piel de roca,
 
 ## [[Proyects/Archipiélago/Personajes De Mineflow\|Personajes De Mineflow]]
+
 ## [[Proyects/Archipiélago/Razas De Mineflow\|Razas De Mineflow]]
+
 ## Relaciones
 
 ### [[Proyects/Archipiélago/Channels\|Channels]]
@@ -86,7 +66,5 @@ Tienen una relación hostil con Romephan, los Romephanos suelen intentar invadir
 ### [[Proyects/Archipiélago/Torreón\|Torreón]]
 
 ## [[Proyects/Archipiélago/Magia De Mineflow\|Magia De Mineflow]]
-
-
 
 ---
