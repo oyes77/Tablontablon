@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","created":"2023-03-15T20:56:37.931-05:00","updated":"2023-10-08T19:05:41.069-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","created":"2023-03-15T20:56:37.931-05:00","updated":"2023-10-24T11:22:47.427-05:00"}
 ---
 
-S
+
 # Archipiélago
 
 > [!help] Explicación de Lectura
