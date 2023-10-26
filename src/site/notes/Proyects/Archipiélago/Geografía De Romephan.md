@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Romephan/","title":"Geografía De Romephan","created":"2023-10-24T10:26:06.335-05:00","updated":"2023-10-24T10:51:14.779-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Romephan/","title":"Geografía De Romephan","created":"2023-10-24T10:26:06.335-05:00","updated":"2023-10-24T12:22:58.088-05:00"}
 ---
 
 
@@ -31,8 +31,6 @@ Este volcán está abierto a la entrada mediante túneles, pareciendo un sistema
 
 Este mirador es una formación rocosa en la punta del Volcán del Rugido, desde donde se puede ver la lava del volcán alzarse cuando ruge. Es una ubicación común para festejos y eventos de diferentes clanes.
 
-
-
 ## El Claro
 
 Así se le llama a las zonas de la isla más cercanas al mar, donde las rocas están frías, y el humo y ceniza no llegan. aquí se pueden encontrar praderas, donde algunos animales marinos descansan.
@@ -43,9 +41,30 @@ son un grupo de volcanes al rededor de la isla, que expulsan humo y ceniza, cubr
 
  > [!tip] Info
  > La ceniza es removida en la Temporada de vientos, donde vientos fuertes atacan todas las islas.
+
 ## La Ciudadela
 
-La ciudadela es un grupo de clanes que empezaron a crear desarrollos tecnológicos gracias a vivir cerca de uno de los volcanes durmientes de Las Chimeneas, que producía mucho vapor, los líderes de clanes se organizaron en nobles que controlan la ciudad, están relativamente aislados del resto de Romephan, con relaciones neutrales respecto al resto de clanes, viéndolos cómo inferiores.
+La ciudadela es un grupo de clanes que empezaron a crear desarrollos tecnológicos gracias a vivir cerca de uno de los volcanes durmientes de Las Chimeneas, que producía mucho vapor, los líderes de clanes se organizaron en nobles burgueses que controlan la ciudad, están relativamente aislados del resto de Romephan, con relaciones neutrales respecto al resto de clanes, viéndolos cómo inferiores.
+
+Consiste de una gran metrópolis edificada en piedra y bronce (muy parecida a un estilo Steampunk), se la considera la cuna de la tecnología y la innovación ya que es aquí donde los inventores más afamados han logrado crear todo tipos de maquinarias que han ayudado enormemente al progreso de la humanidad.
+
+es una de las zonas con más criminalidad, teniendo antiguos clanes ahora organizados en mafias que controlan grandes partes de la ciudad, las cuales ayudan a propagar aún más la desigualdad entre los ricos y los que no tienen nada. 
+
+Esta ciudad se encuentra gobernada por un consejo de cuatro integrantes:
+
+- [[Octavius\|Octavius]] (El líder militar)
+- [[Magda\|Magda]] (La empresaria modelo)
+- [[Gala\|Gala]] (La más joven del consejo)
+- [[Sevastian\|Sevastian]] (El más sabio y poderoso de los 4).
+
+Estos son los que toman todas las decisiones de la Ciudadela, pero esto no significa que son los únicos con ese poder. En los barrios bajos los mandatos recaen sobre los hombros de los tres clanes: 
+
+- [[La familia Fugazzety\|La familia Fugazzety]] 
+- [[La familia Garganelly\|La familia Garganelly]]  
+- [[La familia Tagliatello\|La familia Tagliatello]] 
+
+Las cuales se encuentran en un conflicto constante por tratar de lograr el control total del lugar y subir a lo más alto. La relación entre La Ciudadela con su parte más antigua u originaria es casi inexistente, tienen tratados de paz y comerciales entre sí, pero no hay una hermandad como tal, incluso la parte moderna les tienen cierto rechazo por estos no querer unirse al progreso de la ciudad y seguir con sus anticuadas actividades autóctonas, las cuales llegan a ser un poco “brutas” para los finos paladares nobles.
+
 ## Rios De Lava
 
 Su nombre es se explica a si mismo, son rios de lava tranquila que suelen fluir desde minas o cuevas, y han formado caminos entre la piedra asentada.
