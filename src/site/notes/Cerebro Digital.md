@@ -38,6 +38,8 @@
 
 | Ideas                                                                                                  | Links |
 | ------------------------------------------------------------------------------------------------------ | ----- |
+| [[Zettle/Guión para radio de Magazine\|Guión para radio de Magazine]]                               | 0     |
+| [[Zettle/Guión De Historia De la Infancia\|Guión De Historia De la Infancia]]                       | 0     |
 | [[Proyects/Pedro y el conflicto armado/Brainstorm\|Brainstorm]]                                     | 1     |
 | [[Templates/existent tags\|existent tags]]                                                          | 0     |
 | [[La Oportunidad Del Preso.\|La Oportunidad Del Preso.]]                                            | 0     |
