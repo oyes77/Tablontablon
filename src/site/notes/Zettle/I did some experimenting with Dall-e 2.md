@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/I did some experimenting with Dall-e 2/","title":"> [!summary] ","tags":["ZeType/Ensayo"],"created":"2023-08-31T18:14:02.924-05:00","updated":"2023-09-25T12:37:13.171-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/I did some experimenting with Dall-e 2/","title":"> [!summary] ","tags":["ZeType/Ensayo"],"updated":"2023-09-25T12:37:13.171-05:00"}
 ---
 
 
