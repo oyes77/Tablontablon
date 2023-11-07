@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Handbook of the Sociology of Emotions/","title":"Handbook of the Sociology of Emotions","tags":["NoteType/Book"],"created":"2023-10-02T12:54:11.364-05:00","updated":"2023-10-02T12:54:58.579-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Handbook of the Sociology of Emotions/","title":"Handbook of the Sociology of Emotions","tags":["NoteType/Book"],"updated":"2023-10-02T12:54:58.579-05:00"}
 ---
 
 
