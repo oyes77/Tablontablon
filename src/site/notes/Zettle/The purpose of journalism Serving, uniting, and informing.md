@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/The purpose of journalism Serving, uniting, and informing/","title":"The purpose of journalism Serving, uniting, and informing","tags":["ZeType/Pensamiento"],"created":"2023-09-05T06:28:41.486-05:00","updated":"2023-09-25T12:37:13.255-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/The purpose of journalism Serving, uniting, and informing/","title":"The purpose of journalism Serving, uniting, and informing","tags":["ZeType/Pensamiento"],"updated":"2023-09-25T12:37:13.255-05:00"}
 ---
 
 
