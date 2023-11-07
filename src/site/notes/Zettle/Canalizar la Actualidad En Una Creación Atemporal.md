@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Canalizar la Actualidad En Una Creación Atemporal/","title":"Canalizar la Actualidad En Una Creación Atemporal","tags":["ZeType/Idea",""],"created":"2023-09-06T07:52:34.854-05:00","updated":"2023-09-25T12:37:13.075-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Canalizar la Actualidad En Una Creación Atemporal/","title":"Canalizar la Actualidad En Una Creación Atemporal","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:13.075-05:00"}
 ---
 
 
