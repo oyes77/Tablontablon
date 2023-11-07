@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Qué Leyes Hacen Los Que Hacen Las Leyes/","title":"Qué leyes hacen los que hacen las leyes] 🧠\"","tags":["ZeType/Idea"],"created":"2023-09-26T10:58:50.874-05:00","updated":"2023-09-26T11:06:44.449-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Qué Leyes Hacen Los Que Hacen Las Leyes/","title":"Qué leyes hacen los que hacen las leyes] 🧠\"","tags":["ZeType/Idea"],"updated":"2023-09-26T11:06:44.449-05:00"}
 ---
 
 
