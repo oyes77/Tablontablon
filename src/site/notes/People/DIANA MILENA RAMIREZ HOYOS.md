@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/DIANA MILENA RAMIREZ HOYOS/","title":"DIANA MILENA RAMIREZ HOYOS","tags":["NoteType/Person"],"created":"2023-08-08T02:14:59.383-05:00","updated":"2023-09-09T18:10:47.856-05:00"}
+{"dg-publish":true,"permalink":"/People/DIANA MILENA RAMIREZ HOYOS/","title":"DIANA MILENA RAMIREZ HOYOS","tags":["NoteType/Person"],"updated":"2023-09-09T18:10:47.856-05:00"}
 ---
 
 # DIANA MILENA RAMIREZ HOYOS
