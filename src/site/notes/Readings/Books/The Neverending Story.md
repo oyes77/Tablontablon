@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Neverending Story/","title":"The Neverending Story","tags":["NoteType/Book"],"created":"2023-10-04T15:27:46.527-05:00","updated":"2023-10-04T15:27:58.496-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Neverending Story/","title":"The Neverending Story","tags":["NoteType/Book"],"updated":"2023-10-04T15:27:58.496-05:00"}
 ---
 
 
