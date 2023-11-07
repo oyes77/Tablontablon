@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Romephan/","title":"Romephan","created":"2023-03-21T13:19:35.911-05:00","updated":"2023-10-24T11:19:28.032-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Romephan/","title":"Romephan","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:06.868-05:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 
 ### Golem Rojo
 
-## [[Personajes De Romephan\|Personajes De Romephan]]
+## [[Proyects/Archipiélago/Personajes De Romephan\|Personajes De Romephan]]
 
 ## [[Proyects/Archipiélago/Razas De Romephan\|Razas De Romephan]]
 
