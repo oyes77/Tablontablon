@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Key Ideas in Sociology/","title":"Key Ideas in Sociology","tags":["NoteType/Book"],"created":"2023-10-02T12:52:25.075-05:00","updated":"2023-10-02T12:52:58.506-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Key Ideas in Sociology/","title":"Key Ideas in Sociology","tags":["NoteType/Book"],"updated":"2023-10-02T12:52:58.506-05:00"}
 ---
 
 
