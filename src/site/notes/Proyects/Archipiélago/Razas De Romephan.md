@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Romephan/","title":"Razas De Romephan","created":"2023-10-08T19:02:45.451-05:00","updated":"2023-10-24T10:44:01.679-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Romephan/","title":"Razas De Romephan","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:06.525-05:00"}
 ---
 
 0¿
