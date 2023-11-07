@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Mineflow/","title":"Magia De Mineflow","created":"2023-10-08T19:09:14.177-05:00","updated":"2023-10-24T10:58:57.332-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Mineflow/","title":"Magia De Mineflow","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:05.200-05:00"}
 ---
 
 
