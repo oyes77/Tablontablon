@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Cuestionar Mis Creencias Es Necesario Para Desarrollar Entendimiento Real/","title":"Cuestionar Mis Creencias Es Necesario Para Desarrollar Entendimiento Real","tags":["ZeType/Idea",""],"created":"2023-09-05T07:07:37.059-05:00","updated":"2023-09-25T12:37:13.106-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Cuestionar Mis Creencias Es Necesario Para Desarrollar Entendimiento Real/","title":"Cuestionar Mis Creencias Es Necesario Para Desarrollar Entendimiento Real","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:13.106-05:00"}
 ---
 
 
