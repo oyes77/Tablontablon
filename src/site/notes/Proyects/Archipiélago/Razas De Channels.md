@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Channels/","title":"Razas De Channels","created":"2023-10-08T19:00:53.188-05:00","updated":"2023-10-24T10:57:34.538-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Channels/","title":"Razas De Channels","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:06.337-05:00"}
 ---
 
 
