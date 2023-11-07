@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Oblivion/","title":"Oblivion","tags":["NoteType/Book"],"created":"2023-09-28T16:47:49.881-05:00","updated":"2023-10-01T23:22:16.437-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Oblivion/","title":"Oblivion","tags":["NoteType/Book"],"updated":"2023-10-01T23:22:16.437-05:00"}
 ---
 
 
