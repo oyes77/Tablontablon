@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Mineflow/","title":"Razas De Mineflow","created":"2023-10-08T19:01:52.611-05:00","updated":"2023-10-24T10:58:47.767-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Mineflow/","title":"Razas De Mineflow","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:06.443-05:00"}
 ---
 
 
