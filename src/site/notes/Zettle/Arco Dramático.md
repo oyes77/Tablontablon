@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Arco Dramático/","title":"Arco Dramático","tags":["ZeType/Pensamiento","Contexto/Universidad"],"created":"2023-06-13T08:01:26.306-05:00","updated":"2023-09-25T12:37:13.062-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Arco Dramático/","title":"Arco Dramático","tags":["ZeType/Pensamiento","Contexto/Universidad"],"updated":"2023-09-25T12:37:13.062-05:00"}
 ---
 
 
