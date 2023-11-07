@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Mineflow/","title":"Mineflow","created":"2023-03-21T13:19:35.906-05:00","updated":"2023-10-24T11:19:09.664-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Mineflow/","title":"Mineflow","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:05.635-05:00"}
 ---
 
 
