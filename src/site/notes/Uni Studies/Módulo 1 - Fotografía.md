@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Uni Studies/Módulo 1 - Fotografía/","title":"Módulo 1 - Fotografía","tags":["Contexto/Universidad",""],"created":"2023-03-14T13:36:47.684-05:00","updated":"2023-10-02T15:02:17.226-05:00"}
+{"dg-publish":true,"permalink":"/Uni Studies/Módulo 1 - Fotografía/","title":"Módulo 1 - Fotografía","tags":["Contexto/Universidad",""],"updated":"2023-11-06T19:54:39.185-05:00"}
 ---
 
 
@@ -10,10 +10,6 @@
 ### Maestr@:
 
 [[People/ERNESTO CORREA HERRERA\|ERNESTO CORREA HERRERA]]
-
-### Horario
-
-[[(Every W) ESTETICA\|(Every W) ESTETICA]]
 
 ### Objetivo General:
 
@@ -27,25 +23,7 @@ Que el estudiante conozca las principales manifestaciones estéticas que histór
 - VER, gustar y sentir la imagen. Y, con referencia especial a la fotografía, develar su uso como lenguaje básico de toda Comunicación visual. 
 el gesto y la palabra libro 
 
-### Trabajos
-
-## Formación Ciudadana Y Constitucional
-
-### Maestr@:
-
-### Horario:
-
-[[(Every R) FORMACIÓN CIUDADANA Y CONSTITUCIONAL\|(Every R) FORMACIÓN CIUDADANA Y CONSTITUCIONAL]]
-
-### Objetivo General:
-
 ## Historia Del Siglo Xix Y Xx
-
-### Maestr@:
-
-### Horario:
-
-[[(Every M) HISTORIA DEL SIGLO XIX Y XX\|(Every M) HISTORIA DEL SIGLO XIX Y XX]]
 
 ### Objetivo General:
 
@@ -61,21 +39,7 @@ Conocer la Historia de la fotografía en relación con las practicas sociales de
 
 ## Imagen Fija Fotografía
 
-### Maestr@:
-
-### Horario:
-
-[[(Every W) IMAGEN FIJA FOTOGRAFIA\|(Every W) IMAGEN FIJA FOTOGRAFIA]] | [[(Every R) IMAGEN FIJA FOTOGRAFIA\|(Every R) IMAGEN FIJA FOTOGRAFIA]] | [[(Every F) IMAGEN FIJA FOTOGRAFIA\|(Every F) IMAGEN FIJA FOTOGRAFIA]]
-
-### Trabajos
-
 ## Imagen Grafica Y Textual
-
-### Maestr@:
-
-### Horario:
-
-[[(Every T) IMAGEN GRAFICA Y TEXTUAL\|(Every T) IMAGEN GRAFICA Y TEXTUAL]] | [[(Every F) IMAGEN GRAFICA Y TEXTUAL\|(Every F) IMAGEN GRAFICA Y TEXTUAL]]
 
 ### OBJETIVO GENERAL:
 
@@ -99,11 +63,7 @@ Desarrollar pensamiento crítico y analítico acerca de conceptos como imagen, n
 
 [[People/SIGIFREDO ESCOBAR GOMEZ\|SIGIFREDO ESCOBAR GOMEZ]]
 
-### Horario:
-
-[[(Every M) INFORMATICA\|(Every M) INFORMATICA]] | [[(Every T) INFORMATICA\|(Every T) INFORMATICA]]
-
-### OBJETIVO GENERAL:
+TIVO GENERAL:
 
 Brindar elementos reflexivos y críticos del papel que han cumplido la ciencia, el arte, la técnica yla cultura en el desarrollo filogenético y ontogenético del ser humano, especialmente en la posmodernidad, para lograr una comprensión de la complejidad del pensamiento posmoderno y de la sociedad actual.
 
@@ -117,17 +77,13 @@ Brindar elementos reflexivos y críticos del papel que han cumplido la ciencia, 
 
 ### Trabajos
 
-1- Mostrar tu objeto favorito en una fotografía, por qué lo es, y el link a una canción que te guste mucho
+1Mostrar tu objeto favorito en una fotografía, por qué lo es, y el link a una canción que te guste mucho
 
 ## Psicología De la Percepción
 
 ### Maestr@:
 
 [[People/CARLOS JOSE GIRALDO JARAMILLO\|CARLOS JOSE GIRALDO JARAMILLO]]
-
-### Horario:
-
-[[(Every W) PSICOLOGIA DE LA PERCEPCION\|(Every W) PSICOLOGIA DE LA PERCEPCION]]
 
 ### Objetivo General:
 
@@ -149,10 +105,6 @@ Identificarlos componentes que intervienen y determinan la dinámica del Proceso
 
 ### Maestr@:
 
-### Horario:
-
-[[(Every T) SEMIÓTICA Y EXPRESIÓN VISUAL\|(Every T) SEMIÓTICA Y EXPRESIÓN VISUAL]]
-
 ### Objetivo General:
 
 Formar a los estudiantes en el manejo de habilidades en lectura crítica del signo, en relación con el contexto histórico, sus interpretaciones, análisis y representaciones sociales y culturales. 
@@ -169,12 +121,6 @@ Formar a los estudiantes en el manejo de habilidades en lectura crítica del sig
 
 ### Maestr@:
 
-### Horario:
-
-[[(Every F) VIDEO ARTE\|(Every F) VIDEO ARTE]]
-
-### Objetivo General:
-
 Acercar a lxs estudiantes al arte cinematográfico, a través de la experimentación con imágenes y sonidos en la línea de tiempo.
 
 ### Objetivos Específicos:
@@ -188,17 +134,39 @@ Acercar a lxs estudiantes al arte cinematográfico, a través de la experimentac
 
 ## Eventos
 
-[[ExpoCAM 1\|ExpoCAM 1]]
+## Ensayos De Este Módulo:
 
-
-## Ensayos de este Módulo:
-
-[[Zettle/El Llanto De Señor Sol\|El Llanto De Señor Sol]]
-[[Zettle/Fotografía Mental\|Fotografía Mental]]
-[[Zettle/Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]]
-[[Zettle/Autoref.\|Autoref.]]
-[[Zettle/Figuras Literarias\|Figuras Literarias]]
-[[Zettle/Bitácora De Campo\|Bitácora De Campo]]
+- [[Zettle/El Llanto De Señor Sol\|El Llanto De Señor Sol]]
+- [[Zettle/Fotografía Mental\|Fotografía Mental]]
+- [[Zettle/Anteproyecto De la Salida De Campo\|Anteproyecto De la Salida De Campo]]
+- [[Zettle/Autoref.\|Autoref.]]
+- [[Zettle/Figuras Literarias\|Figuras Literarias]]
+- [[Zettle/Bitácora De Campo\|Bitácora De Campo]]
 
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+# Inbox
+
+- % I love goni ><
+
+--- 
+- % More sugar font for website or obsidian, it cool as hell n handrwite-y funny feeling XD
+
+--- 
+- % I gotta go to the second class at least if i wake up late, im the one that's losing 
+
+--- 
+- % Goni puede ser mantenida por obligación si estudia, si no mom no obligación, i doubt she can pass to my career but maybe art is capable of
+
+- % Obsidian tracker was updated OwO!!!!! Now did booleans 
+
+--- 
+- % I could reseña this https://youtu.be/LeNqSRz898s?si=3EI1Oscudm0k8QnI
+
+--- 
+
+</div></div>
