@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Una habitación propia/","title":"Una habitación propia","tags":["NoteType/Book"],"created":"2023-10-02T12:58:26.246-05:00","updated":"2023-10-02T12:58:58.737-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Una habitación propia/","title":"Una habitación propia","tags":["NoteType/Book"],"updated":"2023-10-02T12:58:58.737-05:00"}
 ---
 
 
