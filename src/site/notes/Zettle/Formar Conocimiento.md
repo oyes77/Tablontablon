@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Formar Conocimiento/","title":"Formar Conocimiento","tags":["ZeType/Pensamiento",""],"created":"2023-08-26T21:18:30.819-05:00","updated":"2023-10-04T15:47:07.858-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Formar Conocimiento/","title":"Formar Conocimiento","tags":["ZeType/Pensamiento",""],"updated":"2023-10-04T15:47:07.858-05:00"}
 ---
 
 
