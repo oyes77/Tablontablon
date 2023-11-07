@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Fundamentos De Dibujo/","title":"Fundamentos De Dibujo","tags":["ZeType/Idea"],"created":"2023-08-31T12:30:47.500-05:00","updated":"2023-09-25T12:37:13.294-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Fundamentos De Dibujo/","title":"Fundamentos De Dibujo","tags":["ZeType/Idea"],"updated":"2023-09-25T12:37:13.294-05:00"}
 ---
 
 
