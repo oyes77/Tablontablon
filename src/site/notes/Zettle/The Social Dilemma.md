@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/The Social Dilemma/","title":"The Social Dilemma","tags":["ZeType/Referencia"],"created":"2023-09-05T07:33:14.655-05:00","updated":"2023-09-25T12:37:13.252-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/The Social Dilemma/","title":"The Social Dilemma","tags":["ZeType/Referencia"],"updated":"2023-09-25T12:37:13.252-05:00"}
 ---
 
 
