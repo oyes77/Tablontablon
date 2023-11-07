@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Yellow Wallpaper/","title":"The Yellow Wallpaper","tags":["NoteType/Book"],"created":"2023-10-02T12:58:44.405-05:00","updated":"2023-10-02T12:58:58.732-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Yellow Wallpaper/","title":"The Yellow Wallpaper","tags":["NoteType/Book"],"updated":"2023-10-02T12:58:58.732-05:00"}
 ---
 
 
