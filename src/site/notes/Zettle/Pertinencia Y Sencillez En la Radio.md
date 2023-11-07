@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Pertinencia Y Sencillez En la Radio/","title":"Pertinencia Y Sencillez En la Radio","tags":["ZeType/Idea"],"created":"2023-10-02T14:38:16.362-05:00","updated":"2023-10-02T15:12:57.811-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Pertinencia Y Sencillez En la Radio/","title":"Pertinencia Y Sencillez En la Radio","tags":["ZeType/Idea"],"updated":"2023-10-02T15:12:57.811-05:00"}
 ---
 
 
