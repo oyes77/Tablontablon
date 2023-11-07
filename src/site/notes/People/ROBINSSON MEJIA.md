@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/ROBINSSON MEJIA/","title":"ROBINSSON MEJIA","tags":["NoteType/Person"],"created":"2023-09-21T10:01:20.602-05:00","updated":"2023-10-02T15:00:05.933-05:00"}
+{"dg-publish":true,"permalink":"/People/ROBINSSON MEJIA/","title":"ROBINSSON MEJIA","tags":["NoteType/Person"],"updated":"2023-10-02T15:00:05.933-05:00"}
 ---
 
 
