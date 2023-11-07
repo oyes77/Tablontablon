@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/A Theology of Gratitude/","title":"A Theology of Gratitude","tags":["NoteType/Book"],"created":"2023-10-02T12:53:11.677-05:00","updated":"2023-10-02T12:53:58.530-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/A Theology of Gratitude/","title":"A Theology of Gratitude","tags":["NoteType/Book"],"updated":"2023-10-02T12:53:58.530-05:00"}
 ---
 
 
