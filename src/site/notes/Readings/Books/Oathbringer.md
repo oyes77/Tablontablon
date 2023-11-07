@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Oathbringer/","title":"Oathbringer","tags":["NoteType/Book","ZeType/Referencia",""],"created":"2023-08-09T21:43:03.800-05:00","updated":"2023-09-09T18:23:10.635-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Oathbringer/","title":"Oathbringer","tags":["NoteType/Book","ZeType/Referencia",""],"updated":"2023-09-09T18:23:10.635-05:00"}
 ---
 
 
