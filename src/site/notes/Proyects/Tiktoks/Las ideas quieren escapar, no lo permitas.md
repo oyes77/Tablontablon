@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Las ideas quieren escapar, no lo permitas/","tags":["#NoteType/KanbanNote"],"created":"2023-09-27T17:22:59.277-05:00","updated":"2023-09-27T17:23:44.385-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Las ideas quieren escapar, no lo permitas/","tags":["NoteType/KanbanNote"],"updated":"2023-11-06T22:10:18.361-05:00"}
 ---
 
 
