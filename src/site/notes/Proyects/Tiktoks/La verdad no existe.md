@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/La verdad no existe/","tags":["#NoteType/KanbanNote"],"created":"2023-09-27T17:21:44.484-05:00","updated":"2023-09-27T17:22:07.241-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/La verdad no existe/","tags":["NoteType/KanbanNote"],"updated":"2023-11-06T22:10:13.512-05:00"}
 ---
 
 
