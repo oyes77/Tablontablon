@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tablón/","title":"Tablón","created":"2023-05-08T00:05:02.217-05:00","updated":"2023-05-14T23:24:14.787-05:00"}
+{"dg-publish":true,"permalink":"/Tablón/","title":"Tablón","updated":"2023-10-29T20:29:50.480-05:00"}
 ---
 
 
@@ -58,3 +58,4 @@ En una zona muy antigua y alejada del espacio, donde los Astros son seres consci
 ### By: Sperancita
 
 ![|400](https://i.imgur.com/LZGeIjh.png)
+### By: Oka 
