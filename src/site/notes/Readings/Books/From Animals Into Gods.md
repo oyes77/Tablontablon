@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/From Animals Into Gods/","title":"From Animals Into Gods","tags":["NoteType/Book"],"created":"2023-09-25T17:47:40.403-05:00","updated":"2023-10-01T23:22:16.248-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/From Animals Into Gods/","title":"From Animals Into Gods","tags":["NoteType/Book"],"updated":"2023-10-01T23:22:16.248-05:00"}
 ---
 
 
