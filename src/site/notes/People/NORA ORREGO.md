@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/NORA ORREGO/","title":"NORA ORREGO","tags":["NoteType/Person"],"created":"2023-09-18T09:14:30.197-05:00","updated":"2023-09-22T16:57:01.804-05:00"}
+{"dg-publish":true,"permalink":"/People/NORA ORREGO/","title":"NORA ORREGO","tags":["NoteType/Person"],"updated":"2023-09-22T16:57:01.804-05:00"}
 ---
 
 
