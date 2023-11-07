@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Necronomicon/","title":"Necronomicon","tags":["NoteType/Book"],"created":"2023-10-07T17:37:36.342-05:00","updated":"2023-10-07T17:38:07.518-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Necronomicon/","title":"Necronomicon","tags":["NoteType/Book"],"updated":"2023-10-07T17:38:07.518-05:00"}
 ---
 
 
