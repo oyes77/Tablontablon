@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Teoría De la Comunicación/","title":"Teoría De la Comunicación","tags":["ZeType/Idea",""],"created":"2023-05-02T10:20:39.912-05:00","updated":"2023-09-26T17:53:32.190-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Teoría De la Comunicación/","title":"Teoría De la Comunicación","tags":["ZeType/Idea",""],"updated":"2023-09-26T17:53:32.190-05:00"}
 ---
 
 
