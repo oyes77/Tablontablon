@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Tress of the Emerald Sea/","title":"Tress of the Emerald Sea","tags":["NoteType/Book","ZeType/Referencia",""],"created":"2023-08-22T23:47:15.088-05:00","updated":"2023-09-09T18:23:11.350-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Tress of the Emerald Sea/","title":"Tress of the Emerald Sea","tags":["NoteType/Book","ZeType/Referencia",""],"updated":"2023-09-09T18:23:11.350-05:00"}
 ---
 
 
