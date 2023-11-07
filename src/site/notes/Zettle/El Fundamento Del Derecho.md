@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/El Fundamento Del Derecho/","title":"El Fundamento Del Derecho","tags":["ZeType/Idea","ZeTopic/Psicología","ZeTopic/Sociedad"],"created":"2023-09-26T11:06:42.851-05:00","updated":"2023-10-03T17:01:07.480-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/El Fundamento Del Derecho/","title":"El Fundamento Del Derecho","tags":["ZeType/Idea","ZeTopic/Psicología","ZeTopic/Sociedad"],"updated":"2023-10-03T17:01:07.480-05:00"}
 ---
 
 
