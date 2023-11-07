@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Durkheim's Suicide/","title":"Durkheim's Suicide","tags":["NoteType/Book"],"created":"2023-10-02T12:51:33.458-05:00","updated":"2023-10-02T12:51:58.468-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Durkheim's Suicide/","title":"Durkheim's Suicide","tags":["NoteType/Book"],"updated":"2023-10-02T12:51:58.468-05:00"}
 ---
 
 
