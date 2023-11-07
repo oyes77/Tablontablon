@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Mineflow/","title":"Geografía de Mineflow","created":"2023-10-24T10:29:50.334-05:00","updated":"2023-10-24T10:58:25.328-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Mineflow/","title":"Geografía de Mineflow","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:04.875-05:00"}
 ---
 
 
