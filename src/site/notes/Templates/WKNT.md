@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Templates/WKNT/","tags":["NoteType/Weekly"],"created":"2023-07-31T20:59:28.704-05:00","updated":"2023-10-03T16:14:35.478-05:00"}
+{"dg-publish":true,"permalink":"/Templates/WKNT/","title":"<% tp.file.title %>","tags":["NoteType/Weekly"],"updated":"2023-11-05T22:05:32.038-05:00"}
 ---
 
 
+# <% tp.file.title %>
 ## 📅 Nota Semanal:
 <% tp.file.cursor() %>
 
