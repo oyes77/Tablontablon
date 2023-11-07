@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/White Sand/","title":"White Sand","tags":["NoteType/Book"],"created":"2023-09-19T18:32:39.191-05:00","updated":"2023-10-03T13:47:23.188-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/White Sand/","title":"White Sand","tags":["NoteType/Book"],"updated":"2023-10-03T13:47:23.188-05:00"}
 ---
 
 
