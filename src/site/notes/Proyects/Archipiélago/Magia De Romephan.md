@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Romephan/","title":"Magia De Romephan","created":"2023-10-08T19:07:28.658-05:00","updated":"2023-10-24T10:44:11.815-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Romephan/","title":"Magia De Romephan","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:05.340-05:00"}
 ---
 
 
