@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Skillful Huntsman/","title":"The Skillful Huntsman","tags":["NoteType/Book"],"created":"2023-10-01T23:29:43.244-05:00","updated":"2023-10-01T23:31:26.600-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Skillful Huntsman/","title":"The Skillful Huntsman","tags":["NoteType/Book"],"updated":"2023-10-01T23:31:26.600-05:00"}
 ---
 
 
