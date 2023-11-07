@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Thinking, Fast and Slow/","title":"Thinking, Fast and Slow","tags":["NoteType/Book"],"created":"2023-10-18T18:03:07.354-05:00","updated":"2023-10-18T18:03:28.088-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Thinking, Fast and Slow/","title":"Thinking, Fast and Slow","tags":["NoteType/Book"],"updated":"2023-10-18T18:03:28.088-05:00"}
 ---
 
 
