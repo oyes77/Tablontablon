@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Heroes of Olympus The Complete Series (Books 1, 2, 3, 4, 5)/","title":"Heroes of Olympus: The Complete Series (Books 1, 2, 3, 4, 5)","tags":["NoteType/Book"],"created":"2023-10-03T11:58:44.261-05:00","updated":"2023-10-03T11:58:52.811-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Heroes of Olympus The Complete Series (Books 1, 2, 3, 4, 5)/","title":"Heroes of Olympus: The Complete Series (Books 1, 2, 3, 4, 5)","tags":["NoteType/Book"],"updated":"2023-10-03T11:58:52.811-05:00"}
 ---
 
 
