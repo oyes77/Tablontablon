@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/metafísico/","title":"metafísico","tags":["ZeType/Idea"],"created":"2023-10-04T16:03:39.467-05:00","updated":"2023-10-04T16:04:17.435-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/metafísico/","title":"metafísico","tags":["ZeType/Idea"],"updated":"2023-10-04T16:04:17.435-05:00"}
 ---
 
 
