@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Ejemplos de Embed Discord/","title":"Ejemplos de Embed Discord","tags":["ZeType/Referencia"],"created":"2023-08-26T21:18:30.819-05:00","updated":"2023-09-25T12:37:49.728-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Ejemplos de Embed Discord/","title":"Ejemplos de Embed Discord","tags":["ZeType/Referencia"],"updated":"2023-09-25T12:37:49.728-05:00"}
 ---
 
 
