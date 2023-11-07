@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/las palabras habladas no regresan/","title":"las palabras habladas no regresan","tags":["ZeType/Idea"],"created":"2023-10-02T15:13:09.867-05:00","updated":"2023-10-02T15:14:23.252-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/las palabras habladas no regresan/","title":"las palabras habladas no regresan","tags":["ZeType/Idea"],"updated":"2023-10-02T15:14:23.252-05:00"}
 ---
 
 
