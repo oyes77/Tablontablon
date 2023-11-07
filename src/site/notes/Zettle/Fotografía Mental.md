@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Fotografía Mental/","title":"Fotografía Mental","tags":["ZeType/Ensayo","Contexto/Universidad"],"created":"2023-07-23T12:39:38.710-05:00","updated":"2023-09-25T12:37:49.710-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Fotografía Mental/","title":"Fotografía Mental","tags":["ZeType/Ensayo","Contexto/Universidad"],"updated":"2023-09-25T12:37:49.710-05:00"}
 ---
 
 
