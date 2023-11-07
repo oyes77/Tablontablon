@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Review De Sylphrena - The Black Piper/","title":"Review De Sylphrena - The Black Piper","tags":["ZeType/Ensayo","Contexto/Universidad"],"updated":"2023-11-07T01:08:38.698-05:00"}
+{"dg-publish":true,"permalink":"/Review De Sylphrena - The Black Piper/","title":"Review De Sylphrena - The Black Piper","tags":["ZeType/Ensayo","Contexto/Universidad"],"updated":"2023-11-07T01:10:43.206-05:00"}
 ---
 
 
@@ -24,6 +24,6 @@ Sylphrena es solo una voz en la cabeza de Kaladin al principio, mientras es llev
 
 Eventualmente el vínculo entre Kaladin y Sylphrena le permitiría usar poderes de una orden de caballeros que se creía leyenda, ese vínculo entre Kaladín y Sylphrena está estrechamente relacionado con su relación y la evolución humana del personaje, cómo con sus poderes, que son despertados y "desbloqueados" cada vez que hace un juramento que se alínea con la orden, y hace a su personaje tanto cómo a Syl evolucionar de ambas maneras, dándole más complejidad a ambos.
 
-El arco de estos personajes se ve reflejado en la canción, que inicia suavemente con un sintetizador que simboliza el despertar de consciencia de Sylphrena, unos segundos después escuchamos unos tresillos que se mantienen en toda la obra cómo elemento rítmico representando el vínculo de Sylphrena con Kaladin, transformándose, creciendo y eventualmente uniéndose junto con las cuerdas frotadas que van añadiendo capas a lo largo de la obra, abriendo las frecuencias en simil con el viaje y crecimiento que atraviesan a los personajes, hasta un momento de éxtasis, en el que entran los vientos, lo que no puedo conectar a otra cosa que el mísmo momento de éxtasis que evoca el libro en el arco de estos dos personajes al Kaladin decir su primer juramento, y el que debe decir todo caballero radiante: vida antes que muerte, fuerza antes que debilidad, viaje antes que destino.
+El arco de estos personajes se ve reflejado en la canción, que inicia suavemente con un sintetizador que simboliza el despertar de consciencia de Sylphrena, unos segundos después escuchamos unos tresillos que se mantienen en toda la obra cómo elemento rítmico representando el vínculo de Sylphrena con Kaladin, transformándose, creciendo y eventualmente uniéndose junto con las cuerdas frotadas que van añadiendo capas a lo largo de la obra, abriendo las frecuencias en simil con el viaje y crecimiento que atraviesan a los personajes, hasta un momento de éxtasis, en el que entran los vientos, lo que no puedo conectar a otra cosa que el mísmo momento de éxtasis que evoca el libro en el arco de estos dos personajes al Kaladin decir su primer juramento, y el que debe decir todo caballero radiante: **vida antes que muerte, fuerza antes que debilidad, viaje antes que destino.**
 
 > 
