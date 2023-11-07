@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/CARLOS OSORIO./","title":"CARLOS OSORIO.","tags":["NoteType/Person"],"created":"2023-09-25T18:40:36.668-05:00","updated":"2023-09-25T18:42:50.081-05:00"}
+{"dg-publish":true,"permalink":"/People/CARLOS OSORIO./","title":"CARLOS OSORIO.","tags":["NoteType/Person"],"updated":"2023-09-25T18:42:50.081-05:00"}
 ---
 
 
