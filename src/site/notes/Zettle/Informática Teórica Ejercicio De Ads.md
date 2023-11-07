@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Informática Teórica Ejercicio De Ads/","title":"Informática Teórica Ejercicio de Ads","tags":["ZeType/Ensayo"],"created":"2023-05-15T10:39:46.646-05:00","updated":"2023-09-25T12:56:49.662-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Informática Teórica Ejercicio De Ads/","title":"Informática Teórica Ejercicio de Ads","tags":["ZeType/Ensayo"],"updated":"2023-09-25T12:56:49.662-05:00"}
 ---
 
 
