@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Romephan/","title":"Geografía De Romephan","created":"2023-10-24T10:26:06.335-05:00","updated":"2023-10-24T12:22:58.088-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Romephan/","title":"Geografía De Romephan","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:04.956-05:00"}
 ---
 
 
