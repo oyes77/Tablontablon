@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Quien Soy Cómo Comunicador/","title":"Quien Soy Cómo Comunicador","tags":["ZeType/Idea",""],"created":"2023-04-25T12:55:14.509-05:00","updated":"2023-09-26T17:53:32.375-05:00"}
+{"dg-publish":true,"permalink":"/Quien Soy Cómo Comunicador/","title":"Quien Soy Cómo Comunicador","tags":["ZeType/Idea",""],"updated":"2023-09-26T17:53:32.375-05:00"}
 ---
 
 
