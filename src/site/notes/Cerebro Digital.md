@@ -38,6 +38,7 @@
 
 | Ideas                                                                                                  | Links |
 | ------------------------------------------------------------------------------------------------------ | ----- |
+| [[Review De Sylphrena - The Black Piper\|Review De Sylphrena - The Black Piper]]                    | 1     |
 | [[Zettle/Guión para radio de Magazine\|Guión para radio de Magazine]]                               | 0     |
 | [[Zettle/Guión De Historia De la Infancia\|Guión De Historia De la Infancia]]                       | 0     |
 | [[Proyects/Pedro y el conflicto armado/Brainstorm\|Brainstorm]]                                     | 1     |
