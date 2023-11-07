@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/PRISM comissions/Lade's Terms Of Service/","title":"Lade's Terms Of Service","created":"2023-10-18T16:45:01.423-05:00","updated":"2023-10-25T22:42:43.132-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/PRISM comissions/Lade's Terms Of Service/","title":"Lade's Terms Of Service","updated":"2023-10-25T22:42:43.132-05:00"}
 ---
 
 
