@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Subjetividad/","title":"Subjetividad","tags":["ZeType/Idea",""],"created":"2023-08-26T21:28:02.073-05:00","updated":"2023-09-25T12:37:13.250-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Subjetividad/","title":"Subjetividad","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:13.250-05:00"}
 ---
 
 
