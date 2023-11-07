@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Way of Kings/","title":"The Way of Kings","tags":["NoteType/Book","ZeType/Referencia"],"created":"2023-08-08T22:00:01.181-05:00","updated":"2023-09-09T18:23:11.009-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Way of Kings/","title":"The Way of Kings","tags":["NoteType/Book","ZeType/Referencia"],"updated":"2023-09-09T18:23:11.009-05:00"}
 ---
 
 
