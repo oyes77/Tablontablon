@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cerebro Digital/","title":"Cerebro Digital","tags":["ZeType/Referencia","ZeType/Idea","ZeType/Pensamiento","ZeType/Ensayo"],"created":"2023-04-21T15:36:09.876-05:00","updated":"2023-09-25T12:40:12.658-05:00"}
+{"dg-publish":true,"permalink":"/Cerebro Digital/","title":"Cerebro Digital","tags":["ZeType/Referencia","ZeType/Idea","ZeType/Pensamiento","ZeType/Ensayo"],"updated":"2023-09-25T12:40:12.658-05:00"}
 ---
 
 
