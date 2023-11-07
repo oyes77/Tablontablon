@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/JORGE CRUZ/","title":"JORGE CRUZ","tags":["NoteType/Person"],"created":"2023-09-21T10:01:20.602-05:00","updated":"2023-09-25T18:47:17.261-05:00"}
+{"dg-publish":true,"permalink":"/People/JORGE CRUZ/","title":"JORGE CRUZ","tags":["NoteType/Person"],"updated":"2023-09-25T18:47:17.261-05:00"}
 ---
 
 
