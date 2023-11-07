@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Seguir El Dinero Cómo Periodista Es Una Ruta Natural Para Encontrar Historias Relevantes/","title":"Seguir El Dinero Cómo Periodista Es Una Ruta Natural Para Encontrar Historias Relevantes","tags":["ZeType/Idea",""],"created":"2023-09-06T07:59:58.608-05:00","updated":"2023-09-25T12:32:52.683-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Seguir El Dinero Cómo Periodista Es Una Ruta Natural Para Encontrar Historias Relevantes/","title":"Seguir El Dinero Cómo Periodista Es Una Ruta Natural Para Encontrar Historias Relevantes","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:32:52.683-05:00"}
 ---
 
 
