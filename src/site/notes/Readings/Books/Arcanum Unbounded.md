@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Arcanum Unbounded/","title":"Arcanum Unbounded","tags":["NoteType/Book"],"created":"2023-09-28T16:23:06.049-05:00","updated":"2023-10-18T12:04:09.000-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Arcanum Unbounded/","title":"Arcanum Unbounded","tags":["NoteType/Book"],"updated":"2023-10-18T12:04:09.000-05:00"}
 ---
 
 
