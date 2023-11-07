@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/El Llanto De Señor Sol/","title":"El Llanto De Señor Sol","tags":["ZeType/Ensayo"],"created":"2023-05-02T07:22:47.067-05:00","updated":"2023-09-25T12:37:13.116-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/El Llanto De Señor Sol/","title":"El Llanto De Señor Sol","tags":["ZeType/Ensayo"],"updated":"2023-09-25T12:37:13.116-05:00"}
 ---
 
 
