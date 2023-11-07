@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/El pensamiento minimalista al desarrollar proyectos te permite más eficacia y fuerza en el mensaje/","title":"El pensamiento minimalista al desarrollar proyectos te permite más eficacia y fuerza en el mensaje","tags":["ZeType/Idea","Contexto/Universidad","ZeTopic/Multimedia","ZeTopic/Fotografía","ZeTopic/Dibujo","ZeTopic/Comunicación"],"created":"2023-09-14T20:26:02.133-05:00","updated":"2023-09-25T12:37:13.136-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/El pensamiento minimalista al desarrollar proyectos te permite más eficacia y fuerza en el mensaje/","title":"El pensamiento minimalista al desarrollar proyectos te permite más eficacia y fuerza en el mensaje","tags":["ZeType/Idea","Contexto/Universidad","ZeTopic/Multimedia","ZeTopic/Fotografía","ZeTopic/Dibujo","ZeTopic/Comunicación"],"updated":"2023-09-25T12:37:13.136-05:00"}
 ---
 
 
