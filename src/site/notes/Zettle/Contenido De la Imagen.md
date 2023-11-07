@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Contenido De la Imagen/","title":"Contenido De la Imagen","tags":["ZeType/Idea",""],"created":"2023-04-24T16:36:40.052-05:00","updated":"2023-09-25T12:37:49.743-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Contenido De la Imagen/","title":"Contenido De la Imagen","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:49.743-05:00"}
 ---
 
 
