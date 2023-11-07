@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Relato de un náufrago/","title":"Relato de un náufrago","tags":["NoteType/Book"],"created":"2023-09-19T18:32:02.048-05:00","updated":"2023-10-01T23:22:16.499-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Relato de un náufrago/","title":"Relato de un náufrago","tags":["NoteType/Book"],"updated":"2023-10-01T23:22:16.499-05:00"}
 ---
 
 
