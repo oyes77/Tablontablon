@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Historia vs. Relato Comprendiendo la diferencia/","title":"Historia vs. Relato Comprendiendo la diferencia","tags":["ZeType/Idea",""],"created":"2023-09-05T06:56:43.175-05:00","updated":"2023-09-25T12:37:13.169-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Historia vs. Relato Comprendiendo la diferencia/","title":"Historia vs. Relato Comprendiendo la diferencia","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:13.169-05:00"}
 ---
 
 
