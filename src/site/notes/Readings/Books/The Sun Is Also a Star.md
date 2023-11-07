@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Sun Is Also a Star/","title":"The Sun Is Also a Star","tags":["NoteType/Book"],"created":"2023-09-28T16:43:05.171-05:00","updated":"2023-10-01T23:22:16.874-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Sun Is Also a Star/","title":"The Sun Is Also a Star","tags":["NoteType/Book"],"updated":"2023-10-01T23:22:16.874-05:00"}
 ---
 
 
