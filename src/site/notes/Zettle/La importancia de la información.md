@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La importancia de la información/","title":"La importancia de la información","tags":["ZeType/Pensamiento",""],"created":"2023-08-31T17:10:34.397-05:00","updated":"2023-09-25T12:37:13.178-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La importancia de la información/","title":"La importancia de la información","tags":["ZeType/Pensamiento",""],"updated":"2023-09-25T12:37:13.178-05:00"}
 ---
 
 
