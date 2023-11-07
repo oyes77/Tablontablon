@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/JOSE ARBELAEZ/","title":"JOSE ARBELAEZ","tags":["NoteType/Person"],"created":"2023-10-05T17:34:21.154-05:00","updated":"2023-10-05T17:36:47.206-05:00"}
+{"dg-publish":true,"permalink":"/People/JOSE ARBELAEZ/","title":"JOSE ARBELAEZ","tags":["NoteType/Person"],"updated":"2023-10-05T17:36:47.206-05:00"}
 ---
 
 # JOSE ARBELAEZ
