@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Backgrounds/","title":"Backgrounds","created":"2023-08-25T23:45:12.499-05:00","updated":"2023-09-18T23:20:54.236-05:00"}
+{"dg-publish":true,"permalink":"/Backgrounds/","title":"Backgrounds","updated":"2023-09-18T23:20:54.236-05:00"}
 ---
 
 
