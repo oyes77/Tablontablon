@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tablita/","title":"Tablita","created":"2023-05-08T00:08:03.265-05:00","updated":"2023-10-17T19:15:50.071-05:00"}
+{"dg-publish":true,"permalink":"/Tablita/","title":"Tablita","updated":"2023-10-17T19:15:50.071-05:00"}
 ---
 
 
