@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Invención De Los Políticos/","title":"la invención de los políticos","tags":["ZeType/Idea"],"created":"2023-09-26T11:01:31.320-05:00","updated":"2023-09-26T11:03:31.930-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Invención De Los Políticos/","title":"la invención de los políticos","tags":["ZeType/Idea"],"updated":"2023-09-26T11:03:31.930-05:00"}
 ---
 
 
