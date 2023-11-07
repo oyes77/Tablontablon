@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Moda/","title":"Moda","tags":["ZeType/Idea",""],"created":"2023-04-26T10:19:44.903-05:00","updated":"2023-09-25T12:37:49.677-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Moda/","title":"Moda","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:49.677-05:00"}
 ---
 
 
