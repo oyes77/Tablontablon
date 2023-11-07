@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Libertad abstracta/","title":"Libertad abstracta","tags":["ZeType/Idea",""],"created":"2023-08-27T03:24:14.618-05:00","updated":"2023-09-25T12:37:49.689-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Libertad abstracta/","title":"Libertad abstracta","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:49.689-05:00"}
 ---
 
 
