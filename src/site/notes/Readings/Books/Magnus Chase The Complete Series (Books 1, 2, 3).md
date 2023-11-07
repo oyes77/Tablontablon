@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Magnus Chase The Complete Series (Books 1, 2, 3)/","title":"Magnus Chase: The Complete Series (Books 1, 2, 3)","tags":["NoteType/Book"],"created":"2023-10-03T11:58:17.432-05:00","updated":"2023-10-03T11:58:25.462-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Magnus Chase The Complete Series (Books 1, 2, 3)/","title":"Magnus Chase: The Complete Series (Books 1, 2, 3)","tags":["NoteType/Book"],"updated":"2023-10-03T11:58:25.462-05:00"}
 ---
 
 
