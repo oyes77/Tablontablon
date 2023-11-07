@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/el sonido cómo elemento para la alabanza/","title":"el sonido cómo elemento para la alabanza","tags":["ZeType/Idea"],"created":"2023-10-02T14:20:02.423-05:00","updated":"2023-10-04T21:43:06.714-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/el sonido cómo elemento para la alabanza/","title":"el sonido cómo elemento para la alabanza","tags":["ZeType/Idea"],"updated":"2023-10-04T21:43:06.714-05:00"}
 ---
 
 
