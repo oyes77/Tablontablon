@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Contar la Verdad en el Periodismo y la Importancia de Verificar/","title":"Contar la Verdad en el Periodismo y la Importancia de Verificar","tags":["ZeType/Idea",""],"created":"2023-09-05T07:25:38.613-05:00","updated":"2023-09-25T12:37:13.085-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Contar la Verdad en el Periodismo y la Importancia de Verificar/","title":"Contar la Verdad en el Periodismo y la Importancia de Verificar","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:13.085-05:00"}
 ---
 
 
