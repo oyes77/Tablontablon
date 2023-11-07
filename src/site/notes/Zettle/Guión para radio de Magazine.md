@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Guión para radio de Magazine/","title":"Untitled","tags":["ZeType/Ensayo","Contexto/Universidad"],"created":"2023-10-25T14:35:40.581-05:00","updated":"2023-10-25T12:49:29.000-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Guión para radio de Magazine/","title":"Untitled","tags":["ZeType/Ensayo","Contexto/Universidad"],"updated":"2023-10-25T12:49:29.000-05:00"}
 ---
 
 
