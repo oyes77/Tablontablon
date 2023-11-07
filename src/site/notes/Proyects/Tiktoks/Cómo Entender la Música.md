@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Cómo Entender la Música/","title":"Cómo Entender la Música","tags":["NoteType/KanbanNote"],"created":"2023-09-27T17:24:55.955-05:00","updated":"2023-09-27T17:46:06.771-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Cómo Entender la Música/","title":"Cómo Entender la Música","tags":["NoteType/KanbanNote"],"updated":"2023-09-27T17:46:06.771-05:00"}
 ---
 
 
