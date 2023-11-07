@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/Elantris/","title":"Elantris","tags":["NoteType/Book","ZeType/Referencia",""],"created":"2023-08-08T22:06:02.324-05:00","updated":"2023-09-09T18:23:10.078-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/Elantris/","title":"Elantris","tags":["NoteType/Book","ZeType/Referencia",""],"updated":"2023-09-09T18:23:10.078-05:00"}
 ---
 
 # Elantris
