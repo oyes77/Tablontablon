@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Protestant Ethic and the Spirit of Capitalism/","title":"The Protestant Ethic and the Spirit of Capitalism","tags":["NoteType/Book"],"created":"2023-10-02T12:51:06.989-05:00","updated":"2023-10-02T12:51:58.472-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Protestant Ethic and the Spirit of Capitalism/","title":"The Protestant Ethic and the Spirit of Capitalism","tags":["NoteType/Book"],"updated":"2023-10-02T12:51:58.472-05:00"}
 ---
 
 
