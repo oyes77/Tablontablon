@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Channels/","title":"Cultura De Channels","created":"2023-10-24T10:56:48.243-05:00","updated":"2023-10-24T10:57:07.333-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Channels/","title":"Cultura De Channels","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:04.360-05:00"}
 ---
 
 
