@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Review De Sylphrena - The Black Piper/","title":"Review De Sylphrena - The Black Piper","tags":["ZeType/Ensayo","Contexto/Universidad"],"updated":"2023-11-07T14:45:26.045-05:00"}
+{"dg-publish":true,"permalink":"/Review De Sylphrena - The Black Piper/","title":"Review De Sylphrena - The Black Piper","tags":["ZeType/Ensayo","Contexto/Universidad"],"updated":"2023-11-07T15:25:39.940-05:00"}
 ---
 
 
@@ -28,4 +28,4 @@ El arco de estos personajes se ve reflejado en la canción que inicia suavemente
 
 > [Palabras / Parte 1](https://www.youtube.com/watch?v=ZErInh1y7W0&t) - [Palabras / Parte 2](https://www.youtube.com/watch?v=GFHX-AnE25Y) - [Palabras / Parte 3](https://www.youtube.com/watch?v=vM9IYLuMfWU)
 
-> 
+Me parece que la canción aborda el camino de Sylphrena, desde su "nacimiento" hasta la madurez que le otorga el segundo juramento majestuosamente, finalizando de una manera similar al inicio de la canción, pero añadiendo un coro muy tenue, con un ensamble orquestal que no se siente forzado, cómo ocurre en algunas bandas sonoras, sino que complementa muy bien la temática, con o sin conocimiento de los libros comunica las ideas y los sentimientos que desea comunicar. 
