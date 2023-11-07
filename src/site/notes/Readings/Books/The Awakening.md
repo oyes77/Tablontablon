@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Readings/Books/The Awakening/","title":"The Awakening","tags":["NoteType/Book"],"created":"2023-10-02T12:57:17.844-05:00","updated":"2023-10-02T12:57:58.494-05:00"}
+{"dg-publish":true,"permalink":"/Readings/Books/The Awakening/","title":"The Awakening","tags":["NoteType/Book"],"updated":"2023-10-02T12:57:58.494-05:00"}
 ---
 
 
