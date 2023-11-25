@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Guión De Historia De la Infancia/","title":"Guión De Historia De la Infancia","tags":["ZeType/Ensayo","Contexto/Universidad"],"updated":"2023-10-24T16:30:49.638-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Guión De Historia De la Infancia/","title":"Guión De Historia De la Infancia","updated":"2023-11-20T19:40:07.582-05:00"}
 ---
 
 
