@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/People/ERNESTO CORREA HERRERA/","title":"ERNESTO  CORREA HERRERA","tags":["NoteType/Person"],"updated":"2023-09-09T18:10:48.184-05:00"}
+{"dg-publish":true,"permalink":"/People/ERNESTO CORREA HERRERA/","title":"ERNESTO CORREA HERRERA","updated":"2023-11-20T19:18:44.937-05:00"}
 ---
 
 
 # ERNESTO CORREA HERRERA
 
 > [!info] 🏵️ Resumen
-> Profe de [[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] Estética
+> Profe de [[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] Estética
 
 > [!multi-column]
 > 
@@ -15,5 +15,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-08-07\|2023-08-07]] 19:25
+> > - Creado: [[2023-08-07\|2023-08-07]] 19:25
 > > - Desde: g.jaramillo@udea.edu.co  
