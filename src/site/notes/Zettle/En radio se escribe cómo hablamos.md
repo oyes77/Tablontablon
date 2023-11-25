@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/En radio se escribe cómo hablamos/","title":"En radio se escribe cómo hablamos","tags":["ZeType/Idea"],"updated":"2023-10-26T22:35:40.672-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/En radio se escribe cómo hablamos/","title":"En radio se escribe cómo hablamos","updated":"2023-11-20T19:23:07.984-05:00"}
 ---
 
 
