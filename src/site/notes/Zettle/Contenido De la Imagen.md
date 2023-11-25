@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Contenido De la Imagen/","title":"Contenido De la Imagen","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:49.743-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Contenido De la Imagen/","title":"Contenido De la Imagen","updated":"2023-11-20T19:33:02.659-05:00"}
 ---
 
 
@@ -15,4 +15,4 @@ La narrativa es la manera en la que cuentas la historia, El discurso es la inten
 >
 > > [!abstract] 📖 Condensado
 > > La narrativa fotográfica se refiere al significado, intención y construcción de la historia en una imagen.
-> > no es lo mismo que el [[Zettle/Continente de la imagen\|Continente de la imagen]]
+> > no es lo mismo que el [[Zettle/Continente De la Imagen\|Continente De la Imagen]]
