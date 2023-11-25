@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/JORGE CRUZ/","title":"JORGE CRUZ","tags":["NoteType/Person"],"updated":"2023-09-25T18:47:17.261-05:00"}
+{"dg-publish":true,"permalink":"/People/JORGE CRUZ/","title":"JORGE CRUZ","updated":"2023-11-20T19:18:16.948-05:00"}
 ---
 
 
@@ -18,5 +18,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-09-25\|2023-09-25]] 18:47
+> > - Creado: [[2023-09-25\|2023-09-25]] 18:47
 > > - Desde: g.jaramillo@udea.edu.co  
