@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Manejo De la Voz/","title":"Manejo De la Voz","tags":["ZeType/Idea"],"updated":"2023-10-02T15:12:19.633-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Manejo De la Voz/","title":"Manejo De la Voz","updated":"2023-11-20T19:25:34.214-05:00"}
 ---
 
 
