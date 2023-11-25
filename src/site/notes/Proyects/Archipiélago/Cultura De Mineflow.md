@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Mineflow/","title":"Cultura De Mineflow","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:59.642-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Mineflow/","title":"Cultura De Mineflow","updated":"2023-11-20T19:15:16.322-05:00"}
 ---
 
 
