@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Intersección Del Periodismo Y la Comunidad En Las Redes Sociales/","title":"Intersección Del Periodismo Y la Comunidad En Las Redes Sociales","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:13.258-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Intersección Del Periodismo Y la Comunidad En Las Redes Sociales/","title":"Intersección Del Periodismo Y la Comunidad En Las Redes Sociales","updated":"2023-11-25T09:08:16.599-05:00"}
 ---
 
 
@@ -10,5 +10,5 @@
 
 - - - 
 > [!question] Links
-> .
+> [[Zettle/Los Medios Conviven Entre Ellos\|Los Medios Conviven Entre Ellos]]
 > .
