@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Evocar/","title":"Evocar","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:49.720-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Evocar/","title":"Evocar","updated":"2023-11-20T19:24:04.541-05:00"}
 ---
 
 
