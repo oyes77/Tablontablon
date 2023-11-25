@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/CESAR ALBERTO  MAZO MONSALVE/","title":"CESAR ALBERTO  MAZO MONSALVE","tags":["NoteType/Person"],"updated":"2023-09-22T16:57:01.895-05:00"}
+{"dg-publish":true,"permalink":"/People/CESAR ALBERTO  MAZO MONSALVE/","title":"CESAR ALBERTO  MAZO MONSALVE","updated":"2023-11-20T19:17:35.066-05:00"}
 ---
 
 # CESAR ALBERTO  MAZO MONSALVE
@@ -17,6 +17,6 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-09-18\|2023-09-18]] 10:35
+> > - Creado: [[2023-09-18\|2023-09-18]] 10:35
 > > - Desde: g.jaramillo@udea.edu.co  
 
