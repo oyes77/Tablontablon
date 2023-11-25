@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/People/CARLOS JOSE GIRALDO JARAMILLO/","title":"CARLOS JOSE GIRALDO JARAMILLO","tags":["NoteType/Person"],"updated":"2023-09-23T23:18:42.137-05:00"}
+{"dg-publish":true,"permalink":"/People/CARLOS JOSE GIRALDO JARAMILLO/","title":"CARLOS JOSE GIRALDO JARAMILLO","updated":"2023-11-20T19:17:54.605-05:00"}
 ---
 
 
 # CARLOS JOSE GIRALDO JARAMILLO
 
 > [!info] 🏵️ Resumen
-> Profesor de [[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] Psicología
+> Profesor de [[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] Psicología
 > Docente - Nodo M-Data
 > Departamento de Formación Académica
 > Fcultad de Comunicaciones y Filología
@@ -26,5 +26,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-08-07\|2023-08-07]] 19:13
+> > - Creado: [[2023-08-07\|2023-08-07]] 19:13
 > > - Desde: g.jaramillo@udea.edu.co  
