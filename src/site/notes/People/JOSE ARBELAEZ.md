@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/People/JOSE ARBELAEZ/","title":"JOSE ARBELAEZ","tags":["NoteType/Person"],"updated":"2023-10-05T17:36:47.206-05:00"}
+{"dg-publish":true,"permalink":"/People/JOSE ARBELAEZ/","title":"JOSE ARBELAEZ","updated":"2023-11-20T19:18:44.930-05:00"}
 ---
+
 
 # JOSE ARBELAEZ
 
@@ -14,5 +15,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-10-05\|2023-10-05]] 17:36
+> > - Creado: [[2023-10-05\|2023-10-05]] 17:36
 > > - Desde: g.jaramillo@udea.edu.co  
