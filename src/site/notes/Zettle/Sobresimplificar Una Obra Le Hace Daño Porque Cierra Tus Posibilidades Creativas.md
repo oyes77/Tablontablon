@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Sobresimplificar Una Obra Le Hace Daño Porque Cierra Tus Posibilidades Creativas/","title":"Sobresimplificar Una Obra Le Hace Daño Porque Cierra Tus Posibilidades Creativas","tags":["ZeType/Idea"],"updated":"2023-09-25T12:37:13.288-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Sobresimplificar Una Obra Le Hace Daño Porque Cierra Tus Posibilidades Creativas/","title":"Sobresimplificar Una Obra Le Hace Daño Porque Cierra Tus Posibilidades Creativas","updated":"2023-11-20T19:33:20.211-05:00"}
 ---
 
 
