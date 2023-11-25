@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/Joose Casi Blanco/","title":"Joose Casi blanco","tags":["NoteType/Person"],"updated":"2023-09-18T10:45:26.380-05:00"}
+{"dg-publish":true,"permalink":"/People/Joose Casi Blanco/","title":"Joose Casi blanco","updated":"2023-11-20T19:18:02.045-05:00"}
 ---
 
 
@@ -18,5 +18,5 @@
 > > - Phone: +573102600707 
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-09-18\|2023-09-18]] 10:44
+> > - Creado: [[2023-09-18\|2023-09-18]] 10:44
 > > - Desde: Personal
