@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T21:07:07.793-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","updated":"2023-11-20T19:15:12.342-05:00"}
 ---
 
 
