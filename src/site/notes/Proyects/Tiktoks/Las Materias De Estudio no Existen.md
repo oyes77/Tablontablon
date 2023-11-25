@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Las Materias De Estudio no Existen/","title":"Las materias de estudio no existen","tags":["NoteType/KanbanNote"],"updated":"2023-09-22T17:00:02.300-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Las Materias De Estudio no Existen/","title":"Las materias de estudio no existen","updated":"2023-11-20T19:39:20.529-05:00"}
 ---
 
 
