@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Anteproyecto De la Salida De Campo/","title":"Anteproyecto De la Salida De Campo","tags":["ZeType/Ensayo",""],"updated":"2023-09-25T12:37:49.757-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Anteproyecto De la Salida De Campo/","title":"Anteproyecto De la Salida De Campo","tags":["ZeType/Ensayo",""],"updated":"2023-11-16T20:46:22.466-05:00"}
 ---
 
 
@@ -41,3 +41,4 @@ Según datos de la Federación Nacional de Comerciantes Empresarios (Fenalco), l
 > > - Destacar la preferencia de consumidores de estratos 1, 2 y 3 por estos establecimientos.
 > > - Contraste entre las diferentes formas de vivir y ver el mundo en cada espacio dentro del territorio.
 > > - Reconocimiento a las mujeres que administran estos lugares, especialmente madres cabeza de familia.
+
