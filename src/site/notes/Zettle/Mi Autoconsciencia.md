@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Mi Autoconsciencia/","title":"Mi Autoconsciencia","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:49.683-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Mi Autoconsciencia/","title":"Mi Autoconsciencia","updated":"2023-11-20T19:24:47.895-05:00"}
 ---
 
 
