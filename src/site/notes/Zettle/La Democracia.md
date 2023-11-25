@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Democracia/","title":"La Democracia","tags":["ZeType/Idea"],"updated":"2023-09-26T11:05:53.382-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Democracia/","title":"La Democracia","updated":"2023-11-20T19:25:11.441-05:00"}
 ---
 
 
