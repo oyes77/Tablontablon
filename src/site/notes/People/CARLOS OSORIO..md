@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/CARLOS OSORIO./","title":"CARLOS OSORIO.","tags":["NoteType/Person"],"updated":"2023-09-25T18:42:50.081-05:00"}
+{"dg-publish":true,"permalink":"/People/CARLOS OSORIO./","title":"CARLOS OSORIO.","updated":"2023-11-20T19:17:36.806-05:00"}
 ---
 
 
@@ -18,5 +18,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-09-25\|2023-09-25]] 18:42
+> > - Creado: [[2023-09-25\|2023-09-25]] 18:42
 > > - Desde: g.jaramillo@udea.edu.co  
