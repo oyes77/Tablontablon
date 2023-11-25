@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Libros Semiótica/","title":"Libros Semiótica","tags":["ZeType/Referencia","NoteType/Book"],"updated":"2023-10-03T18:42:16.276-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Libros Semiótica/","title":"Libros Semiótica","updated":"2023-11-20T19:27:55.289-05:00"}
 ---
 
 
@@ -8,3 +8,5 @@
 ![](https://i.imgur.com/R9ARO0Z.jpg)
 
 Aida Martinez placer, dinero y pecado
+
+[[Referencias para desarrollar\|Referencias para desarrollar]]
