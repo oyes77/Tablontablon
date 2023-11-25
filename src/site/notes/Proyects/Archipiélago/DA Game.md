@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/DA Game/","title":"DA Game","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T21:07:34.439-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/DA Game/","title":"DA Game","updated":"2023-11-20T19:15:23.078-05:00"}
 ---
 
 
