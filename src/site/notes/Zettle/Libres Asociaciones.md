@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Libres Asociaciones/","title":"Libres Asociaciones","tags":["ZeType/Idea"],"updated":"2023-09-25T12:37:13.193-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Libres Asociaciones/","title":"Libres Asociaciones","updated":"2023-11-20T19:24:32.126-05:00"}
 ---
 
 
