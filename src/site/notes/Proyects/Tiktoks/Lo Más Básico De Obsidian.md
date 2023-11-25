@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Lo Más Básico De Obsidian/","title":"Lo Más Básico De Obsidian","tags":["NoteType/KanbanNote"],"updated":"2023-09-09T18:24:06.111-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Lo Más Básico De Obsidian/","title":"Lo Más Básico De Obsidian","updated":"2023-11-20T19:39:24.458-05:00"}
 ---
 
 
