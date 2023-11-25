@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/CRISTIAN CAMILO MENESES DELGADO/","title":"CRISTIAN CAMILO MENESES DELGADO","tags":["NoteType/Person"],"updated":"2023-09-26T17:31:32.384-05:00"}
+{"dg-publish":true,"permalink":"/People/CRISTIAN CAMILO MENESES DELGADO/","title":"CRISTIAN CAMILO MENESES DELGADO","updated":"2023-11-20T19:17:33.484-05:00"}
 ---
 
 
@@ -15,5 +15,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-08-07\|2023-08-07]] 22:25
+> > - Creado: [[2023-08-07\|2023-08-07]] 22:25
 > > - Desde: g.jaramillo@udea.edu.co  
