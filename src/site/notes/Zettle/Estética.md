@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Estética/","title":"Estética","tags":["ZeType/Idea"],"updated":"2023-09-25T12:37:13.291-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Estética/","title":"Estética","updated":"2023-11-20T19:24:06.542-05:00"}
 ---
 
 
