@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Crea algo pequeño y que a nadie le importe/","tags":["NoteType/KanbanNote"],"updated":"2023-11-06T22:10:32.255-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Crea algo pequeño y que a nadie le importe/","updated":"2023-11-20T19:39:26.455-05:00"}
 ---
 
 
