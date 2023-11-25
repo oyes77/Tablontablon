@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/People/SIGIFREDO ESCOBAR GOMEZ/","title":"SIGIFREDO ESCOBAR GOMEZ","tags":["NoteType/Person"],"updated":"2023-09-09T18:10:48.911-05:00"}
+{"dg-publish":true,"permalink":"/People/SIGIFREDO ESCOBAR GOMEZ/","title":"SIGIFREDO ESCOBAR GOMEZ","updated":"2023-11-20T19:19:45.150-05:00"}
 ---
 
 
 # SIGIFREDO ESCOBAR GOMEZ
 
 > [!info] 🏵️ Resumen
-> Profe de [[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] de informática
+> Profe de [[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] de informática
 
 ---- 
 > [!multi-column]
@@ -16,5 +16,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-08-07\|2023-08-07]] 19:18
+> > - Creado: [[2023-08-07\|2023-08-07]] 19:18
 > > - Desde: g.jaramillo@udea.edu.co  
