@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","title":"Cómo Ser Explicativo","tags":["ZeType/Pensamiento","ZeTopic/Comunicación"],"updated":"2023-09-25T12:37:13.109-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","title":"Cómo Ser Explicativo","updated":"2023-11-20T19:33:40.836-05:00"}
 ---
 
 
@@ -11,4 +11,4 @@
 - - - 
 > [!question] Links
 > .
-> [[Zettle/The purpose of journalism Serving, uniting, and informing\|The purpose of journalism Serving, uniting, and informing]] El periodismo se beneficia mucho de este enfoque al presentar la [[Zettle/La importancia de la información\|La importancia de la información]], Esto genera [[Zettle/Conocimiento\|Conocimiento]] y no se queda solo en información
+> [[Zettle/The Purpose of Journalism Serving, Uniting, and Informing\|The Purpose of Journalism Serving, Uniting, and Informing]] El periodismo se beneficia mucho de este enfoque al presentar la [[Zettle/La Importancia De la Información\|La Importancia De la Información]], Esto genera [[Zettle/Conocimiento\|Conocimiento]] y no se queda solo en información
