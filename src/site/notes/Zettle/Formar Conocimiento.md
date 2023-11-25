@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Formar Conocimiento/","title":"Formar Conocimiento","tags":["ZeType/Pensamiento",""],"updated":"2023-10-04T15:47:07.858-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Formar Conocimiento/","title":"Formar Conocimiento","updated":"2023-11-20T19:24:35.287-05:00"}
 ---
 
 
 # Formar Conocimiento
 
 > [!summary] 
-> Para hacer esto debo primero absorber [[Zettle/La importancia de la información\|La importancia de la información]], registrarla y procesarla en algún lugar, esto hace que, al poner las ideas de los otros en tu [[Zettle/Ecosistema\|Ecosistema]], dejen de ser el extrínseco al intrínseco, y cuando dejen de serlo, estarán archivadas en un lugar al que tú tengas acceso.
+> Para hacer esto debo primero absorber [[Zettle/La Importancia De la Información\|La Importancia De la Información]], registrarla y procesarla en algún lugar, esto hace que, al poner las ideas de los otros en tu [[Zettle/Ecosistema\|Ecosistema]], dejen de ser el extrínseco al intrínseco, y cuando dejen de serlo, estarán archivadas en un lugar al que tú tengas acceso.
 
 - - - 
 > [!question] Links
