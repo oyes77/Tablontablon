@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/People/JULIANA RESTREPO SANTAMARIA/","title":"JULIANA RESTREPO SANTAMARIA","tags":["NoteType/Person"],"updated":"2023-10-25T22:29:44.891-05:00"}
+{"dg-publish":true,"permalink":"/People/JULIANA RESTREPO SANTAMARIA/","title":"JULIANA RESTREPO SANTAMARIA","updated":"2023-11-20T19:18:20.761-05:00"}
 ---
 
 
 # JULIANA RESTREPO SANTAMARIA
 
 > [!info] 🏵️ Resumen
-> Profe de [[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] Lider de módulo, da Imagen gráfica y Textual, se centra en la fotografía de calle y está estudiando un doctorado en Artes
+> Profe de [[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] Lider de módulo, da Imagen gráfica y Textual, se centra en la fotografía de calle y está estudiando un doctorado en Artes
 
 > [!multi-column]
 > 
@@ -15,5 +15,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-08-07\|2023-08-07]] 19:30
+> > - Creado: [[2023-08-07\|2023-08-07]] 19:30
 > > - Desde: g.jaramillo@udea.edu.co  
