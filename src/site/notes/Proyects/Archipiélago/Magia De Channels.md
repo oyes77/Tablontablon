@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Channels/","title":"Magia de Channels","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T21:07:51.357-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Channels/","title":"Magia de Channels","updated":"2023-11-20T19:15:33.784-05:00"}
 ---
 
 
