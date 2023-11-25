@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Relaciones/","title":"Relaciones","tags":["Contexto/DrawingAttack/Archipiélago","Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-02T20:56:59.597-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Relaciones/","title":"Relaciones","updated":"2023-11-20T19:16:05.037-05:00"}
 ---
 
 
