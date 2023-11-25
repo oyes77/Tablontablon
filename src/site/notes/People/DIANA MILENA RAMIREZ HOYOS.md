@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/DIANA MILENA RAMIREZ HOYOS/","title":"DIANA MILENA RAMIREZ HOYOS","tags":["NoteType/Person"],"updated":"2023-09-09T18:10:47.856-05:00"}
+{"dg-publish":true,"permalink":"/People/DIANA MILENA RAMIREZ HOYOS/","title":"DIANA MILENA RAMIREZ HOYOS","updated":"2023-11-20T19:17:29.629-05:00"}
 ---
 
 # DIANA MILENA RAMIREZ HOYOS
@@ -17,5 +17,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-08-08\|2023-08-08]] 22:11
+> > - Creado: [[2023-08-08\|2023-08-08]] 22:11
 > > - Desde: g.jaramillo@udea.edu.co  
