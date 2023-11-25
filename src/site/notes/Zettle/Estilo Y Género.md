@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Estilo Y Género/","title":"Estilo Y Género","tags":["ZeType/Idea",""],"updated":"2023-09-25T12:37:49.722-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Estilo Y Género/","title":"Estilo Y Género","updated":"2023-11-20T19:33:06.868-05:00"}
 ---
 
 
