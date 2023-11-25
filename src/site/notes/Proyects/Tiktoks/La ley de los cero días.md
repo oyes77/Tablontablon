@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/La ley de los cero días/","tags":["NoteType/KanbanNote"],"updated":"2023-11-06T22:10:07.832-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/La ley de los cero días/","updated":"2023-11-20T19:39:22.296-05:00"}
 ---
 
 
