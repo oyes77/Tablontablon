@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Pertinencia Y Sencillez En la Radio/","title":"Pertinencia Y Sencillez En la Radio","tags":["ZeType/Idea"],"updated":"2023-10-02T15:12:57.811-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Pertinencia Y Sencillez En la Radio/","title":"Pertinencia Y Sencillez En la Radio","updated":"2023-11-20T19:33:13.270-05:00"}
 ---
 
 
 # Pertinencia Y Sencillez En la Radio
 
-> [!summary] 🧠
-> Que el elemento sea congruente con el [[Zettle/Público Objetivo Y Público Potencial\|Público Objetivo Y Público Potencial]], sea fácil de entender, y que genere interés.
+## Idea Principal
+Que el elemento sea congruente con el [[Zettle/Público Objetivo Y Público Potencial\|Público Objetivo Y Público Potencial]], sea fácil de entender, y que genere interés.
 
 - - - 
 > [!question] 🔗
