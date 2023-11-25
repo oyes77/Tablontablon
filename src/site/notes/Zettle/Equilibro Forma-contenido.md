@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Equilibro Forma-contenido/","title":"Equilibro Forma-contenido","tags":["ZeType/Idea"],"updated":"2023-10-02T14:33:08.145-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Equilibro Forma-contenido/","title":"Equilibro Forma-contenido","updated":"2023-11-20T19:23:05.565-05:00"}
 ---
 
 
