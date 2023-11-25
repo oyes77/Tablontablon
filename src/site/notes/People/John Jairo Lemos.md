@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/John Jairo Lemos/","title":"John Jairo Lemos","tags":["NoteType/Person"],"updated":"2023-09-19T15:15:19.560-05:00"}
+{"dg-publish":true,"permalink":"/People/John Jairo Lemos/","title":"John Jairo Lemos","updated":"2023-11-20T19:17:59.867-05:00"}
 ---
 
 
@@ -18,6 +18,6 @@
 > > - Phone: +573161250597 
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-09-18\|2023-09-18]] 10:43
+> > - Creado: [[2023-09-18\|2023-09-18]] 10:43
 > > - Desde: Personal
 
