@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Haz cosas para el mundo, no para tí mismo/","tags":["NoteType/KanbanNote"],"updated":"2023-11-06T22:09:58.830-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Haz cosas para el mundo, no para tí mismo/","updated":"2023-11-20T19:39:07.325-05:00"}
 ---
 
 
