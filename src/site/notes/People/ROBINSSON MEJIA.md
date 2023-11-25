@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/People/ROBINSSON MEJIA/","title":"ROBINSSON MEJIA","tags":["NoteType/Person"],"updated":"2023-10-02T15:00:05.933-05:00"}
+{"dg-publish":true,"permalink":"/People/ROBINSSON MEJIA/","title":"ROBINSSON MEJIA","updated":"2023-11-20T19:18:38.347-05:00"}
 ---
 
 
 # ROBINSSON MEJIA
 
 > [!info] 🏵️ Resumen
-> Profe de [[Uni Studies/Radio Digital\|Radio Digital]], old friend of BR,
+> Profe de [[Radio Digital\|Radio Digital]], old friend of BR,
 > .
 > .
 > .
@@ -18,5 +18,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-09-25\|2023-09-25]] 18:44
+> > - Creado: [[2023-09-25\|2023-09-25]] 18:44
 > > - Desde: g.jaramillo@udea.edu.co  
