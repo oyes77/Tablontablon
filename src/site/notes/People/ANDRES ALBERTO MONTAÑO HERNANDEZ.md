@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/People/ANDRES ALBERTO MONTAÑO HERNANDEZ/","title":"ANDRES ALBERTO MONTAÑO HERNANDEZ","tags":["NoteType/Person"],"updated":"2023-10-25T22:29:44.913-05:00"}
+{"dg-publish":true,"permalink":"/People/ANDRES ALBERTO MONTAÑO HERNANDEZ/","title":"ANDRES ALBERTO MONTAÑO HERNANDEZ","updated":"2023-11-20T19:17:31.677-05:00"}
 ---
 
 
 # ANDRES ALBERTO MONTAÑO HERNANDEZ
 
 > [!info] 🏵️ Resumen
-> Profesor de [[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] en Fotografía Técnica, especializado en Fotografía de Estudio.
+> Profesor de [[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] en Fotografía Técnica, especializado en Fotografía de Estudio.
 
 > [!multi-column]
 > 
@@ -15,5 +15,5 @@
 > > - Phone:  
 > 
 > > [!success] 🖊️ Detalles
-> > - Creado: [[Journal/Daily notes/2023-08-07\|2023-08-07]] 22:31
+> > - Creado: [[2023-08-07\|2023-08-07]] 22:31
 > > - Desde: g.jaramillo@udea.edu.co  
