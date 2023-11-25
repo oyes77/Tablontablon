@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Desmitificar Lo Bello/","title":"Desmitificar lo bello","tags":["NoteType/KanbanNote"],"updated":"2023-09-27T17:48:29.865-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Desmitificar Lo Bello/","title":"Desmitificar lo bello","updated":"2023-11-20T19:39:18.779-05:00"}
 ---
 
 
