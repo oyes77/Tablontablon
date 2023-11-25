@@ -4,7 +4,7 @@
 
 
 # Bitácora De Campo
-[[Uni Studies/Módulo 1 - Fotografía\|Módulo 1 - Fotografía]]
+[[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]]
 ## Ideación Del Proyecto
 
 ### Lluvia De Ideas
