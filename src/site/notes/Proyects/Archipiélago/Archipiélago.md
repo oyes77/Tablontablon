@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","tags":["Contexto/DrawingAttack/Archipiélago"],"updated":"2023-11-06T22:11:26.905-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","updated":"2023-11-20T19:15:03.030-05:00"}
 ---
 
 
