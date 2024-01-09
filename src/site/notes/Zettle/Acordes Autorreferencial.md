@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Acordes Autorreferencial/","title":"Acordes autorreferencial","tags":["ZeType/Ensayo"],"updated":"2023-09-25T12:51:16.840-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Acordes Autorreferencial/","title":"Acordes autorreferencial","tags":["ZeType/Ensayo"],"updated":"2023-12-30T18:06:16.323-05:00"}
 ---
 
 
