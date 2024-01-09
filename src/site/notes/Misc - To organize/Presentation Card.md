@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Presentation Card/","title":"Presentation card","updated":"2023-11-16T18:46:33.191-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Presentation Card/","title":"Presentation card","updated":"2023-12-30T18:06:05.760-05:00"}
 ---
 
 
