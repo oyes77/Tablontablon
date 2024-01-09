@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian MKD/","title":"Obsidian MKD","updated":"2023-11-20T19:27:42.054-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian MKD/","title":"Obsidian MKD","updated":"2023-12-30T18:06:13.231-05:00"}
 ---
 
 
@@ -33,17 +33,8 @@ nyaaaaaaaaaaaaa [[Proyects/Drawing Attack/Video De Introducción\|Video De Intro
 > Ajsdkjsa
 
 [GitHub - Akifyss/obsidian-border: A theme for obsidian.md](https://github.com/Akifyss/obsidian-border)
-- [X] Eeeeeeeeeeeee 
-- [ ] Eeeeeeeeeeeee
-- [x] GAGAGAGA ✅ 2023-07-31
-- [ ] 📅 2023-08-06 ⏫ ➕ 2023-07-31 ==ggg*GGG**GG*G*G**GGG*ggg==
-
-xxxxxxxxxxxxxxxxxxxxxxxx ==rrrrrrrrrrrrrrrrr==
 
 ---
-- [3] fefafaf ✅ 2023-07-31
-- [S] fffffffffff
-- [i] Si
 
 ---
 > [!multi-column] Tal Vez
@@ -84,16 +75,11 @@ xxxxxxxxxxxxxxxxxxxxxxxx ==rrrrrrrrrrrrrrrrr==
 
 ## Explicación
 
-> [!multi-column]
-> 
-> > [!seealso|wide-1] Previamente…
-> > Esto estaba dedicado a [[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] cómo un ejercicio de clase, sin embargo me sirve cómo un punto de partida para mi [[Misc - To organize/Cerebro Digital\|Cerebro Digital]].
-> 
-> > [!info|wide-3] Pautas
-> > - No hay temas que no valgan, sean académicos o no, el conocimiento no tiene barreras
-> > - la información solo es información cuando se recibe, no existe una metafísica de la información… creo 
-> > - Las ideas no son un resultado, sino un medio al fin
-> 
+
+- No hay temas que no valgan, sean académicos o no, el conocimiento no tiene barreras
+- la información solo es información cuando se recibe, no existe una metafísica de la información… creo 
+- Las ideas no son un resultado, sino un medio al fin
+
 
 - - -
 
@@ -109,16 +95,11 @@ xxxxxxxxxxxxxxxxxxxxxxxx ==rrrrrrrrrrrrrrrrr==
 
 ## Explicación
 
-> [!multi-column]
-> 
-> > [!seealso|wide-1] Previamente…
-> > Esto estaba dedicado a [[Módulo 1 - Fotografía\|Módulo 1 - Fotografía]] cómo un ejercicio de clase, sin embargo me sirve cómo un punto de partida para mi [[Misc - To organize/Cerebro Digital\|Cerebro Digital]].
-> 
-> > [!info|wide-3] Pautas
-> > - No hay temas que no valgan, sean académicos o no, el conocimiento no tiene barreras
-> > - la información solo es información cuando se recibe, no existe una metafísica de la información… creo 
-> > - Las ideas no son un resultado, sino un medio al fin
-> 
+
+- No hay temas que no valgan, sean académicos o no, el conocimiento no tiene barreras
+- la información solo es información cuando se recibe, no existe una metafísica de la información… creo 
+- Las ideas no son un resultado, sino un medio al fin
+
 
 - - -
 
@@ -154,4 +135,66 @@ data:
 options:
   xField: label
   yField: value
+```
+
+| Ee | Items | *====* | Hhhhhhhhhhhhhhhhhhhhhhhh |  |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  | - [/] eso |  |
+|  | d |  |  |  |
+|  |  |  |  |  |
+|  |  | Ewewewe |  |  |
+|  |  |  |  |  |
+
+Basic checklists:
+
+- [ ] to-do
+- [/] incomplete
+- [x] done
+- [-] canceled
+- [>] forwarded
+- [<] scheduling
+
+Extras checklists:
+
+- [?] question
+- [!] important
+- [*] star
+- ["] quote
+- [l] location
+- [b] bookmark
+- [i] information
+- [S] savings
+- [I] idea
+- [p] pros
+- [c] cons
+- [f] fire
+- [k] key
+- [w] win
+- [u] up
+- [d] down
+- [x] Test of a task ➕ 2023-12-26 ✅ 2023-12-26
+
+```tasks
+not done
+tags do not include checklist
+path does not include Proyects/Tiktoks
+sort by priority
+sort by due
+sort by scheduled
+sort by starts
+group by function task.happens.moment? (task.due.moment?.isBefore(moment(), 'day') ? task.due.format("[%%0%%‼️ Overdue]") : (task.due.moment?.isBetween(moment(), moment(), 'day', '[]') ? task.due.format("[%%1%%❗ Due Today]") : (task.happens.moment?.isBefore(moment().add(1, 'day'), 'day') ? task.happens.format("[%%2%%📆 Scheduled Today]") : (task.happens.moment?.isBefore(moment().add(7, 'days'), 'day') ? task.happens.format("[%%3%%⬆️ Upcoming]") : task.happens.format("[%%4%%💤Beyond Seven Days]"))))) : "No Date"
+group by function reverse task.scheduled.format("%%%%")
+limit groups 40
+hide task count
+
+```
+
+- [x] Life is roblox 🔽 ➕ 2023-12-27 🛫 2023-12-28 ⏳ 2023-12-31 📅 2023-12-31 ✅ 2023-12-27
+```note-gallery     #           default | options
+query: 'path:"Journal/Daily notes"'
+limit: 12            # optional: 0 | any number
+sort: desc           # optional: desc | asc
+sortBy: ctime        # optional: mtime | ctime | name
+fontSize: 8px        # optional: 6pt | NUMBERpt | NUMBERpx
+showTitle: false      # optional: true | false
 ```
