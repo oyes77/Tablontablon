@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Yellow Wallpaper/","title":"The Yellow Wallpaper","updated":"2023-11-20T19:35:22.828-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Yellow Wallpaper/","title":"The Yellow Wallpaper","updated":"2023-12-30T18:05:45.661-05:00"}
 ---
 
 
