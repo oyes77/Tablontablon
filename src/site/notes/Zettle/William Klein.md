@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/William Klein/","title":"William Klein","updated":"2023-11-20T19:26:17.448-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/William Klein/","title":"William Klein","updated":"2023-12-30T18:06:36.637-05:00"}
 ---
 
 
