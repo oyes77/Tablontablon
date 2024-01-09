@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/Joose Casi Blanco/","title":"Joose Casi blanco","updated":"2023-11-20T19:18:02.045-05:00"}
+{"dg-publish":true,"permalink":"/People/Joose Casi Blanco/","title":"Joose Casi blanco","updated":"2023-12-30T18:06:32.196-05:00"}
 ---
 
 
