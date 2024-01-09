@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/La Oportunidad Del Preso./","title":"La Oportunidad Del Preso.","updated":"2023-11-22T00:46:28.000-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/La Oportunidad Del Preso./","title":"La Oportunidad Del Preso.","updated":"2023-12-30T18:05:51.636-05:00"}
 ---
 
 
@@ -44,4 +44,4 @@ El preso presionó el botón... Y no se escucharon pisadas de soldados esta vez,
 
 Los soldados estaban atentos desde el panel de control, la realidad es que la criatura no podía ser detenida solo con choques eléctricos, tenían que alimentarla, y solo regresaba a su hibernación cuando era alimentada con un humano. A las pocas horas llegó en el mismo cohete, la próxima ración humana para la criatura.
 
-[[I wrote that\|I wrote that]]
+[[I Wrote that\|I Wrote that]]
