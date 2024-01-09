@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Diane Arbus/","title":"Diane Arbus","updated":"2023-11-20T19:28:50.611-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Diane Arbus/","title":"Diane Arbus","updated":"2023-12-30T18:06:37.810-05:00"}
 ---
 
 
