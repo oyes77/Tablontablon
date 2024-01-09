@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Words of Radiance/","title":"Words of Radiance","updated":"2023-11-20T19:25:57.554-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Words of Radiance/","title":"Words of Radiance","updated":"2023-12-30T18:05:50.412-05:00"}
 ---
 
 
