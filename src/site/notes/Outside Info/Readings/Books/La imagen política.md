@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/La imagen política/","title":"La imagen política","updated":"2023-11-20T19:35:39.836-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/La imagen política/","title":"La imagen política","updated":"2023-12-30T18:05:49.370-05:00"}
 ---
 
 
