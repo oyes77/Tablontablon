@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Channels/","title":"Cultura De Channels","updated":"2023-11-20T19:15:14.408-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Channels/","title":"Cultura De Channels","updated":"2023-12-30T18:05:56.153-05:00"}
 ---
 
 
