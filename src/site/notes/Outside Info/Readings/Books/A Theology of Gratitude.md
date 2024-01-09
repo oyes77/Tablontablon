@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/A Theology of Gratitude/","title":"A Theology of Gratitude","updated":"2023-11-20T19:34:17.285-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/A Theology of Gratitude/","title":"A Theology of Gratitude","updated":"2023-12-30T18:05:42.007-05:00"}
 ---
 
 
