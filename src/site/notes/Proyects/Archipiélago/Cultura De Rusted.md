@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Rusted/","title":"Cultura De Rusted","updated":"2023-11-20T19:15:20.278-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Rusted/","title":"Cultura De Rusted","updated":"2023-12-30T18:06:01.455-05:00"}
 ---
 
 
