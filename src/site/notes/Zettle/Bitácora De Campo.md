@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Bitácora De Campo/","title":"Bitácora De Campo","tags":["ZeType/Ensayo"],"updated":"2023-09-14T19:55:51.415-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Bitácora De Campo/","title":"Bitácora De Campo","tags":["ZeType/Ensayo"],"updated":"2023-12-30T18:06:33.520-05:00"}
 ---
 
 
