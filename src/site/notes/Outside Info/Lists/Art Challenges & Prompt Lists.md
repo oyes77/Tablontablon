@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Lists/Art Challenges & Prompt Lists/","title":"Art Challenges & Prompt Lists","updated":"2023-11-20T19:31:44.932-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Lists/Art Challenges & Prompt Lists/","title":"Art Challenges & Prompt Lists","updated":"2023-12-30T18:05:45.411-05:00"}
 ---
 
 
@@ -16,7 +16,7 @@ I'll list some of my favourite art challenges and prompt lists that I've found, 
 - # Inktober52 (new challenge hosted by Inktober; weekly prompts throughout the year on Thursdays)
 - Mermay (various mermaid-themed prompts throughout May)
 - @/Stillherestilllife (weekly photo prompts that you recreate in your style; new prompts on Sundays)
-[[Drawing Attack\|Drawing Attack]]
+[[Proyects/Drawing Attack/Drawing Attack\|Drawing Attack]]
 *EDIT to add 3 subreddits:
 
 - [r/sketchdaily](https://www.reddit.com/r/sketchdaily/)
