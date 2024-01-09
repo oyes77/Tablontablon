@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Rhythm of War/","title":"Rhythm of War","updated":"2023-11-20T19:34:54.760-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Rhythm of War/","title":"Rhythm of War","updated":"2023-12-30T18:05:57.168-05:00"}
 ---
 
 
