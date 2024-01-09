@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Essays in Liberalism/","title":"Essays in Liberalism","updated":"2023-11-20T19:34:32.067-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Essays in Liberalism/","title":"Essays in Liberalism","updated":"2023-12-30T18:05:45.558-05:00"}
 ---
 
 
