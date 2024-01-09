@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Plugins/Templates/Person/","title":"{{firstname}} {{lastname}}","updated":"2023-11-20T19:03:57.029-05:00"}
+{"dg-publish":true,"permalink":"/Plugins/Templates/Person/","title":"{{firstname}} {{lastname}}","updated":"2023-12-30T18:06:32.911-05:00"}
 ---
 
 # {{firstname}} {{lastname}}
