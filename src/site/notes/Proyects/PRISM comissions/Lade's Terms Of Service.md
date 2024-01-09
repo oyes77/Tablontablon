@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/PRISM comissions/Lade's Terms Of Service/","title":"Lade's Terms Of Service","updated":"2023-10-25T22:42:43.132-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/PRISM comissions/Lade's Terms Of Service/","title":"Lade's Terms Of Service","updated":"2023-12-30T18:05:44.571-05:00"}
 ---
 
 
 # Lade's Terms Of Service
-
-## What I Will and Will not Draw
 
 ### I Will Draw
 
@@ -72,30 +70,20 @@
 - If you ask for a commission, It's assumed you read and agree to these terms.
 ---
 
-## Prices
+**Prices:**
 
-- Any additional character will add a 70% of the current price. 
+- Any additional character will add up to 70% of the price depending on complexity.
 - The price might go up depending on the drawing complexity, you will be notified beforehand.
 - Any Discount code will be applied to the final price.
 
-### Bust
+**Bust**
+- Sketch= 6 - Flat color= 12 - Rendered= 20
 
-- sketch= 10
-- Flat color= 19
-- Rendered= 25
+**Waist**
+- Sketch= 12 - Flat color= 18 - Rendered= 35
 
-### Waist
+**Fullbody**
+- Sketch= 18 - Flat color= 24 - Rendered= 45
 
-- sketch= 12
-- Flat color= 28
-- Rendered= 38
-
-### Fullbody
-
-- sketch= 18
-- Flat color= 35
-- Rendered= 50
-
-### Complete Illustration
-
-- Rendered= 75
+**Complete Illustration (with Background)**
+- Rendered= 60
