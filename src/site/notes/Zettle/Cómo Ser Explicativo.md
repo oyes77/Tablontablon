@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","title":"Cómo Ser Explicativo","updated":"2023-11-20T19:33:40.836-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Cómo Ser Explicativo/","title":"Cómo Ser Explicativo","updated":"2023-12-30T18:06:29.013-05:00"}
 ---
 
 
