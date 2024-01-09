@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Informática Teórica Ejercicio De Ads/","title":"Informática Teórica Ejercicio de Ads","tags":["ZeType/Ensayo"],"updated":"2023-09-25T12:56:49.662-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Informática Teórica Ejercicio De Ads/","title":"Informática Teórica Ejercicio de Ads","tags":["ZeType/Ensayo"],"updated":"2023-12-30T18:05:54.001-05:00"}
 ---
 
 
@@ -30,7 +30,4 @@ La frescura de una publicación también es importante para el algoritmo de Face
 El algoritmo de Facebook también prioriza ciertos tipos de contenido, como videos, imágenes y publicaciones con enlaces.
 
 ![](https://i.imgur.com/Uphf8GK.png)
-
-[[2023-05-25\|2023-05-25]]
-
-Ver [[(Every M) INFORMATICA\|(Every M) INFORMATICA]]
+[[I Wrote that\|I Wrote that]]
