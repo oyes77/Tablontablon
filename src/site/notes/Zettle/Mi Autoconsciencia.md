@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Mi Autoconsciencia/","title":"Mi Autoconsciencia","updated":"2023-11-20T19:24:47.895-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Mi Autoconsciencia/","title":"Mi Autoconsciencia","updated":"2023-12-30T18:06:30.813-05:00"}
 ---
 
 
@@ -14,14 +14,8 @@ Self es acontecimientos, relaciones, memoria y experiencia. de ahí investigo pa
 - ¿Por qué creo lo qué creo?
 - ¿Por qué cómunico cómo comunico? (cómo proyecto el self al mundo)
 
-el [[Zettle/Autoref.\|Autoref.]] tiene cómo herramientas y presentación una:
-
-- Historia, Narrativa, Estética al servicio de la narrativa, semiótica, y reflexión psicológica sobre el self
-- Ensayo de autorreferencial para [[2023-05-31\|2023-05-31]] en reglas APA, 5-10 páginas.
-- buscar sobre tipologías de ensayo, este es un ensayo reflexivo.
-- tipos: (expositivo, argumentativo, reflexivo, creativo)
 - - -
-
+[[I Wrote that\|I Wrote that]]
 **
 
 Cualquiera que haya intentado definirse desde si mismo sabe que es muy difícil, decir sobre tí lo que otros piensan, en cambio, siempre se me había hecho un ejercicio muy directo y pasivo, en el cual asumo que sé lo que otros piensan de mí y me construyo cómo persona a partir de esta información, claro, parcialmente inventada por mis filtros y preconcepciones de los otros, por eso siempre lo he subestimado cómo una herramienta autorreferencial hasta hace muy poco, en mi intuición esto no definía quién soy, no era más que una mancha borrosa de la que podías, si entrecerrabas los ojos, discernir alguna forma, una forma que algunas veces podía ser un elefante y otras un árbol, por lo que mi posición prevaleció en no hacerle caso.
