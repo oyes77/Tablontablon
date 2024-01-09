@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/McLuhan's Global Village Today/","title":"McLuhan's Global Village Today","updated":"2023-11-20T19:35:37.715-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/McLuhan's Global Village Today/","title":"McLuhan's Global Village Today","updated":"2023-12-30T18:05:37.962-05:00"}
 ---
 
 
