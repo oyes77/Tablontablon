@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Lo Más Básico De Obsidian/","title":"Lo Más Básico De Obsidian","updated":"2023-11-20T19:39:24.458-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Lo Más Básico De Obsidian/","title":"Lo Más Básico De Obsidian","updated":"2023-12-30T18:05:54.753-05:00"}
 ---
 
 
@@ -16,7 +16,7 @@ Para usar obsidian solo necesitas conocer estas pocas cosas:
 
 ## Guión Parte 1
 
-Cómo el 90% de los cronicamente online y que estamos en esta app, puede que tenga alguna wea mental (ADHD autodiagnosticado xd) Y mi vida es un desastre, hasta que una app mágica apareció para darle un poquito de orden a mi cabeza y reducirle un poco la carga.
+Cómo el 90% de los cronicamente online y que estamos en esta app, puede que tengsa alguna wea mental (ADHD autodiagnosticado xd) Y tu vida es un desastre, voy a enseñarte cómo darle un poquito de orden a tu cabeza y reducirte un poco la carga.
 
 Obsidian es una app para escribir cualquier cosa de cualquier manera, desde lo que he aprendido, a con qué se conecta, pero eso también significa qué puede llegar a ser complicada al absurdo si no tienes cuidado (lo cual está bien si eso es lo que quieres, pero mejor empezar suave, si?)
 
