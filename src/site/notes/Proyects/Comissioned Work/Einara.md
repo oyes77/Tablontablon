@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Comissioned Work/Einara/","title":"Einara","updated":"2023-10-18T16:40:01.323-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Comissioned Work/Einara/","title":"Einara","updated":"2023-12-30T18:06:10.191-05:00"}
 ---
 
 
