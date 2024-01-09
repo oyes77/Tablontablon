@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/DA Game/","title":"DA Game","updated":"2023-11-20T19:15:23.078-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/DA Game/","title":"DA Game","updated":"2023-12-30T18:06:25.083-05:00"}
 ---
 
 
