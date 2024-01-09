@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/The Purpose of Journalism Serving, Uniting, and Informing/","title":"The purpose of journalism Serving, uniting, and informing","updated":"2023-11-20T19:33:29.373-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/The Purpose of Journalism Serving, Uniting, and Informing/","title":"The purpose of journalism Serving, uniting, and informing","updated":"2023-12-30T18:05:33.129-05:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 - - - 
 > [!question] Links
-> [[Zettle/Intersección Del Periodismo Y la Comunidad En Las Redes Sociales\|Intersección Del Periodismo Y la Comunidad En Las Redes Sociales]] A partir de lo que creamos se reunirán personas y formarán comunidad al rededor de estos temas
+> [[Zettle/Intersección del periodismo y la comunidad en las redes sociales Renovando el poder de los medios y dando voz a las masas\|Intersección del periodismo y la comunidad en las redes sociales Renovando el poder de los medios y dando voz a las masas]] A partir de lo que creamos se reunirán personas y formarán comunidad al rededor de estos temas
 > [[Zettle/Historia vs. Relato Comprendiendo la Diferencia\|Historia vs. Relato Comprendiendo la Diferencia]] Los hechos y lo que se cuenta, la historia debe de contarse correctamente, no solo contarse de cualquier manera
 > [[Zettle/Cuestionar Mis Creencias Es Necesario Para Desarrollar Entendimiento Real\|Cuestionar Mis Creencias Es Necesario Para Desarrollar Entendimiento Real]] El periodismo permite que las personas, al tener información de diferentes perspectivas, se cuestionen más fácilmente
 > [[Zettle/La Importancia De la Información\|La Importancia De la Información]] El periodismo es el generador de esta información, el periodismo Informa, es sus principales funciones
