@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Libertad Abstracta/","title":"Libertad abstracta","updated":"2023-11-20T19:24:28.796-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Libertad Abstracta/","title":"Libertad abstracta","updated":"2023-12-30T18:06:31.333-05:00"}
 ---
 
 
