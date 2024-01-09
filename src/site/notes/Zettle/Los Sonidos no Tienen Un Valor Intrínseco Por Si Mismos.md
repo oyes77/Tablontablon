@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos/","title":"Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos","updated":"2023-11-20T19:24:45.350-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos/","title":"Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos","updated":"2023-12-30T18:05:34.632-05:00"}
 ---
 
 
@@ -10,5 +10,5 @@
 
 - - - 
 > [!question] 🔗
-> [[Zettle/Instrumentos Musicales\|instrumentos musicales]] Cualquier elemento que produce sonido puede ser un instrumento musical, pero la expresión suele usarse para las cosas específicas que fueron hechas PARA  hacer música.
+> [[Zettle/Production of Sound - what is a musical instrument\|Production of Sound - what is a musical instrument]] Cualquier elemento que produce sonido puede ser un instrumento musical, pero la expresión suele usarse para las cosas específicas que fueron hechas PARA  hacer música.
 > .
