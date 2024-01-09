@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/CARLOS JOSE GIRALDO JARAMILLO/","title":"CARLOS JOSE GIRALDO JARAMILLO","updated":"2023-11-20T19:17:54.605-05:00"}
+{"dg-publish":true,"permalink":"/People/CARLOS JOSE GIRALDO JARAMILLO/","title":"CARLOS JOSE GIRALDO JARAMILLO","updated":"2023-12-30T18:06:05.237-05:00"}
 ---
 
 
