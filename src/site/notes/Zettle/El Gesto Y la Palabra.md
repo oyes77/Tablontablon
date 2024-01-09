@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/El Gesto Y la Palabra/","title":"El Gesto Y la Palabra","updated":"2023-11-20T19:28:05.299-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/El Gesto Y la Palabra/","title":"El Gesto Y la Palabra","updated":"2023-12-30T18:06:27.569-05:00"}
 ---
 
 
