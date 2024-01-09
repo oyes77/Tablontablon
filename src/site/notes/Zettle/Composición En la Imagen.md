@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Composición En la Imagen/","title":"Composición en la imagen","updated":"2023-11-20T19:22:19.802-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Composición En la Imagen/","title":"Composición en la imagen","updated":"2023-12-30T18:06:16.200-05:00"}
 ---
 
 
