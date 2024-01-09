@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Relaciones/","title":"Relaciones","updated":"2023-11-20T19:16:05.037-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Relaciones/","title":"Relaciones","updated":"2023-12-30T18:06:10.673-05:00"}
 ---
 
 
