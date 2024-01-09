@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Tablón/","title":"Tablón","updated":"2023-11-16T18:46:33.249-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Tablón/","title":"Tablón","updated":"2023-12-30T18:06:30.073-05:00"}
 ---
 
 
