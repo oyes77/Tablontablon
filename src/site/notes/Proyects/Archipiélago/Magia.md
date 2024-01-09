@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia/","title":"Magia","updated":"2023-11-20T19:15:31.565-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia/","title":"Magia","updated":"2023-12-30T18:06:28.038-05:00"}
 ---
 
 12345 hjtuytuasdfasdfsfgsdg|12
