@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Entender El Mundo Desde El Lenguaje/","title":"Entender El Mundo Desde El Lenguaje","updated":"2023-11-20T19:23:00.318-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Entender El Mundo Desde El Lenguaje/","title":"Entender El Mundo Desde El Lenguaje","updated":"2023-12-30T18:05:55.601-05:00"}
 ---
 
 
