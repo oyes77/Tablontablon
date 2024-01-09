@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Moda/","title":"Moda","updated":"2023-11-20T19:25:09.423-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Moda/","title":"Moda","updated":"2023-12-30T18:06:41.489-05:00"}
 ---
 
 
