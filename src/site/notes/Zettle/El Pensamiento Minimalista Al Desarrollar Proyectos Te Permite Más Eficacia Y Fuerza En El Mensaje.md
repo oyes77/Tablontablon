@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/El Pensamiento Minimalista Al Desarrollar Proyectos Te Permite Más Eficacia Y Fuerza En El Mensaje/","title":"El pensamiento minimalista al desarrollar proyectos te permite más eficacia y fuerza en el mensaje","updated":"2023-11-20T19:22:57.385-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/El Pensamiento Minimalista Al Desarrollar Proyectos Te Permite Más Eficacia Y Fuerza En El Mensaje/","title":"El pensamiento minimalista al desarrollar proyectos te permite más eficacia y fuerza en el mensaje","updated":"2023-12-30T18:05:25.348-05:00"}
 ---
 
 
