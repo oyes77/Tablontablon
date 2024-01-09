@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Trípticos/","title":"Trípticos","updated":"2023-11-20T19:33:33.933-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Trípticos/","title":"Trípticos","updated":"2023-12-30T18:06:39.323-05:00"}
 ---
 
 
