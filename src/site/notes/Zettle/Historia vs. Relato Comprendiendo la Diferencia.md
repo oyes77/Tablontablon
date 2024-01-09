@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Historia vs. Relato Comprendiendo la Diferencia/","title":"Historia vs. Relato Comprendiendo la diferencia","updated":"2023-11-20T19:24:20.769-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Historia vs. Relato Comprendiendo la Diferencia/","title":"Historia vs. Relato Comprendiendo la diferencia","updated":"2023-12-30T18:05:40.459-05:00"}
 ---
 
 
