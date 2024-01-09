@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/People/SIGIFREDO ESCOBAR GOMEZ/","title":"SIGIFREDO ESCOBAR GOMEZ","updated":"2023-11-20T19:19:45.150-05:00"}
+{"dg-publish":true,"permalink":"/People/SIGIFREDO ESCOBAR GOMEZ/","title":"SIGIFREDO ESCOBAR GOMEZ","updated":"2023-12-30T18:06:16.799-05:00"}
 ---
 
 
