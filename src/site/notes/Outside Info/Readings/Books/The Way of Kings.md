@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Way of Kings/","title":"The Way of Kings","updated":"2023-11-20T19:28:28.715-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Way of Kings/","title":"The Way of Kings","updated":"2023-12-30T18:05:52.406-05:00"}
 ---
 
 
