@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Communist Manifesto/","title":"The Communist Manifesto","updated":"2023-11-20T19:35:12.757-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Communist Manifesto/","title":"The Communist Manifesto","updated":"2023-12-30T18:05:42.199-05:00"}
 ---
 
 
