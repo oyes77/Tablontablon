@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Guia De Eventos Nebulosos ✨/","title":"Guia De Eventos Nebulosos ✨","tags":["gardenEntry"],"updated":"2023-11-20T19:31:39.340-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Guia De Eventos Nebulosos ✨/","title":"Guia De Eventos Nebulosos ✨","tags":["gardenEntry"],"updated":"2023-12-30T18:05:48.892-05:00"}
 ---
 
 
@@ -47,4 +47,4 @@ Ejemplo:
 - Dile a los usuarios sobre el próximo evento para que sigan participando 
 - pueden subir los sketches y dibujos que hicieron en el evento si es de arte en el canal de chat-arte 
 - no hay ningún problema en que los eventos se alarguen más de lo esperado si todos tienen energía y ganas de continuar nwn
-[[Drawing Attack\|Drawing Attack]]
+[[Proyects/Drawing Attack/Drawing Attack\|Drawing Attack]]
