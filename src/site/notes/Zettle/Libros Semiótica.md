@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Libros Semiótica/","title":"Libros Semiótica","updated":"2023-11-20T19:27:55.289-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Libros Semiótica/","title":"Libros Semiótica","updated":"2023-12-30T18:06:34.177-05:00"}
 ---
 
 
