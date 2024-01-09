@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Art Us Goni/","title":"Art Us Goni","updated":"2023-11-20T19:29:02.728-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Art Us Goni/","title":"Art Us Goni","updated":"2023-12-30T18:06:17.601-05:00"}
 ---
 
 
