@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Cómo Entender la Música/","title":"Cómo Entender la Música","updated":"2023-11-20T19:39:05.351-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Cómo Entender la Música/","title":"Cómo Entender la Música","updated":"2023-12-30T18:05:59.086-05:00"}
 ---
 
 
