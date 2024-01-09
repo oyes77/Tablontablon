@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Rusted/","title":"Rusted","updated":"2023-11-20T19:16:06.799-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Rusted/","title":"Rusted","updated":"2023-12-30T18:06:27.328-05:00"}
 ---
 
 
