@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Sophie's World/","title":"Sophie's World","updated":"2023-11-20T19:35:00.683-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Sophie's World/","title":"Sophie's World","updated":"2023-12-30T18:05:55.221-05:00"}
 ---
 
 
