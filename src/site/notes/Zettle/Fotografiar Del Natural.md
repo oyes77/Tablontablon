@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Fotografiar Del Natural/","title":"Fotografiar Del Natural","updated":"2023-09-25T12:37:49.713-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Fotografiar Del Natural/","title":"Fotografiar Del Natural","updated":"2023-12-30T18:06:24.543-05:00"}
 ---
 
 
