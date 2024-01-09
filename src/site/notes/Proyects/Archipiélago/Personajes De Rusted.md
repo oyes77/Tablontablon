@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Personajes De Rusted/","title":"Personajes De Rusted","updated":"2023-11-20T19:15:52.584-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Personajes De Rusted/","title":"Personajes De Rusted","updated":"2023-12-30T18:05:54.484-05:00"}
 ---
 
 
