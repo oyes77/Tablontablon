@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Polisemia - La Cantidad de Interpretaciones en el Arte/","title":"Polisemia En El Arte","updated":"2023-11-20T19:25:37.239-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Polisemia - La Cantidad de Interpretaciones en el Arte/","title":"Polisemia En El Arte","updated":"2023-12-30T18:05:35.624-05:00"}
 ---
 
 
