@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/A Sangre Fria/","title":"A Sangre Fria","updated":"2023-11-20T19:34:11.340-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/A Sangre Fria/","title":"A Sangre Fria","updated":"2023-12-30T18:05:57.157-05:00"}
 ---
 
 
