@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Elantris/","title":"Elantris","updated":"2023-11-20T19:26:53.266-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Elantris/","title":"Elantris","updated":"2023-12-30T18:06:05.774-05:00"}
 ---
 
 # Elantris
