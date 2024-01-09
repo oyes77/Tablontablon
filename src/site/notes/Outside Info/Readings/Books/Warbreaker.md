@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Warbreaker/","title":"Warbreaker","updated":"2023-11-20T19:25:59.947-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Warbreaker/","title":"Warbreaker","updated":"2023-12-30T18:06:03.226-05:00"}
 ---
 
 
