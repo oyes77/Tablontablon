@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Awakening/","title":"The Awakening","updated":"2023-11-20T19:34:56.687-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Awakening/","title":"The Awakening","updated":"2023-12-30T18:05:57.447-05:00"}
 ---
 
 
