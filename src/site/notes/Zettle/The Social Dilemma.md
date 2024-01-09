@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/The Social Dilemma/","title":"The Social Dilemma","updated":"2023-11-20T19:28:26.586-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/The Social Dilemma/","title":"The Social Dilemma","updated":"2023-12-30T18:06:31.533-05:00"}
 ---
 
 
