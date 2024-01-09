@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Autoref./","title":"Autoref.","tags":["ZeType/Ensayo",""],"updated":"2023-09-25T12:37:49.751-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Autoref./","title":"Autoref.","tags":["ZeType/Ensayo",""],"updated":"2023-12-30T18:06:39.948-05:00"}
 ---
 
 
@@ -14,7 +14,7 @@ Con mi autorreferencial quiero explorar los sentimientos/emociones que me ha pro
 La instalación será una proyección en la pared que ilumine y colorice las imágenes,
 
 Quiero que la ropa sea un reflejo del sentimiento del momento, y usar luces y bold colors, el título del autorreferencial está por colocar.
-
+[[I Wrote that\|I Wrote that]]
 ## Expresión De Sentimientos
 
 El mensaje global que quiero dar con las imágenes es la complejidad de la relación que un músico (yo en este caso particular) puede desarrollar con su instrumento o su oficio.
