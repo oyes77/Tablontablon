@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Plugins/Templates/temidea/","title":"<% tp.file.title %>","updated":"2023-11-25T09:21:26.875-05:00"}
+{"dg-publish":true,"permalink":"/Plugins/Templates/temidea/","title":"<% tp.file.title %>","updated":"2023-12-30T18:06:30.564-05:00"}
 ---
 
 <%*
