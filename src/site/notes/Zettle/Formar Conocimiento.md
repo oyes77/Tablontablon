@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Formar Conocimiento/","title":"Formar Conocimiento","updated":"2023-11-20T19:24:35.287-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Formar Conocimiento/","title":"Formar Conocimiento","updated":"2023-12-30T18:06:29.782-05:00"}
 ---
 
 
