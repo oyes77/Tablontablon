@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Good Son/","title":"The Good Son","updated":"2023-11-20T19:34:58.633-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Good Son/","title":"The Good Son","updated":"2023-12-30T18:05:59.655-05:00"}
 ---
 
 
