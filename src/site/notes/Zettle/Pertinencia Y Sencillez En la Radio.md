@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Pertinencia Y Sencillez En la Radio/","title":"Pertinencia Y Sencillez En la Radio","updated":"2023-11-20T19:33:13.270-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Pertinencia Y Sencillez En la Radio/","title":"Pertinencia Y Sencillez En la Radio","updated":"2023-12-30T18:05:55.685-05:00"}
 ---
 
 
