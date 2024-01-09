@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Guión De Historia De la Infancia/","title":"Guión De Historia De la Infancia","updated":"2023-11-20T19:40:07.582-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Guión De Historia De la Infancia/","title":"Guión De Historia De la Infancia","updated":"2023-12-30T18:06:02.373-05:00"}
 ---
 
 
 # Guión De Historia De la Infancia
-
+[[I Wrote that\|I Wrote that]]
 Estaba en el nevado del ruiz con mi familia (personajes: tía, abuelo y abuela en la carpa conmigo, el perro blanco crespo de panita q me rescata)
 
 llevábamos 2 días haciendo senderismo Escalando el nevado del ruiz, yo tenía 11 años entonces, la historia se sitúa en una noche en la que Acampamos, y en el cielo no había ninguna nube, a la 1 A.M me despierto, dormía en la carpa con mi abuelo, y desperté a las 4 AM, quería ver las estrellas, me dijeron que fuera hacia la carpa de mi tía, me perdí afuera en total oscuridad, y al final el perro del nevado me encontró y me guió de regreso al campamento.
