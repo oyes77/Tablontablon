@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Fotografiar Del Natural/","title":"Fotografiar Del Natural","updated":"2023-12-30T18:06:24.543-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Fotografiar Del Natural/","title":"Fotografiar Del Natural","updated":"2024-02-14T01:04:18.913-05:00"}
 ---
 
 
 # Fotografiar Del Natural
-
+[[University\|University]]
 ## Henri Cartier-Bresson
 
 **Desde sus orígenes la Fotografía no ha cambiado salvo en sus aspectos técnicos,
