@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian MKD/","title":"Obsidian MKD","updated":"2023-12-30T18:06:13.231-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian MKD/","title":"Obsidian MKD","updated":"2024-02-21T18:15:31.900-05:00"}
 ---
+
 
 
 # Obsidian MKD
@@ -22,7 +23,7 @@ ttttttttttttttttttt
 
 ###### Rrrrrrrrrrrrrrrrrrrr Afwfsda
 
-Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** [[Misc - To organize/EZADE\|EZADE]] el azul drawing drawing **va además drawin**g att drawing 
+Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** [[EZADE\|EZADE]] el azul drawing drawing **va además drawin**g att drawing 
 
 nyaaaaaaaaaaaaa [[Proyects/Drawing Attack/Video De Introducción\|Video De Introducción]] eeee
 
@@ -65,45 +66,6 @@ nyaaaaaaaaaaaaa [[Proyects/Drawing Attack/Video De Introducción\|Video De Intro
 >> - [x] Craft User Story
 >> - [x] Develop draft sketches
 { #l7s1r6}
-
-
-> [!abstract]
-> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/misc-to-organize/cerebro-digital/#explicacion" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Explicación
-
-
-- No hay temas que no valgan, sean académicos o no, el conocimiento no tiene barreras
-- la información solo es información cuando se recibe, no existe una metafísica de la información… creo 
-- Las ideas no son un resultado, sino un medio al fin
-
-
-- - -
-
-</div></div>
-
-
-> Fafafa
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/misc-to-organize/cerebro-digital/#explicacion" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Explicación
-
-
-- No hay temas que no valgan, sean académicos o no, el conocimiento no tiene barreras
-- la información solo es información cuando se recibe, no existe una metafísica de la información… creo 
-- Las ideas no son un resultado, sino un medio al fin
-
-
-- - -
-
-</div></div>
 
 
 [[Misc - To organize/Note from the Blue Topaz to Organize Me I Suppose\|Note from the Blue Topaz to Organize Me I Suppose]]
@@ -149,7 +111,7 @@ Basic checklists:
 
 - [ ] to-do
 - [/] incomplete
-- [x] done
+- [x] done ✅ 2024-01-09
 - [-] canceled
 - [>] forwarded
 - [<] scheduling
