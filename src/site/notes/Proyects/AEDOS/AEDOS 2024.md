@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/AEDOS/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:29:31.127-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/AEDOS/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:30:24.142-05:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 	- Grabaciones con la biblioteca, los artistas, y demás.
 - Hacer impresiones fotográficas
 	- Buscar 4-5 lugares dónde cotizar la imprenta de las fotos
-		- Todas las series fotográficas
+		- Todas las series fotográficas (elegir tamaño, papel, etc.)
 		- Postales de determinadas fotos de las series cómo souvenir
 	- Fanzine, hay algunas copias que serán impresas.
 - Estar en contacto con todos los procesos.
