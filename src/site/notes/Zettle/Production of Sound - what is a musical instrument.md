@@ -12,4 +12,4 @@ Cualquier herramienta con la que produzcas sonido
 - - - 
 > [!question] 🔗
 > [[Zettle/el sonido cómo elemento para la alabanza\|el sonido cómo elemento para la alabanza]]
-> [[Zettle/Arte Sonoro\|Arte Sonoro]] no necesita instrumentos musicales, porque no solo es música
+> [[Arte Sonoro\|Arte Sonoro]] no necesita instrumentos musicales, porque no solo es música
