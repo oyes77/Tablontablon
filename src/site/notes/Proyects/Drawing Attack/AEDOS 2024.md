@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:22:35.181-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:26:08.814-05:00"}
 ---
 
 
@@ -13,6 +13,11 @@
 - QR/información con la biblioteca piloto
 	- Caja para que los asistentes dejen su opinión sobre la exposición
 - Conseguir el dinero del evento/patrocinadores
+	- Dentro de la universidad
+		- COOPRUDEA
+		- Movilidad
+	- Fuera de la universidad
+		- Cooperativas (entre ellas CONFAMA)
 - Hacer videos de promoción
 	- Grabaciones con la biblioteca, los artistas, y demás.
 - Hacer impresiones fotográficas
@@ -27,6 +32,8 @@ AEDOS aparece cómo un semillero establecido (somos organizadores, productores y
 
 3 exposiciones:
 
-- Exposición colectiva en la sala con exposiciones de trabajos de grado, y en el hall son fotografías artísticas con músico invitado y cubrimiento grabado del evento.
+- Exposición colectiva en la sala con exposiciones de trabajos de grado, y en el hall son fotografías artísticas con músico invitado y cubrimiento grabado del evento. ([[2024-04-15\|2024-04-15]])
 	- Hacer presupuestos para buscar patrocinadores dentro y por fuera de la universidad
 	- Cubrimiento de los patrocinadores en la exposición o en los videos de la exposición
+- Exposición en la parte de adentro de la Biblioteca Piloto ([[Journal/Yearly notes/2024\|2024]])
+- Exposición abierta ([[2025\|2025]])
