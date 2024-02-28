@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Plugins/Templates/WKNT/","title":"<% tp.file.title %>","updated":"2023-12-30T18:06:35.097-05:00"}
+{"dg-publish":true,"permalink":"/Plugins/Templates/WKNT/","title":"<% tp.file.title %>","updated":"2024-02-27T11:15:11.155-05:00"}
 ---
 
 
