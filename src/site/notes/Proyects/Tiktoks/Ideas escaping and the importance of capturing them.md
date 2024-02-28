@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Ideas escaping and the importance of capturing them/","updated":"2023-12-30T18:05:31.925-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Tiktoks/Ideas escaping and the importance of capturing them/","updated":"2024-01-21T22:51:09.548-05:00"}
 ---
 
 
@@ -11,4 +11,4 @@ No te ha pasado que estás duchándote, viendo un video, caminando en algún lug
 
 Qué era?
 
-
+[[Zettle/Idea Vs Concept\|Idea Vs Concept]]
