@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista de Exposiciones 2024","updated":"2024-02-28T14:37:33.389-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista de Exposiciones 2024","updated":"2024-02-28T14:47:09.237-05:00"}
 ---
 
 
@@ -27,6 +27,8 @@
 	- Fanzine, hay algunas copias que serán impresas.
 - Estar en contacto con todos los procesos.
 - Pedir información (correo por ejemplo) a los asistentes que quieran recibir emails con información adicional sobre eventos del Semillero.
+	- Plantillas a mano para digitalizar
+	- Google Forms
 
 AEDOS aparece cómo un semillero establecido (somos organizadores, productores y recibiremos créditos en la Biblioteca).
 
@@ -49,5 +51,10 @@ Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
 - Cine - Maria José
 - Pescando fotografías - Cristian
 - Multimedia - Gabriel
-- Hablando con: - Todos
 - Literatura - Silvana
+- Hablando con: - Todos (Activa)
+- Andariegos por la ciudad - Mariangel (Activa)
+- Recorridos y tertulias - Todos (Activa)
+	- Invitación a la piloto
+	- Documentalista
+- ODISEA cubrimiento - Todos (Activa)
