@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Atributos Particulares De la Fotografía/","title":"Atributos Particulares De la Fotografía","updated":"2023-12-30T18:05:49.637-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Atributos Particulares De la Fotografía/","title":"Atributos Particulares De la Fotografía","updated":"2024-01-29T03:50:42.097-05:00"}
 ---
 
 
@@ -16,3 +16,4 @@
 ## Tiempo,
 
 ## Movimiento.
+[[Composición En la Imagen\|Composición En la Imagen]]
