@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Plugins/Templates/Kanban Note/","updated":"2023-12-30T18:06:26.138-05:00"}
+{"dg-publish":true,"permalink":"/Plugins/Templates/Kanban Note/","updated":"2024-02-27T11:15:10.800-05:00"}
 ---
 
 
