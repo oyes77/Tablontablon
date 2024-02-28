@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:26:08.814-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:28:27.879-05:00"}
 ---
 
 
 # AEDOS 2024
 
-- Travesías - fotos propias artísticas del semillero
-- Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
-
 ---
+
+## Tareas:
+
 - Hacer montaje
 - QR/información con la biblioteca piloto
 	- Caja para que los asistentes dejen su opinión sobre la exposición
@@ -30,7 +30,11 @@
 
 AEDOS aparece cómo un semillero establecido (somos organizadores, productores y recibiremos créditos en la Biblioteca).
 
-3 exposiciones:
+## Lista De Exposiciones:
+
+Travesías - fotos propias artísticas del semillero
+
+Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
 
 - Exposición colectiva en la sala con exposiciones de trabajos de grado, y en el hall son fotografías artísticas con músico invitado y cubrimiento grabado del evento. ([[2024-04-15\|2024-04-15]])
 	- Hacer presupuestos para buscar patrocinadores dentro y por fuera de la universidad
