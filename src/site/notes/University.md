@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/University/","title":"university","updated":"2023-12-30T18:06:41.820-05:00"}
+{"dg-publish":true,"permalink":"/University/","title":"university","updated":"2024-02-07T11:09:24.796-05:00"}
 ---
 
 
 # University
-[[Zettle/Audiolibro\|Audiolibro]]
+[[Audiolibro\|Audiolibro]]
+[[draft Maguizine.canvas\|draft Maguizine]]
+[[Guión Totoro\|Guión Totoro]]
+[[Moodboard pedro y el conflicto armado.canvas|Moodboard pedro y el conflicto armado]]
+[[Proyects/Pedro y el conflicto armado/Brainstorm\|Brainstorm]]
+[[scott draves.canvas|scott draves]]
+[[draft totoro.canvas\|draft totoro]]
+[[Formatos radiales.canvas\|Formatos radiales]]
