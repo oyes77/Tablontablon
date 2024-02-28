@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista de Exposiciones 2024","updated":"2024-02-28T14:47:09.237-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista De Exposiciones 2024","updated":"2024-02-28T14:49:17.862-05:00"}
 ---
 
 
@@ -49,12 +49,16 @@ Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
 ## Trabajo De Sesiones
 
 - Cine - Maria José
-- Pescando fotografías - Cristian
+- Pescador de imágenes/fotografía - Cristian
 - Multimedia - Gabriel
 - Literatura - Silvana
+- Artes - Salomé
 - Hablando con: - Todos (Activa)
 - Andariegos por la ciudad - Mariangel (Activa)
 - Recorridos y tertulias - Todos (Activa)
 	- Invitación a la piloto
 	- Documentalista
 - ODISEA cubrimiento - Todos (Activa)
+---
+- Instagram y Tiktok tienen el mismo contenido.
+- Youtube tiene contenido largo de seguido.
