@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:21:12.221-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/AEDOS 2024/","title":"AEDOS 2024","updated":"2024-02-28T14:22:35.181-05:00"}
 ---
 
 
 # AEDOS 2024
 
-Travesías - fotos propias artísticas del semillero
+- Travesías - fotos propias artísticas del semillero
+- Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
 
-Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
-
+---
 - Hacer montaje
 - QR/información con la biblioteca piloto
 	- Caja para que los asistentes dejen su opinión sobre la exposición
