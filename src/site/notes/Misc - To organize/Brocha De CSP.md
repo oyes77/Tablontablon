@@ -4,7 +4,7 @@
 
 
 # Brocha De CSP
-[[Zettle/Ejemplos De Embed Discord\|Ejemplos De Embed Discord]]
+[[Proyects/Drawing Attack/Ejemplos De Embed Discord\|Ejemplos De Embed Discord]]
 El estilo del dibujo me gusta bastante, quiero imitarlo
 
 ![](https://i.imgur.com/N42IMbD.png)
