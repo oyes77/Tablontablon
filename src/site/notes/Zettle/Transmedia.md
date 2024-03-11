@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Transmedia/","title":"transmedia","updated":"2023-12-30T18:06:38.529-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Transmedia/","title":"transmedia","updated":"2024-03-03T13:19:35.501-05:00"}
 ---
 
-
+   
 # Transmedia
 
 ## Idea Principal 🧠
