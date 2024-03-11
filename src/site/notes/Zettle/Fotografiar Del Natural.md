@@ -4,7 +4,7 @@
 
 
 # Fotografiar Del Natural
-[[University\|University]]
+[[Emotions/University\|University]]
 ## Henri Cartier-Bresson
 
 **Desde sus orígenes la Fotografía no ha cambiado salvo en sus aspectos técnicos,
