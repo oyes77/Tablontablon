@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T01:29:34.047-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T01:44:50.898-05:00"}
 ---
 
 # Roleplay 2024
@@ -29,6 +29,14 @@ Cada semana o así cambiará el escenario a cualquier cosa, y los jugadores, que
 
 ### Eventos
 ### Reglas Y Mecanismos
+#### Sistema de vidas
+Cada que mueres por causa directa de la corrupción pierdes una vida, y tu personaje se degrada de estas posibles maneras:
+- 1 - Paranoia: La corrupción te nubla la razón, haciéndote creer que tus amigos son enemigos, esto hará especial efecto en combate y efecto medio en rol.
+- 1 - Melancolía: La corrupción te roba la felicidad, quitándote toda iniciativa de luchar contra ella o de perseguir tus metas personajes, esto hará especial efecto en combate y en rol.
+- 2 - Sadismo: La corrupción te invierte la empatía, llenándote de ganas de herir a tus similares por diversión u otra satisfacción personal de tu personaje cuando estos están vulnerables, esto hará poco efecto en combate y especial efecto en rol.
+- 2 - Cordura: La corrupción juega con tus memorias, borrando aspectos clave de quien eres, esto hará poco efecto en combate, y especial efecto en rol.
+- 3 - Autodestrucción: La corrupción se apropia de tí pero no te encuentra valioso, destruyendo tu alma, esto te convertirá en una imagen congelada de lo que fuiste, efectivamente perdiendo la consciencia para siempre, es decir mueres, esto significará que dejarás de poder participar con ese personaje.
+- 3 - Integración: La Corrupción se apropia de tí y te encuentra valioso, integrándote en sus filas cómo un super guerrero para combatir con tus ex aliados, esto tiene especial efecto en combate y rol.
 ### Referencias
 [^1]: Me lo saqué de Sonny Boy eso, me gusta el concepto
 [^2]: Wonder Egg Priority Goddddd
