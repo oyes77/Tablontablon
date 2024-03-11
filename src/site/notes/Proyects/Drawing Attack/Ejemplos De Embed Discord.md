@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/Ejemplos De Embed Discord/","title":"Ejemplos de Embed Discord","updated":"2024-02-25T20:57:29.953-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/Ejemplos De Embed Discord/","title":"Ejemplos de Embed Discord","updated":"2024-03-09T23:23:05.388-05:00"}
 ---
 
 
@@ -29,7 +29,7 @@ userprofile de thumbnails en vez del server owo
 > > ![|425](https://i.imgur.com/ltEJt7J.png)
 > > 
 > 
-[[Misc - To organize/Obsidian MKD\|Obsidian MKD]]
+[[Misc - To organize/Obsidian Mkd\|Obsidian Mkd]]
 > [!summary] 
 > 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.youtube.com/watch?v=Z9XIMAtntmw&list=WL&index=299" target="_blank">
