@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista De Exposiciones 2024","updated":"2024-02-28T14:49:17.862-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista De Exposiciones 2024","updated":"2024-03-03T13:06:39.646-05:00"}
 ---
 
 
@@ -29,6 +29,8 @@
 - Pedir información (correo por ejemplo) a los asistentes que quieran recibir emails con información adicional sobre eventos del Semillero.
 	- Plantillas a mano para digitalizar
 	- Google Forms
+	- Correo personal de AEDOS por fuera de la universidad
+		- En este se subirá el material de AEDOS
 
 AEDOS aparece cómo un semillero establecido (somos organizadores, productores y recibiremos créditos en la Biblioteca).
 
@@ -41,7 +43,7 @@ Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
 - Exposición colectiva en la sala con exposiciones de trabajos de grado, y en el hall son fotografías artísticas con músico invitado y cubrimiento grabado del evento. ([[2024-04-15\|2024-04-15]])
 	- Hacer presupuestos para buscar patrocinadores dentro y por fuera de la universidad
 	- Cubrimiento de los patrocinadores en la exposición o en los videos de la exposición
-- Exposición en la parte de adentro de la Biblioteca Piloto ([[Journal/Yearly notes/2024\|2024]])
+- Exposición en la parte de adentro de la Biblioteca Piloto ([[Journal/Daily notes/2024\|2024]])
 - Exposición abierta ([[2025\|2025]])
 
 ---
