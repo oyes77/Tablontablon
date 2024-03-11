@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","updated":"2023-12-30T18:06:07.974-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Archipiélago/","title":"Archipiélago","updated":"2024-03-10T23:48:38.187-05:00"}
 ---
 
 
@@ -47,3 +47,4 @@ Crea tu personaje **con el siguiente Formato**:
 > personalidad (en unas cuantas frases cortas): La más Extrovertida en la torre, La hija de nadie, Selectora de talentos pensativa.
 > Historia: Escribe el mucho texto que necesites aquí! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugsiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 > Imagen: Dibuja a tu OC! (si no tienes tiempo, no es obligatorio, pero es muy recomendado)
+
