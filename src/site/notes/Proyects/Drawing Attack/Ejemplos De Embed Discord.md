@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/Ejemplos De Embed Discord/","title":"Ejemplos de Embed Discord","updated":"2024-03-09T23:23:05.388-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Drawing Attack/Ejemplos De Embed Discord/","title":"Ejemplos de Embed Discord","created":"Saturday, 2023-08-26, 9:18:31 pm","updated":"2023-09-25T12:37"}
 ---
 
 
