@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Arcanum Unbounded/","title":"Arcanum Unbounded","updated":"2023-12-30T18:05:50.408-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Arcanum Unbounded/","title":"Arcanum Unbounded","created":"Thursday, 2023-09-28, 4:23:06 pm","updated":"2023-10-01T23:22"}
 ---
 
 
