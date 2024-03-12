@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Evocar/","title":"Evocar","updated":"2024-02-23T02:44:17.403-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Evocar/","title":"Evocar","created":"Thursday, 2023-04-27, 7:47:06 am","updated":"2023-09-25T12:37"}
 ---
 
 
