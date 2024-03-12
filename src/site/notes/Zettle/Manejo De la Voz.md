@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Manejo De la Voz/","title":"Manejo De la Voz","updated":"2024-02-09T13:32:13.774-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Manejo De la Voz/","title":"Manejo De la Voz","created":"Monday, 2023-10-02, 3:08:05 pm","updated":"2023-10-02T15:12"}
 ---
 
 ********
