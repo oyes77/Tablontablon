@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Atributos Particulares De la Fotografía/","title":"Atributos Particulares De la Fotografía","updated":"2024-01-29T03:50:42.097-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Atributos Particulares De la Fotografía/","title":"Atributos Particulares De la Fotografía","created":"Monday, 2023-04-24, 4:29:39 pm","updated":"2023-09-25T12:37"}
 ---
 
 
