@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:16:46.481-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:18:44.384-05:00"}
 ---
 
 # Roleplay 2024
@@ -69,10 +69,10 @@ Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de
 
 Cada que mueres por causa directa de la corrupción pierdes una vida, y tu personaje se degrada en una de estas maneras en cada vida perdida:
 
-- 1 - Paranoia: La corrupción te nubla la razón, haciéndote creer que tus amigos son enemigos, esto hará especial efecto en combate y efecto medio en rol.
-- 1 - Melancolía: La corrupción te roba la felicidad, quitándote toda iniciativa de luchar contra ella o de perseguir tus metas personales, esto hará especial efecto en combate y en rol.
-- 2 - Sadismo: La corrupción te invierte la empatía, llenándote de ganas de herir a tus similares por diversión u otra satisfacción personal de tu personaje cuando estos están vulnerables, esto hará poco efecto en combate y especial efecto en rol.
-- 2 - Cordura: La corrupción juega con tus memorias, borrando aspectos clave de quien eres, esto hará poco efecto en combate, y especial efecto en rol.
+- 1 - Paranoia: La corrupción te nubla la razón, haciéndote creer que tus amigos son enemigos, esto hará especial efecto en combate y efecto medio en rol, creando un aspecto temporal / desventaja que puede llamar el GM
+- 1 - Melancolía: La corrupción te roba la felicidad, quitándote toda iniciativa de luchar contra ella o de perseguir tus metas personales, esto hará especial efecto en combate y en rol, puede hacer que aunque invoques un aspecto, eel GM no permita que ocurra, y pierdas tu punto de Destino
+- 2 - Sadismo: La corrupción te invierte la empatía, llenándote de ganas de herir a tus similares por diversión u otra satisfacción personal de tu personaje cuando estos están vulnerables, esto hará poco efecto en combate y especial efecto en rol. Te creará el aspecto "Sadismo" específico para tu personaje.
+-  2 - Cordura: La corrupción juega con tus memorias, borrando aspectos clave de quien eres, esto hará poco efecto en combate, y especial efecto en rol, borrará o cambiará uno o varios aspectos de tu personaje.
 - 3 - Autodestrucción: La corrupción se apropia de tí pero no te encuentra valioso, destruyendo tu alma, esto te convertirá en una imagen congelada de lo que fuiste, efectivamente perdiendo la consciencia para siempre, es decir mueres, esto significará que dejarás de poder participar con ese personaje.
 - 3 - Integración: La Corrupción se apropia de tí y te encuentra valioso, integrándote en sus filas cómo un super guerrero para combatir con tus ex aliados, esto tiene especial efecto en combate y rol.
 
