@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Skillful Huntsman/","title":"The Skillful Huntsman","updated":"2023-12-30T18:05:44.959-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Skillful Huntsman/","title":"The Skillful Huntsman","created":"Sunday, 2023-10-01, 11:29:43 pm","updated":"2023-10-01T23:31"}
 ---
 
 
