@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:26:37.547-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","created":"Monday, 2024-03-11, 12:48:12 am","updated":"Monday, 2024-03-11, 8:25:32 pm"}
 ---
 
 # Roleplay 2024
@@ -81,6 +81,7 @@ Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de
 	- 2 aspectos vacíos que se llenarán a medida que tu personaje evolucione en el rol
 - Deben de tener puntos de estilo[^4]
 - Deben de tener un nombre
+- Debe de tener una imagen propia / dibujo propio (pueden tener uno preeliminar y hacer la imagen eventualmente)
 #### Sistema De Vidas
 
 | Nivel de corrupción | Título          | Efecto: Cada que mueres por causa directa de la corrupción pierdes una vida, y tu personaje se degrada en una de estas maneras en cada vida perdida                                                                                                                                                   |
