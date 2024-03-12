@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Key Ideas in Sociology/","title":"Key Ideas in Sociology","updated":"2023-12-30T18:05:43.006-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Key Ideas in Sociology/","title":"Key Ideas in Sociology","created":"Monday, 2023-10-02, 12:52:25 pm","updated":"2023-10-02T12:52"}
 ---
 
 
