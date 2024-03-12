@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/K- Tiktok Vids/The Power of Writing to Enhance Understanding and Knowledge/","title":"Why You Should Write","updated":"2024-03-11T00:29:00.541-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/K- Tiktok Vids/The Power of Writing to Enhance Understanding and Knowledge/","title":"Why You Should Write","created":"Wednesday, 2023-09-06, 3:19:22 pm","updated":"Monday, 2023-12-04, 7:19:55 pm"}
 ---
 
 
