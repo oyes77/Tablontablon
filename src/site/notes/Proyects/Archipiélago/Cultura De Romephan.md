@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Romephan/","title":"Cultura De Romephan","updated":"2023-12-30T18:05:56.408-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Cultura De Romephan/","title":"Cultura De Romephan","created":"Tuesday, 2023-10-24, 10:36:52 am","updated":"Tuesday, 2023-10-24, 10:40:58 am"}
 ---
 
 
