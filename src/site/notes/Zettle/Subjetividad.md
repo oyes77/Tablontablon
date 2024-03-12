@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Subjetividad/","title":"Subjetividad","updated":"2023-12-30T18:06:37.357-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Subjetividad/","title":"Subjetividad","created":"Saturday, 2023-08-26, 9:28:02 pm","updated":"2023-09-25T12:37"}
 ---
 
 
