@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Guia De Eventos Nebulosos ✨/","title":"Guia De Eventos Nebulosos ✨","tags":["gardenEntry"],"updated":"2023-12-30T18:05:48.892-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Guia De Eventos Nebulosos ✨/","title":"Guia De Eventos Nebulosos ✨","tags":["gardenEntry"],"created":"Tuesday, 2023-08-08, 4:06:58 pm","updated":"Monday, 2023-11-20, 7:31:37 pm"}
 ---
 
 
