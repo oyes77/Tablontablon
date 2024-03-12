@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Relato de un náufrago/","title":"Relato de un náufrago","updated":"2023-12-30T18:05:44.780-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Relato de un náufrago/","title":"Relato de un náufrago","created":"Tuesday, 2023-09-19, 6:32:02 pm","updated":"2023-10-01T23:22"}
 ---
 
 
