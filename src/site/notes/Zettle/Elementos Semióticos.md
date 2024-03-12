@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Elementos Semióticos/","title":"Elementos Semióticos","updated":"2023-12-30T18:06:28.831-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Elementos Semióticos/","title":"Elementos Semióticos","created":"Monday, 2023-04-24, 5:00:42 pm","updated":"2023-09-25T12:37"}
 ---
 
 
