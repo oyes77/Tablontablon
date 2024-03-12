@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HUB/Tablón/","title":"Tablón","updated":"2024-02-25T20:57:40.787-05:00"}
+{"dg-publish":true,"permalink":"/HUB/Tablón/","title":"Tablón","created":"Monday, 2023-05-08, 12:05:02 am","updated":"Friday, 2024-02-23, 2:24:28 am"}
 ---
 
 
