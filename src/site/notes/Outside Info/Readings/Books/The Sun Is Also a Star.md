@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Sun Is Also a Star/","title":"The Sun Is Also a Star","updated":"2023-12-30T18:05:43.025-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Sun Is Also a Star/","title":"The Sun Is Also a Star","created":"Thursday, 2023-09-28, 4:43:05 pm","updated":"2023-10-01T23:22"}
 ---
 
 
