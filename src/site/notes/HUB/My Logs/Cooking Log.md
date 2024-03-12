@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HUB/My Logs/Cooking Log/","title":"Cooking Log","updated":"2024-03-09T23:03:07.817-05:00"}
+{"dg-publish":true,"permalink":"/HUB/My Logs/Cooking Log/","title":"Cooking Log","created":"Friday, 2024-02-23, 2:55:33 am"}
 ---
 
 
