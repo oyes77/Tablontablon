@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Tres comedias modernas en un acto y en prosa/","title":"Tres comedias modernas en un acto y en prosa","updated":"2023-12-30T18:05:31.388-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Tres comedias modernas en un acto y en prosa/","title":"Tres comedias modernas en un acto y en prosa","created":"Tuesday, 2023-10-03, 11:55:56 am","updated":"2023-10-03T11:55"}
 ---
 
 
