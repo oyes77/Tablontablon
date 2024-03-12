@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Contenido y continente De la Imagen/","title":"Contenido De la Imagen","updated":"2024-02-25T20:59:52.565-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Contenido y continente De la Imagen/","title":"Contenido De la Imagen","created":"Monday, 2023-04-24, 4:36:40 pm","updated":"2023-09-25T12:37"}
 ---
 
 
