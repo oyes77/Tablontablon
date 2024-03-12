@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HUB/My Logs/Study Log/","title":"Study Log","updated":"2024-03-09T23:03:08.250-05:00"}
+{"dg-publish":true,"permalink":"/HUB/My Logs/Study Log/","title":"Study Log","created":"Friday, 2024-02-23, 2:59:57 am"}
 ---
 
 
