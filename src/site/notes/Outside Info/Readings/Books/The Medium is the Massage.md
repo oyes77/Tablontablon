@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Medium is the Massage/","title":"The Medium is the Massage","updated":"2023-12-30T18:05:41.042-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Medium is the Massage/","title":"The Medium is the Massage","created":"Saturday, 2023-09-09, 6:04:12 pm","updated":"2023-09-19T17:38"}
 ---
 
 
