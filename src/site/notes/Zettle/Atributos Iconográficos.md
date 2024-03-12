@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Atributos Iconográficos/","title":"Atributos Iconográficos","updated":"2023-12-30T18:06:24.079-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Atributos Iconográficos/","title":"Atributos Iconográficos","created":"Monday, 2023-04-24, 4:24:36 pm","updated":"2023-09-25T12:37"}
 ---
 
 
