@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/K- Tiktok Vids/Cómo Entender la Música/","title":"Cómo Entender la Música","updated":"2024-03-11T00:29:02.317-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/K- Tiktok Vids/Cómo Entender la Música/","title":"Cómo Entender la Música","created":"Wednesday, 2023-09-06, 3:19:22 pm","updated":"2023-09-27T17:46"}
 ---
 
 
