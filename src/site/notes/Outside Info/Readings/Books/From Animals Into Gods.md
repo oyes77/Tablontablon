@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/From Animals Into Gods/","title":"From Animals Into Gods","updated":"2023-12-30T18:05:42.646-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/From Animals Into Gods/","title":"From Animals Into Gods","created":"Monday, 2023-09-25, 5:47:41 pm","updated":"2023-10-01T23:22"}
 ---
 
 
