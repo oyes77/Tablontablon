@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Capital/","title":"Capital","updated":"2023-12-30T18:06:07.236-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Capital/","title":"Capital","created":"Thursday, 2023-09-28, 4:25:18 pm","updated":"2023-10-01T23:22"}
 ---
 
 
