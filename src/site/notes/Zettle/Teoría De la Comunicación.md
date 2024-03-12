@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Teoría De la Comunicación/","title":"Teoría De la Comunicación","updated":"2023-12-30T18:06:11.756-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Teoría De la Comunicación/","title":"Teoría De la Comunicación","created":"Tuesday, 2023-05-02, 10:20:39 am","updated":"2023-09-26T17:53"}
 ---
 
 
