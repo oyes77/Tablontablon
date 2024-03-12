@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Arco Dramático/","title":"Arco Dramático","updated":"2023-12-30T18:06:35.955-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Arco Dramático/","title":"Arco Dramático","created":"Tuesday, 2023-06-13, 8:01:26 am","updated":"2023-09-25T12:37"}
 ---
 
 
