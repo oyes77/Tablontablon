@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Fundamentos De Dibujo/","title":"Fundamentos De Dibujo","updated":"2023-12-30T18:06:27.657-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Fundamentos De Dibujo/","title":"Fundamentos De Dibujo","created":"Thursday, 2023-08-31, 12:30:48 pm","updated":"2023-09-25T12:37"}
 ---
 
 
