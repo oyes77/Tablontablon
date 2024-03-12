@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Música Afecta a la Percepción Del Tiempo/","title":"La música afecta a la percepción del tiempo","updated":"2023-12-30T18:05:43.859-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Música Afecta a la Percepción Del Tiempo/","title":"La música afecta a la percepción del tiempo","created":"Monday, 2023-10-02, 2:28:46 pm","updated":"2023-10-02T14:30"}
 ---
 
 
