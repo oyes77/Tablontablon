@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HUB/My Logs/Proyects Log/","title":"Proyects Log","updated":"2024-03-09T23:03:07.821-05:00"}
+{"dg-publish":true,"permalink":"/HUB/My Logs/Proyects Log/","title":"Proyects Log","created":"Friday, 2024-03-08, 8:20:47 pm"}
 ---
 
 
