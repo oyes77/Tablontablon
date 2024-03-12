@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Oathbringer/","title":"Oathbringer","updated":"2023-12-30T18:06:01.797-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Oathbringer/","title":"Oathbringer","created":"Tuesday, August 8th 2023, 9:35:56 pm","updated":"2023-09-09T18:23"}
 ---
 
 
