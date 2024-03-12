@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Estilo Gráfico/","title":"Estilo Gráfico","updated":"2024-02-09T13:27:11.791-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Estilo Gráfico/","title":"Estilo Gráfico","created":"Tuesday, 2023-04-25, 1:43:48 pm","updated":"2023-09-25T12:37"}
 ---
 
 
