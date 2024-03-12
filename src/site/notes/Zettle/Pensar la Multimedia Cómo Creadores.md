@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Pensar la Multimedia Cómo Creadores/","title":"Pensar la Multimedia Cómo Creadores","updated":"2023-12-30T18:05:55.626-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Pensar la Multimedia Cómo Creadores/","title":"Pensar la Multimedia Cómo Creadores","created":"Saturday, 2023-11-18, 8:43:16 am","updated":"Saturday, 2023-11-25, 9:21:51 am"}
 ---
 
 
