@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Mistborn Trilogy/","title":"Mistborn Trilogy","updated":"2023-12-30T18:05:52.235-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Mistborn Trilogy/","title":"Mistborn Trilogy","created":"Thursday, 2023-09-28, 4:20:25 pm","updated":"2023-10-01T23:22"}
 ---
 
 
