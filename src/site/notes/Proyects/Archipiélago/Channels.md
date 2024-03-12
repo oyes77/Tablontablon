@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","updated":"2023-12-30T18:06:17.000-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Channels/","title":"Channels","created":"Tuesday, 2023-03-21, 1:19:35 pm","updated":"Tuesday, 2023-10-24, 10:56:46 am"}
 ---
 
 
