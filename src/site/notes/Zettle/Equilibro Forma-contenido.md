@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Equilibro Forma-contenido/","title":"Equilibro Forma-contenido","updated":"2023-12-30T18:06:11.915-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Equilibro Forma-contenido/","title":"Equilibro Forma-contenido","created":"Monday, 2023-10-02, 2:31:23 pm","updated":"2023-10-02T14:33"}
 ---
 
 
