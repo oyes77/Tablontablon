@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/One Day in the Life of Ivan Denisovich/","title":"One Day in the Life of Ivan Denisovich","updated":"2023-12-30T18:05:32.525-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/One Day in the Life of Ivan Denisovich/","title":"One Day in the Life of Ivan Denisovich","created":"Monday, 2023-10-02, 12:56:50 pm","updated":"2023-10-02T12:56"}
 ---
 
 
