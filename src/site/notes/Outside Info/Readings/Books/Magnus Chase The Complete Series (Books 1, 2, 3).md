@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Magnus Chase The Complete Series (Books 1, 2, 3)/","title":"Magnus Chase: The Complete Series (Books 1, 2, 3)","updated":"2023-12-30T18:05:30.003-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Magnus Chase The Complete Series (Books 1, 2, 3)/","title":"Magnus Chase: The Complete Series (Books 1, 2, 3)","created":"Tuesday, 2023-10-03, 11:58:17 am","updated":"2023-10-03T11:58"}
 ---
 
 
