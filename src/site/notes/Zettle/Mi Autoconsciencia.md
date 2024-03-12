@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Mi Autoconsciencia/","title":"Mi Autoconsciencia","updated":"2023-12-30T18:06:30.813-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Mi Autoconsciencia/","title":"Mi Autoconsciencia","created":"Wednesday, 2023-05-17, 8:21:32 am","updated":"2023-09-25T12:37"}
 ---
 
 
