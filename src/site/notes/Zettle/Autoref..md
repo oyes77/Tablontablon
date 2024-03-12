@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Autoref./","title":"Autoref.","tags":["ZeType/Ensayo",""],"updated":"2024-02-27T11:15:11.403-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Autoref./","title":"Autoref.","tags":["ZeType/Ensayo",""],"created":"Monday, 2023-05-01, 3:11:52 pm","updated":"2023-09-25T12:37"}
 ---
 
 
