@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian Mkd/","title":"Obsidian MKD","updated":"2024-03-11T00:46:37.374-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian Mkd/","title":"Obsidian MKD","created":"Monday, 2023-07-31, 5:03:18 pm","updated":"Saturday, 2024-03-09, 11:20:28 pm"}
 ---
 
 # Obsidian Mkd
