@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Lists/Art Challenges & Prompt Lists/","title":"Art Challenges & Prompt Lists","updated":"2023-12-30T18:05:45.411-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Lists/Art Challenges & Prompt Lists/","title":"Art Challenges & Prompt Lists","created":"Thursday, 2023-03-16, 10:12:19 pm","updated":"Monday, 2023-11-20, 7:31:00 pm"}
 ---
 
 
