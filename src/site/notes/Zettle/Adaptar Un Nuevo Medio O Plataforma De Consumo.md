@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Adaptar Un Nuevo Medio O Plataforma De Consumo/","title":"adaptar un nuevo medio o plataforma de consumo","updated":"2023-12-30T18:05:41.062-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Adaptar Un Nuevo Medio O Plataforma De Consumo/","title":"adaptar un nuevo medio o plataforma de consumo","created":"Saturday, 2023-11-25, 9:09:25 am","updated":"Saturday, 2023-10-25, 9-02:37 am4T16:10"}
 ---
 
 
