@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/K- Tiktok Vids/Lo Más Básico De Obsidian/","title":"Lo Más Básico De Obsidian","updated":"2024-03-11T00:29:02.261-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/K- Tiktok Vids/Lo Más Básico De Obsidian/","title":"Lo Más Básico De Obsidian","created":"Wednesday, 2023-09-06, 3:19:22 pm","updated":"2023-09-09T18:24"}
 ---
 
 
