@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:08:06.228-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:12:18.769-05:00"}
 ---
 
 # Roleplay 2024
@@ -26,19 +26,27 @@ La corrupción se puede aparecer a personajes cómo una nube negra sin forma, y 
 ### Idea De Funcionalidad
 
 Cada semana o así cambiará el escenario a cualquier cosa, y los jugadores, que pueden ser cualquier cosa (por ahora, dunno) tendrán que vencer algo o pasar ese escenario para continuar vivos,[^2] tendrán 3 vidas, con cada vida perdida a causa de la corrupción su personaje se degrada psicológicamente y físicamente, serán más erráticos, lo que se le llama en este mundo "corrupción de personaje" si pierden todas las vidas, desaparecerá completamente, convirtiéndose en un PNG sin emociones ni vida de nuevo.
-
+El sistema de rol estará fuertemente basado en Fate Acelerado, con cambios mínimos en su funcionamiento para adaptarlo a funcionar en Discord, para entenderlo no debes de leer el manual de Fate Acelerado, pues todo está explicado aquí.
+(Los GM si deben leerlo beibi 🤨, uds controlan los resultados nyajaja)
 ### Eventos
 ### Lugares
 #### Lobby
 #### La Torre Infinita
 
 ### Reglas Y Mecanismos
-#### Sistema De Clases
+#### Sistema De Clases / Orden de Caballeros
 - Gunner: Gente que dispara proyectiles con efectos especiales
 - Guerrero: Gente que usa armas cuerpo a cuerpo
 - Curandero: Gente que trata daños de la corrupción
 - Ingeniero: Gente que usa su entorno para crear armas y trampas
-#### Estadísticas
+#### Estadísticas / Estilos
+- Cauto: Una acción es Cauta cuando prestas mucha atención a los detalles y te tomas tu tiempo para hacerla bien
+- Ingenioso: Una acción Ingeniosa requiere pensar rápido, solucionar proble mas o tener en cuenta variables complejas
+- Furtivo: Una acción Furtiva tiene como fin despistar, pasar inadvertido o engañar a alguien
+- Llamativo: Una acción Llamativa llama la atención sobre ti; es una exhibi ción de estilo y audacia
+- Rápido: Una acción Rápida supone moverse de forma veloz y ágil
+- Vigoroso: Una acción Vigorosa es una demostración de fuerza bruta nada sutil
+
 #### Dados
 
 Se usarán dados D3 al sistema FATE acelerado
