@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Humanismo en Colombia/","title":"Humanismo en Colombia","updated":"2023-12-30T18:05:44.710-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Humanismo en Colombia/","title":"Humanismo en Colombia","created":"Monday, 2023-10-02, 12:58:03 pm","updated":"2023-10-02T12:58"}
 ---
 
 
