@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Heroes of Olympus The Complete Series (Books 1, 2, 3, 4, 5)/","title":"Heroes of Olympus: The Complete Series (Books 1, 2, 3, 4, 5)","updated":"2023-12-30T18:05:26.507-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Heroes of Olympus The Complete Series (Books 1, 2, 3, 4, 5)/","title":"Heroes of Olympus: The Complete Series (Books 1, 2, 3, 4, 5)","created":"Tuesday, 2023-10-03, 11:58:44 am","updated":"2023-10-03T11:58"}
 ---
 
 
