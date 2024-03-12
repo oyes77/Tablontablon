@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Público Objetivo Y Público Potencial/","title":"Público objetivo y público potencial","updated":"2023-12-30T18:05:54.150-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Público Objetivo Y Público Potencial/","title":"Público objetivo y público potencial","created":"Monday, 2023-10-02, 2:35:42 pm","updated":"2023-10-02T14:38"}
 ---
 
 
