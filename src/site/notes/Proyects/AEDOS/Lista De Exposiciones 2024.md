@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista De Exposiciones 2024","updated":"2024-03-03T13:06:39.646-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/AEDOS/Lista De Exposiciones 2024/","title":"Lista De Exposiciones 2024","created":"Wednesday, 2024-02-28, 2:17:49 pm","updated":"Wednesday, 2024-02-28, 2:47:44 pm"}
 ---
 
 
