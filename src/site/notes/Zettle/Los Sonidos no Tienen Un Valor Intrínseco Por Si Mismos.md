@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos/","title":"Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos","updated":"2023-12-30T18:05:34.632-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos/","title":"Los Sonidos no Tienen Un Valor Intrínseco Por Si Mismos","created":"Tuesday, 2023-09-19, 3:18:54 pm","updated":"2023-10-02T14:18"}
 ---
 
 
