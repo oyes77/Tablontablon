@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/El Fundamento Del Derecho/","title":"El Fundamento Del Derecho","updated":"2023-12-30T18:06:11.368-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/El Fundamento Del Derecho/","title":"El Fundamento Del Derecho","created":"Tuesday, 2023-09-26, 11:06:44 am","updated":"2023-10-03T17:01"}
 ---
 
 
