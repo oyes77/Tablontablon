@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Velocidad Es Enemigo De la Precisión/","title":"La Velocidad Es Enemigo De la Precisión","updated":"2023-12-30T18:05:49.712-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Velocidad Es Enemigo De la Precisión/","title":"La Velocidad Es Enemigo De la Precisión","created":"Tuesday, 2023-09-05, 7:30:45 am","updated":"2023-09-25T12:37"}
 ---
 
 
