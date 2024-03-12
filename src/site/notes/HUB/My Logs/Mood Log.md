@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HUB/My Logs/Mood Log/","title":"Mood Logs","updated":"2024-03-09T23:03:08.308-05:00"}
+{"dg-publish":true,"permalink":"/HUB/My Logs/Mood Log/","title":"Mood Logs","created":"Saturday, 2024-02-24, 10:25:12 pm"}
 ---
 
 
