@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T13:24:05.291-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:08:06.228-05:00"}
 ---
 
 # Roleplay 2024
@@ -30,16 +30,31 @@ Cada semana o así cambiará el escenario a cualquier cosa, y los jugadores, que
 ### Eventos
 ### Lugares
 #### Lobby
-#### La torre infinita 
+#### La Torre Infinita
 
 ### Reglas Y Mecanismos
-#### Sistema de clases
+#### Sistema De Clases
 - Gunner: Gente que dispara proyectiles con efectos especiales
 - Guerrero: Gente que usa armas cuerpo a cuerpo
 - Curandero: Gente que trata daños de la corrupción
 - Ingeniero: Gente que usa su entorno para crear armas y trampas
+#### Estadísticas
+#### Dados
 
-#### Sistema de vidas
+Se usarán dados D3 al sistema FATE acelerado
+#### DJ / GameMaster
+Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de estar uno de los GM presentes, ya sea cómo personaje o no.
+### Creación De Personajes
+- Los personajes deben de tener 5 aspectos:[^3]
+	- Un aspecto principal del personaje
+	- Una complicación principal del personaje
+	- Un aspecto de combate
+	- 2 aspectos vacíos que se llenarán a medida que tu personaje evolucione en el rol
+- Deben de tener puntos de estilo[^4]
+- Deben de tener un nombre
+- 
+#### Sistema De Vidas
+
 Cada que mueres por causa directa de la corrupción pierdes una vida, y tu personaje se degrada en una de estas maneras en cada vida perdida:
 
 - 1 - Paranoia: La corrupción te nubla la razón, haciéndote creer que tus amigos son enemigos, esto hará especial efecto en combate y efecto medio en rol.
@@ -48,6 +63,10 @@ Cada que mueres por causa directa de la corrupción pierdes una vida, y tu perso
 - 2 - Cordura: La corrupción juega con tus memorias, borrando aspectos clave de quien eres, esto hará poco efecto en combate, y especial efecto en rol.
 - 3 - Autodestrucción: La corrupción se apropia de tí pero no te encuentra valioso, destruyendo tu alma, esto te convertirá en una imagen congelada de lo que fuiste, efectivamente perdiendo la consciencia para siempre, es decir mueres, esto significará que dejarás de poder participar con ese personaje.
 - 3 - Integración: La Corrupción se apropia de tí y te encuentra valioso, integrándote en sus filas cómo un super guerrero para combatir con tus ex aliados, esto tiene especial efecto en combate y rol.
+
 ### Referencias
+
 [^1]: Me lo saqué de Sonny Boy eso, me gusta el concepto
 [^2]: Wonder Egg Priority Goddddd
+[^3]: una frase o una oración que describe algo verdadera mente importante para tu personaje. Puede ser un lema por el que el personaje se rige, una peculiaridad de su carácter, la descripción de la relación que mantiene con otro personaje, una posesión o un elemento de equipo fundamental para él o ella, o cualquier otra parte del personaje que sea de vital importancia para este. Cuando pienses en tu concepto principal, intenta decidir dos cosas: en qué puede ayudarte y cómo puede complicarte la vida. Un buen concepto principal logra ambas cosas
+[^4]: Cada estilo tiene un nivel asociado con una bonificación o bono. Elige un estilo a nivel Grande (+3), dos a nivel Bueno (+2), dos a nivel Normal (+1) y uno a nivel Me diocre (+0)
