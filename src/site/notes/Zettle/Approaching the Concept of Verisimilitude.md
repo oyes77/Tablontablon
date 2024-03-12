@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Approaching the Concept of Verisimilitude/","title":"Approaching the Concept of Verisimilitude","updated":"2023-12-30T18:05:46.277-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Approaching the Concept of Verisimilitude/","title":"Approaching the Concept of Verisimilitude","created":"Thursday, 2023-08-31, 5:42:37 pm","updated":"Thursday, 2023-12-07, 5:31:21 pm"}
 ---
 
 
