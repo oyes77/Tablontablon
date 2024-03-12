@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Channels/","title":"Magia de Channels","updated":"2023-12-30T18:06:00.440-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Magia De Channels/","title":"Magia de Channels","created":"Sunday, 2023-10-08, 7:07:03 pm","updated":"Sunday, 2023-10-08, 7:07:04 pm"}
 ---
 
 
