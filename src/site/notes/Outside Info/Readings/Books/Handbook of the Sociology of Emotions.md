@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Handbook of the Sociology of Emotions/","title":"Handbook of the Sociology of Emotions","updated":"2023-12-30T18:05:32.667-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Handbook of the Sociology of Emotions/","title":"Handbook of the Sociology of Emotions","created":"Monday, 2023-10-02, 12:54:12 pm","updated":"2023-10-02T12:54"}
 ---
 
 
