@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:12:18.769-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:16:46.481-05:00"}
 ---
 
 # Roleplay 2024
@@ -50,6 +50,10 @@ El sistema de rol estará fuertemente basado en Fate Acelerado, con cambios mín
 #### Dados
 
 Se usarán dados D3 al sistema FATE acelerado
+#### Puntos de Destino / Código... *debo de renombrar las weas para que suenen digitales luego XD*
+Tienen 3 al inicio de cada campaña (semana) y pierden al usarlos, ganan al hacer forzados
+#### Forzados
+Usas un aspecto para afectar negativamente a tu personaje en una situación, **esto no aplica cuando estás afectado por la Corrupción.**
 #### DJ / GameMaster
 Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de estar uno de los GM presentes, ya sea cómo personaje o no.
 ### Creación De Personajes
