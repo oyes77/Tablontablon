@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Thinking, Fast and Slow/","title":"Thinking, Fast and Slow","updated":"2023-12-30T18:05:42.310-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Thinking, Fast and Slow/","title":"Thinking, Fast and Slow","created":"Wednesday, 2023-10-18, 6:03:07 pm","updated":"Wednesday, 2023-10-18, 6:03:07 pm"}
 ---
 
 
