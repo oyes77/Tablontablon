@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Ecosistema/","title":"Ecosistema","updated":"2023-12-30T18:06:38.236-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Ecosistema/","title":"Ecosistema","created":"Saturday, 2023-08-26, 9:26:09 pm","updated":"2023-10-04T15:47"}
 ---
 
 
