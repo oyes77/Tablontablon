@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HUB/My Logs/Health Log/","title":"Health Log","updated":"2024-03-09T23:03:07.875-05:00"}
+{"dg-publish":true,"permalink":"/HUB/My Logs/Health Log/","title":"Health Log","created":"Friday, 2024-02-23, 3:00:02 am","updated":"Friday, 2024-02-23, 3:00:09 am"}
 ---
 
 
