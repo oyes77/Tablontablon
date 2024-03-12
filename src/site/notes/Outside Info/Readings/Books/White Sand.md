@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/White Sand/","title":"White Sand","updated":"2023-12-30T18:06:03.525-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/White Sand/","title":"White Sand","created":"Tuesday, 2023-09-19, 6:32:39 pm","updated":"2023-10-03T13:47"}
 ---
 
 
