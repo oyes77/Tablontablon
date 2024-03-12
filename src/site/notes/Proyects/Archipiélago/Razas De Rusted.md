@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Rusted/","title":"Razas De Rusted","updated":"2023-12-30T18:06:04.393-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Rusted/","title":"Razas De Rusted","created":"Sunday, 2023-10-08, 7:03:56 pm","updated":"Sunday, 2023-10-08, 7:03:58 pm"}
 ---
 
 
