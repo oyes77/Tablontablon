@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Necronomicon/","title":"Necronomicon","updated":"2023-12-30T18:05:59.499-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Necronomicon/","title":"Necronomicon","created":"Saturday, 2023-10-07, 5:37:36 pm","updated":"Saturday, 2023-10-07, 5:37:36 pm"}
 ---
 
 
