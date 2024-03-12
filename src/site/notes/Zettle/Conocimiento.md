@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Conocimiento/","title":"Conocimiento","updated":"2023-12-30T18:06:37.320-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Conocimiento/","title":"Conocimiento","created":"Thursday, 2023-08-31, 5:34:11 pm","updated":"2023-09-25T12:37"}
 ---
 
 
