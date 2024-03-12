@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Democracia/","title":"La Democracia","updated":"2023-12-30T18:06:36.640-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Democracia/","title":"La Democracia","created":"Tuesday, 2023-09-26, 11:04:21 am","updated":"2023-09-26T11:05"}
 ---
 
 
