@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Circe/","title":"Circe","updated":"2023-12-30T18:06:09.475-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Circe/","title":"Circe","created":"Thursday, 2023-09-28, 5:16:11 pm","updated":"2023-10-01T23:22"}
 ---
 
 
