@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Channels/","title":"Geografía de Channels","updated":"2023-12-30T18:05:52.632-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Channels/","title":"Geografía de Channels","created":"Tuesday, 2023-10-24, 10:30:30 am","updated":"Tuesday, 2023-10-24, 10:30:41 am"}
 ---
 
 
