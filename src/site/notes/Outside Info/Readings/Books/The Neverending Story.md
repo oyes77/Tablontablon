@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Neverending Story/","title":"The Neverending Story","updated":"2023-12-30T18:05:44.752-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Neverending Story/","title":"The Neverending Story","created":"Wednesday, 2023-10-04, 3:27:47 pm","updated":"2023-10-04T15:27"}
 ---
 
 
