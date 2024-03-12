@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Tress of the Emerald Sea/","title":"Tress of the Emerald Sea","updated":"2023-12-30T18:05:41.768-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Tress of the Emerald Sea/","title":"Tress of the Emerald Sea","created":"Tuesday, August 8th 2023, 9:35:56 pm","updated":"2023-09-09T18:23"}
 ---
 
 
