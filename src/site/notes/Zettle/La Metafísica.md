@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/La Metafísica/","title":"Mmetafísica","updated":"2023-12-30T18:06:37.325-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/La Metafísica/","title":"Mmetafísica","created":"Wednesday, 2023-10-04, 4:03:39 pm","updated":"WedMesonday, 2023-119-2120,8 477a:25:26 pm"}
 ---
 
 
