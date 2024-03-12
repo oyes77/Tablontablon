@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:18:44.384-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","updated":"2024-03-11T20:26:37.547-05:00"}
 ---
 
 # Roleplay 2024
@@ -26,36 +26,53 @@ La corrupción se puede aparecer a personajes cómo una nube negra sin forma, y 
 ### Idea De Funcionalidad
 
 Cada semana o así cambiará el escenario a cualquier cosa, y los jugadores, que pueden ser cualquier cosa (por ahora, dunno) tendrán que vencer algo o pasar ese escenario para continuar vivos,[^2] tendrán 3 vidas, con cada vida perdida a causa de la corrupción su personaje se degrada psicológicamente y físicamente, serán más erráticos, lo que se le llama en este mundo "corrupción de personaje" si pierden todas las vidas, desaparecerá completamente, convirtiéndose en un PNG sin emociones ni vida de nuevo.
+
 El sistema de rol estará fuertemente basado en Fate Acelerado, con cambios mínimos en su funcionamiento para adaptarlo a funcionar en Discord, para entenderlo no debes de leer el manual de Fate Acelerado, pues todo está explicado aquí.
+
 (Los GM si deben leerlo beibi 🤨, uds controlan los resultados nyajaja)
+
 ### Eventos
 ### Lugares
 #### Lobby
 #### La Torre Infinita
 
 ### Reglas Y Mecanismos
-#### Sistema De Clases / Orden de Caballeros
-- Gunner: Gente que dispara proyectiles con efectos especiales
-- Guerrero: Gente que usa armas cuerpo a cuerpo
-- Curandero: Gente que trata daños de la corrupción
-- Ingeniero: Gente que usa su entorno para crear armas y trampas
+#### Sistema De Clases / Orden De Caballeros
+
+| Orden a la que pertenecen | Características                                      |
+| ------------------------- | ---------------------------------------------------- |
+| Artillero                 | Gente que dispara proyectiles con efectos especiales |
+| Guerrero                  | Gente que usa armas cuerpo a cuerpo                  |
+| Sanador                   | Gente que trata daños de la corrupción               |
+| Ingeniero                 | Gente que usa su entorno para crear armas y trampas  |
+
 #### Estadísticas / Estilos
-- Cauto: Una acción es Cauta cuando prestas mucha atención a los detalles y te tomas tu tiempo para hacerla bien
-- Ingenioso: Una acción Ingeniosa requiere pensar rápido, solucionar proble mas o tener en cuenta variables complejas
-- Furtivo: Una acción Furtiva tiene como fin despistar, pasar inadvertido o engañar a alguien
-- Llamativo: Una acción Llamativa llama la atención sobre ti; es una exhibi ción de estilo y audacia
-- Rápido: Una acción Rápida supone moverse de forma veloz y ágil
-- Vigoroso: Una acción Vigorosa es una demostración de fuerza bruta nada sutil
+
+| Nombre de estadística | Explicación                                                                                              |
+| --------------------- | -------------------------------------------------------------------------------------------------------- |
+| Cauto                 | Una acción es Cauta cuando prestas mucha atención a los detalles y te tomas tu tiempo para hacerla bien  |
+| Ingenioso             | Una acción Ingeniosa requiere pensar rápido, solucionar proble mas o tener en cuenta variables complejas |
+| Furtivo               | Una acción Furtiva tiene como fin despistar, pasar inadvertido o engañar a alguien                       |
+| Llamativo             | Una acción Llamativa llama la atención sobre ti; es una exhibi ción de estilo y audacia                  |
+| Rápido                | Una acción Rápida supone moverse de forma veloz y ágil                                                   |
+| Vigoroso              | Una acción Vigorosa es una demostración de fuerza bruta nada sutil                                       |
 
 #### Dados
 
 Se usarán dados D3 al sistema FATE acelerado
-#### Puntos de Destino / Código... *debo de renombrar las weas para que suenen digitales luego XD*
+
+#### Puntos De Destino / Código… *debo De Renombrar Las Weas Para Que Suenen Digitales Luego XD*
+
 Tienen 3 al inicio de cada campaña (semana) y pierden al usarlos, ganan al hacer forzados
+
 #### Forzados
+
 Usas un aspecto para afectar negativamente a tu personaje en una situación, **esto no aplica cuando estás afectado por la Corrupción.**
-#### DJ / GameMaster
+
+#### Dj / Gamemaster
+
 Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de estar uno de los GM presentes, ya sea cómo personaje o no.
+
 ### Creación De Personajes
 - Los personajes deben de tener 5 aspectos:[^3]
 	- Un aspecto principal del personaje
@@ -64,17 +81,16 @@ Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de
 	- 2 aspectos vacíos que se llenarán a medida que tu personaje evolucione en el rol
 - Deben de tener puntos de estilo[^4]
 - Deben de tener un nombre
-- 
 #### Sistema De Vidas
 
-Cada que mueres por causa directa de la corrupción pierdes una vida, y tu personaje se degrada en una de estas maneras en cada vida perdida:
-
-- 1 - Paranoia: La corrupción te nubla la razón, haciéndote creer que tus amigos son enemigos, esto hará especial efecto en combate y efecto medio en rol, creando un aspecto temporal / desventaja que puede llamar el GM
-- 1 - Melancolía: La corrupción te roba la felicidad, quitándote toda iniciativa de luchar contra ella o de perseguir tus metas personales, esto hará especial efecto en combate y en rol, puede hacer que aunque invoques un aspecto, eel GM no permita que ocurra, y pierdas tu punto de Destino
-- 2 - Sadismo: La corrupción te invierte la empatía, llenándote de ganas de herir a tus similares por diversión u otra satisfacción personal de tu personaje cuando estos están vulnerables, esto hará poco efecto en combate y especial efecto en rol. Te creará el aspecto "Sadismo" específico para tu personaje.
--  2 - Cordura: La corrupción juega con tus memorias, borrando aspectos clave de quien eres, esto hará poco efecto en combate, y especial efecto en rol, borrará o cambiará uno o varios aspectos de tu personaje.
-- 3 - Autodestrucción: La corrupción se apropia de tí pero no te encuentra valioso, destruyendo tu alma, esto te convertirá en una imagen congelada de lo que fuiste, efectivamente perdiendo la consciencia para siempre, es decir mueres, esto significará que dejarás de poder participar con ese personaje.
-- 3 - Integración: La Corrupción se apropia de tí y te encuentra valioso, integrándote en sus filas cómo un super guerrero para combatir con tus ex aliados, esto tiene especial efecto en combate y rol.
+| Nivel de corrupción | Título          | Efecto: Cada que mueres por causa directa de la corrupción pierdes una vida, y tu personaje se degrada en una de estas maneras en cada vida perdida                                                                                                                                                   |
+| ------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                   | Paranoia        | La corrupción te nubla la razón, haciéndote creer que tus amigos son enemigos, esto hará especial efecto en combate y efecto medio en rol, creando un aspecto temporal / desventaja que puede llamar el GM                                                                                            |
+| 1                   | Melancolía      | La corrupción te roba la felicidad, quitándote toda iniciativa de luchar contra ella o de perseguir tus metas personales, esto hará especial efecto en combate y en rol, puede hacer que aunque invoques un aspecto, eel GM no permita que ocurra, y pierdas tu punto de Destino                      |
+| 2                   | Sadismo         | La corrupción te invierte la empatía, llenándote de ganas de herir a tus similares por diversión u otra satisfacción personal de tu personaje cuando estos están vulnerables, esto hará poco efecto en combate y especial efecto en rol. Te creará el aspecto "Sadismo" específico para tu personaje. |
+| 2                   | Cordura         | La corrupción juega con tus memorias, borrando aspectos clave de quien eres, esto hará poco efecto en combate, y especial efecto en rol, borrará o cambiará uno o varios aspectos de tu personaje.                                                                                                    |
+| 3                   | Autodestrucción | La corrupción se apropia de tí pero no te encuentra valioso, destruyendo tu alma, esto te convertirá en una imagen congelada de lo que fuiste, efectivamente perdiendo la consciencia para siempre, es decir mueres, esto significará que dejarás de poder participar con ese personaje.              |
+| 3                   | Integración     | La Corrupción se apropia de tí y te encuentra valioso, integrándote en sus filas cómo un super guerrero para combatir con tus ex aliados, esto tiene especial efecto en combate y rol.                                                                                                                |
 
 ### Referencias
 
