@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Lists/Ref Texto Emojis/","title":"Ref Texto Emojis","updated":"2023-12-30T18:06:07.178-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Lists/Ref Texto Emojis/","title":"Ref Texto Emojis","created":"Friday, 2023-03-17, 6:12:47 pm","updated":"2023-10-03T18:14"}
 ---
 
 
