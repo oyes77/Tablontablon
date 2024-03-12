@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Durkheim's Suicide/","title":"Durkheim's Suicide","updated":"2023-12-30T18:05:49.099-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Durkheim's Suicide/","title":"Durkheim's Suicide","created":"Monday, 2023-10-02, 12:51:34 pm","updated":"2023-10-02T12:51"}
 ---
 
 
