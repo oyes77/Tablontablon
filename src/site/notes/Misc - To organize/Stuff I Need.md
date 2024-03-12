@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Stuff I Need/","title":"Stuff I Need","updated":"2023-12-30T18:06:13.240-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Stuff I Need/","title":"Stuff I Need","created":"Friday, 2023-09-01, 8:59:45 pm","updated":"2023-09-26T18:11"}
 ---
 
 
