@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Rusted/","title":"Geografía De Rusted","updated":"2023-12-30T18:05:56.412-05:00"}
+{"dg-publish":true,"permalink":"/Proyects/Archipiélago/Geografía De Rusted/","title":"Geografía De Rusted","created":"Tuesday, 2023-10-24, 10:31:48 am","updated":"Tuesday, 2023-10-24, 10:35:51 am"}
 ---
 
 
