@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Consciencia Fonológica - Understanding the Relationship Between Letters and Sounds/","title":"Consciencia Fonológica - Understanding the Relationship Between Letters and Sounds","updated":"2023-12-30T18:05:26.070-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Consciencia Fonológica - Understanding the Relationship Between Letters and Sounds/","title":"Consciencia Fonológica - Understanding the Relationship Between Letters and Sounds","created":"Tuesday, 2023-09-19, 3:28:15 pm","updated":"2023-09-25T12:37"}
 ---
 
 
