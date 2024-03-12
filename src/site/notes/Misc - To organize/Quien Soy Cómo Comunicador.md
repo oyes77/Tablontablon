@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Quien Soy Cómo Comunicador/","title":"Quien Soy Cómo Comunicador","updated":"2024-02-09T13:22:11.476-05:00"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Quien Soy Cómo Comunicador/","title":"Quien Soy Cómo Comunicador","created":"Tuesday, 2023-04-25, 12:55:14 pm","updated":"2023-09-26T17:53"}
 ---
 
 
