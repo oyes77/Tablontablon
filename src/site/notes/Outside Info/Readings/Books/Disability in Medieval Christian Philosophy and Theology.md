@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Disability in Medieval Christian Philosophy and Theology/","title":"Disability in Medieval Christian Philosophy and Theology","updated":"2023-12-30T18:05:27.405-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/Disability in Medieval Christian Philosophy and Theology/","title":"Disability in Medieval Christian Philosophy and Theology","created":"Tuesday, 2023-10-03, 6:41:13 pm","updated":"2023-10-03T18:41"}
 ---
 
 
