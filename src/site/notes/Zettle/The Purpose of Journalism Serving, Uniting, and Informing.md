@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/The Purpose of Journalism Serving, Uniting, and Informing/","title":"The purpose of journalism Serving, uniting, and informing","updated":"2023-12-30T18:05:33.129-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/The Purpose of Journalism Serving, Uniting, and Informing/","title":"The purpose of journalism Serving, uniting, and informing","created":"Tuesday, 2023-09-05, 6:28:42 am","updated":"2023-09-25T12:37"}
 ---
 
 
