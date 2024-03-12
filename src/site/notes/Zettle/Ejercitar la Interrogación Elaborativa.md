@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettle/Ejercitar la Interrogación Elaborativa/","title":"Ejercitar la Interrogación Elaborativa","updated":"2023-12-30T18:05:50.807-05:00"}
+{"dg-publish":true,"permalink":"/Zettle/Ejercitar la Interrogación Elaborativa/","title":"Ejercitar la Interrogación Elaborativa","created":"Saturday, 2023-08-26, 10:16:08 pm","updated":"2023-09-25T12:37"}
 ---
 
 
