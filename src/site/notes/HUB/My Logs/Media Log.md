@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HUB/My Logs/Media Log/","title":"Media Log","updated":"2024-03-10T14:40:44.039-05:00"}
+{"dg-publish":true,"permalink":"/HUB/My Logs/Media Log/","title":"Media Log","created":"Friday, 2024-02-23, 2:37:53 am","updated":"Sunday, 2024-03-10, 12:09:43 am"}
 ---
 
 
