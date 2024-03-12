@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Killings in Colombia/","title":"The Killings in Colombia","updated":"2023-12-30T18:05:41.478-05:00"}
+{"dg-publish":true,"permalink":"/Outside Info/Readings/Books/The Killings in Colombia/","title":"The Killings in Colombia","created":"Thursday, 2023-09-28, 4:47:36 pm","updated":"2023-10-01T23:22"}
 ---
 
 
