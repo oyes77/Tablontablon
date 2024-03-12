@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Plugins/Templates/old zettel/","title":"<% tp.file.title %>","updated":"2024-03-09T22:53:06.549-05:00"}
+{"dg-publish":true,"permalink":"/Plugins/Templates/old zettel/","title":"<% tp.file.title %>","created":"<% tp.date.now(\"dddd, YYYY-MM-DD, h:mm:ss a\")%>"}
 ---
 
 <%*
