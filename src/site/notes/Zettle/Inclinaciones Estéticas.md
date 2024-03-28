@@ -12,7 +12,7 @@ Debo de buscar por qué me gusta lo que me gusta, por qué mi color favorito es 
 > [!multi-column]
 > 
 > > [!abstract] 📖 Condensado
-> > Debo ser consciente de mis gustos y encontrar la razón detrás de ellos para descubrir mi estilo gráfico.
+> > Debo ser consciente de mis gustos y encontrar la razón detrás de ellos para descubrir mi [[Zettle/Estilo Gráfico\|Estilo Gráfico]].
 >
 > > [!example] 🕯️ Información Adicional
 > > - Comprender nuestras preferencias estéticas nos ayuda a desarrollar un sentido de identidad visual.
