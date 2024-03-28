@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","created":"Monday, 2024-03-11, 12:48:12 am","updated":"Monday, 2024-03-11, 8:25:32 pm"}
+{"dg-publish":true,"permalink":"/Proyects/Roleplay 2024/Roleplay 2024/","title":"Roleplay 2024","created":"Monday, 2024-03-11, 12:48:12 am","updated":"Monday, 2024-03-18, 2:38:36 pm"}
 ---
 
 # Roleplay 2024
 ## Zoss 3069
-
+- [[Proyects/Drawing Attack/Drawing Attack\|Drawing Attack]]
 ### Lore
 
 Un mundo digital gobernado por los 4 Caballeros: (Agape, Trex, Incógnito, Parna) Los creadores de este mundo cómo es ahora, usuarios que pasaban tanto tiempo online, que descubrieron un rincón oscuro en el internet al que solo los que se convertían lentamente en seres meramente digitales podían entrar, en este lugar personajes ficticios tomaban conciencia y se convertían en seres vivos digitales.
@@ -29,7 +29,7 @@ Cada semana o así cambiará el escenario a cualquier cosa, y los jugadores, que
 
 El sistema de rol estará fuertemente basado en Fate Acelerado, con cambios mínimos en su funcionamiento para adaptarlo a funcionar en Discord, para entenderlo no debes de leer el manual de Fate Acelerado, pues todo está explicado aquí.
 
-(Los GM si deben leerlo beibi 🤨, uds controlan los resultados nyajaja)
+(Los GM si deben leerlo beibigir🤨, uds controlan los resultados nyajaja)
 
 ### Eventos
 ### Lugares
@@ -99,3 +99,4 @@ Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de
 [^2]: Wonder Egg Priority Goddddd
 [^3]: una frase o una oración que describe algo verdadera mente importante para tu personaje. Puede ser un lema por el que el personaje se rige, una peculiaridad de su carácter, la descripción de la relación que mantiene con otro personaje, una posesión o un elemento de equipo fundamental para él o ella, o cualquier otra parte del personaje que sea de vital importancia para este. Cuando pienses en tu concepto principal, intenta decidir dos cosas: en qué puede ayudarte y cómo puede complicarte la vida. Un buen concepto principal logra ambas cosas
 [^4]: Cada estilo tiene un nivel asociado con una bonificación o bono. Elige un estilo a nivel Grande (+3), dos a nivel Bueno (+2), dos a nivel Normal (+1) y uno a nivel Me diocre (+0)
+[[Proyects/Archipiélago/Romephan\|Romephan]] 
