@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/Proyects/Archipiélago/Razas De Romephan/","title":"Razas De Romephan","created":"Sunday, 2023-10-08, 7:02:45 pm","updated":"Sunday, 2023-10-08, 7:02:49 pm"}
 ---
 
-0¿
 # Razas De Romephan
 
 ## Salamandras
