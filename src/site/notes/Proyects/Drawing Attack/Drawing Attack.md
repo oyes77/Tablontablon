@@ -10,4 +10,3 @@ Es mi servidor comunidad de arte que tengo junto a OkaTTT
 
 ## [[Proyects/Drawing Attack/Should I Leave or not\|Should I Leave or not]]
 
-
