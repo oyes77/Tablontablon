@@ -43,7 +43,7 @@ Recorriendo historias - fotos de diferentes semestres curadas/20 fotógrafos
 - Exposición colectiva en la sala con exposiciones de trabajos de grado, y en el hall son fotografías artísticas con músico invitado y cubrimiento grabado del evento. ([[2024-04-15\|2024-04-15]])
 	- Hacer presupuestos para buscar patrocinadores dentro y por fuera de la universidad
 	- Cubrimiento de los patrocinadores en la exposición o en los videos de la exposición
-- Exposición en la parte de adentro de la Biblioteca Piloto ([[Journal/Daily notes/2024\|2024]])
+- Exposición en la parte de adentro de la Biblioteca Piloto ([[HUB/Life Notes/2024\|2024]])
 - Exposición abierta ([[2025\|2025]])
 
 ---
