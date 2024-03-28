@@ -17,7 +17,7 @@
 
 > [!multi-column]
 > 
-> > [!warning ]
+> > [!warning ] wwao
 > > ༼ つ◔◡◔༽つ 
 > > ༼ つ┬┬﹏┬┬ ༽つ 
 > > ༼ つ ◕_◕ ༽つ
@@ -33,7 +33,7 @@
 > > ←_←
 > >  →_→
 > 
-> > [!warning ]
+> > [!warning ] texto ><
 > > 
 > > ╔══════════╗
 > > ║ TEXTO ║
