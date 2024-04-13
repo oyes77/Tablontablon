@@ -10,5 +10,5 @@
 
 - - - 
 > [!question] Links
-> [[Zettle/Los Medios Conviven Entre Ellos\|Los Medios Conviven Entre Ellos]]
+> [[Los Medios Conviven Entre Ellos\|Los Medios Conviven Entre Ellos]]
 > .
