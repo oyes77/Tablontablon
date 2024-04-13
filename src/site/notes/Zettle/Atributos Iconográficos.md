@@ -14,4 +14,4 @@ Grupo de características que permiten el análisis de las imágenes desde el as
 
 [[Iconología\|Iconología]] es diferente al análisis iconográfico, esta se centra en la interpretación, ambas se benefician del conocimiento contextual, pero aquí se busca el motivo de por qué se muestra lo que se muestra, debo buscar la diferencia entre esto y el meta análisis, creo saber la diferencia, porque este no estudia el análisis iconográfico en si mismo, sino que parte de este.
 
-van de la mano con los [[Zettle/Elementos Semióticos\|Elementos Semióticos]] para llevar a cabo este análisis
+van de la mano con los [[Elementos Semióticos\|Elementos Semióticos]] para llevar a cabo este análisis
