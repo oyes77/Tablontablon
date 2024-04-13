@@ -8,5 +8,5 @@
 ## ¿Cual Es Mi Estilo?
 
 No lo sé, el estilo debe de ser capaz de mostrarse a través de cualquier género, o no, no tengo claro si debe ser un must have
-
+Encontrar tu voz
 [[Criterios Curatoriales\|Criterios Curatoriales]]
