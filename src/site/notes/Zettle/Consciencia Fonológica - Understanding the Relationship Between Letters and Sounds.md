@@ -8,7 +8,4 @@
 > [!summary] 🧠
 > Es la capacidad de entender la relación entre las letras y su fonema, es decir: entender que “ra” se pronuncia cómo se pronuncia, entendiendo la relación entre ambas letras, y partir desde esto para construir palabras leídas.
 
-- - - 
-> [!question] 🔗
-> .
-> .
+### Requires Further Investigation!!!
