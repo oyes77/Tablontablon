@@ -98,5 +98,5 @@ Los 4 caballeros serán GM, solo se podrá rolear en ciertos horarios, y debe de
 [^1]: Me lo saqué de Sonny Boy eso, me gusta el concepto
 [^2]: Wonder Egg Priority Goddddd
 [^3]: una frase o una oración que describe algo verdadera mente importante para tu personaje. Puede ser un lema por el que el personaje se rige, una peculiaridad de su carácter, la descripción de la relación que mantiene con otro personaje, una posesión o un elemento de equipo fundamental para él o ella, o cualquier otra parte del personaje que sea de vital importancia para este. Cuando pienses en tu concepto principal, intenta decidir dos cosas: en qué puede ayudarte y cómo puede complicarte la vida. Un buen concepto principal logra ambas cosas
-[^4]: Cada estilo tiene un nivel asociado con una bonificación o bono. Elige un estilo a nivel Grande (+3), dos a nivel Bueno (+2), dos a nivel Normal (+1) y uno a nivel Me diocre (+0)
-[[Proyects/Archipiélago/Romephan\|Romephan]] 
+[^4]: Cada estilo tiene un nivel asociado con una bonificación o bono. Elige un estilo a nivel Grande (+3), dos a nivel Bueno (+2), dos a nivel Normal (+1) y uno a nivel Mediocre (+0)
+
