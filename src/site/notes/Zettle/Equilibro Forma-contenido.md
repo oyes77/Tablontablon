@@ -10,5 +10,5 @@
 
 - --
 > [!question] 🔗
-> [[Zettle/En radio se escribe cómo hablamos\|En radio se escribe cómo hablamos]]
+> [[En radio se escribe cómo hablamos\|En radio se escribe cómo hablamos]]
 > .
