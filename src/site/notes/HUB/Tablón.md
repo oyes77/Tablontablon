@@ -11,7 +11,7 @@ Mi apariencia varía entre tablita o tablón, mi personaje meme, y antes con Gal
 
 ## Tablita
 
-![|275](https://i.imgur.com/7oO0RJr.gif) ![|275](https://i.imgur.com/OrSSfZv.png|left)
+![|250](https://i.imgur.com/7oO0RJr.gif) ![|275](https://i.imgur.com/OrSSfZv.png|left)
 
 ### Galab (en reconstrucción)
 
@@ -66,5 +66,3 @@ En una zona muy antigua y alejada del espacio, donde los Astros son seres consci
 ![|400](https://i.imgur.com/LZGeIjh.png)
 
 ### By: Oka
-
-![Pasted image 20240217005655.png](/img/user/Misc%20-%20To%20organize/attachments/Pasted%20image%2020240217005655.png)
