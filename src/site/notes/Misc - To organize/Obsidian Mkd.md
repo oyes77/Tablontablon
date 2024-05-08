@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian Mkd/","title":"Obsidian MKD","created":"Monday, 2023-07-31, 5:03:18 pm","updated":"Saturday, 2024-03-09, 11:20:28 pm"}
+{"dg-publish":true,"permalink":"/Misc - To organize/Obsidian Mkd/","title":"Obsidian MKD","tags":["ZeType"],"created":"Monday, 2023-07-31, 5:03:18 pm","updated":"Saturday, 2024-03-09, 11:20:28 pm"}
 ---
 
 # Obsidian Mkd
@@ -49,7 +49,7 @@ nyaaaaaaaaaaaaa [[Proyects/Drawing Attack/Video De Introducción\|Video De Intro
 
 Basic checklists:
 
-- [ ] to-do
+- [ ] to-do asdfasd
 - [/] incomplete
 - [x] done ✅ 2024-01-09
 - [-] canceled
@@ -71,9 +71,11 @@ Extras checklists:
 - [c] cons
 - [f] fire
 - [k] key
-- [w] win
+- [w] win adddd
 - [u] up
 - [d] down
+- [b] Speech
+- [1] omg im really liking this theme IF IT WEREN'T SO FUCKING LAGGY OMG
 - [x] Test of a task ➕ 2023-12-26 ✅ 2023-12-26
 - [x] Life is roblox 🔽 ➕ 2023-12-27 🛫 2023-12-28 ⏳ 2023-12-31 📅 2023-12-31 ✅ 2023-12-27
 
@@ -85,3 +87,11 @@ sortBy: mtime        # optional: mtime | ctime | name
 fontSize: 13px        # optional: 6pt | NUMBERpt | NUMBERpx
 showTitle: true      # optional: true | false
 ```
+
+
+
+
+
+---
+
+# Hola
