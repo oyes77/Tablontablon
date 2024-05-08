@@ -6,7 +6,6 @@
 # Books
 
 
-
 - [[Outside Info/Readings/Books/A Sangre Fria\|A Sangre Fria]]
 - [[Outside Info/Readings/Books/A Theology of Gratitude\|A Theology of Gratitude]]
 - [[Outside Info/Readings/Books/Arcanum Unbounded\|Arcanum Unbounded]]
@@ -32,6 +31,7 @@
 - [[Outside Info/Readings/Books/One Day in the Life of Ivan Denisovich\|One Day in the Life of Ivan Denisovich]]
 - [[Outside Info/Readings/Books/R- Escribiendo Historias\|R- Escribiendo Historias]]
 - [[Outside Info/Readings/Books/R- Filosofía De Las Ciencias Humanas Y Sociales\|R- Filosofía De Las Ciencias Humanas Y Sociales]]
+- [[Outside Info/Readings/Books/R- Principios Universales De Diseño\|R- Principios Universales De Diseño]]
 - [[Outside Info/Readings/Books/R- The Wandering Earth\|R- The Wandering Earth]]
 - [[Outside Info/Readings/Books/Relato de un náufrago\|Relato de un náufrago]]
 - [[Outside Info/Readings/Books/Rhythm of War\|Rhythm of War]]
