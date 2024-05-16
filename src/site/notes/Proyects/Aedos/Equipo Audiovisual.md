@@ -15,3 +15,11 @@
 - Grabar creación de contenido
 - Organizar créditos
 
+Tareas:
+- Grabación de programas radiales
+- Grabación del programa de arte
+- Grabación del programa de literatura
+- Grabación de pescador de imágenes (2 monthly)
+- Editar material de las exposiciones
+- Definir un estilo de edición
+
