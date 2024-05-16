@@ -3,57 +3,41 @@
 ---
 
 # Obsidian Mkd
+
 ## Second header
+
 ### Third header
 #### Fourth Header
+
 ##### fifth header
 ###### Sixth header
 
-Test de testo xd *yyyyyyyyyy* **PPPPPPPPPPPPPPP** el azul ==drawing drawing== **va además drawin**g att drawing
-
-nyaaaaaaaaaaaaa [[Proyects/Drawing Attack/Video De Introducción\|Video De Introducción]] eeeee
-> Regregregregregerregregregregregregregregregregregregreg
+Test *yyyyyyyyyy* **PPPPPPPPPPPPPPP** ==drawing drawing==  [[Proyects/Drawing Attack/Video De Introducción\|Video De Introducción]] eeeee
+> Quote quote
   [GitHub - Akifyss/obsidian-border: A theme for obsidian.md](https://github.com/Akifyss/obsidian-border)
 
 ---
 > [!multi-column] Tal Vez
-> nyaa este es un snippetq snippetea es regod
 > nyaajajajjaaj
 > > [!question] fffffff
 > > ffffffff
 >
 > > [!question] fffffff
 > > ffffffff
-
 > [!multi-column]+
->
->> [!note]+ ## Use Case
->> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
->> ##### User Case Background
->> Vitae nunc sed velit dignissim sodales. In cursus turpis massa tincidunt dui ut ornare lectus.
->
->> [!warning]+ Resources
->> #### Requirement
->> - Lorem ipsum dolor sit amet
->> - Vitae nunc sed velit dignissim sodales.
->> - In cursus turpis massa tincidunt dui ut ornare lectus.
->
->> [!todo]+
->> - [x] Define Use Case
->> - [x] Craft User Story
->> - [x] Develop draft sketches
-{ #l7s1r6}
 
-
-[[Misc - To organize/Note from the Blue Topaz to Organize Me I Suppose\|Note from the Blue Topaz to Organize Me I Suppose]]
 
 Basic checklists:
 
 - [ ] to-do asdfasd
 - [/] incomplete
-- [x] done ✅ 2024-01-09
+- [x] done ✅ 2024-05-15
 - [-] canceled
 - [>] forwarded
+	- [ ] This is a subtask
+		- [ ] Even lower
+
+
 - [<] scheduling
 
 Extras checklists:
@@ -64,7 +48,7 @@ Extras checklists:
 - ["] quote
 - [l] location
 - [b] bookmark
-- [i] information
+- [i] informatiodn
 - [S] savings
 - [I] idea
 - [p] pros
@@ -75,23 +59,28 @@ Extras checklists:
 - [u] up
 - [d] down
 - [b] Speech
-- [1] omg im really liking this theme IF IT WEREN'T SO FUCKING LAGGY OMG
-- [x] Test of a task ➕ 2023-12-26 ✅ 2023-12-26
-- [x] Life is roblox 🔽 ➕ 2023-12-27 🛫 2023-12-28 ⏳ 2023-12-31 📅 2023-12-31 ✅ 2023-12-27
-
-```note-gallery     #           default | options
-query: 'path:"HUB/My Logs"'
-limit: 12            # optional: 0 | any number
-sort: desc           # optional: desc | asc
-sortBy: mtime        # optional: mtime | ctime | name
-fontSize: 13px        # optional: 6pt | NUMBERpt | NUMBERpx
-showTitle: true      # optional: true | false
-```
+- [1] omg im really liking this theme IF IT WEREN'T SO LAGGY
+This is interestingggggggggggggggggggggg
 
 
 
+[[Misc - To organize/Note from the Blue Topaz to Organize Me I Suppose\|Note from the Blue Topaz to Organize Me I Suppose]]
+## 🔵 Nicotine: The Deceptive Pleasure and Deadly Consequences 
 
+**Alveoli** are small air sacs where breathing takes place. They have *thin walls allowing oxygen to enter your blood and carbon dioxide to exit*. **Nicotine** quickly enters your bloodstream through these walls, affecting your brain by releasing various transmitters and hormones.
 
----
+**Epinephrine** and **cortisol** increase your heart rate and prepare your body for action. **Dopamine** induces feelings of happiness, relaxation, and reduces appetite. **Endorphins** and **serotonin** decrease pain and stress levels. Nicotine simultaneously excites and calms you, improving focus and sensitivity to pleasure, ultimately leading to relaxation. These combined effects create a feeling of well-being, but the brain counteracts nicotine's impact to maintain balance.
 
-# Hola
+As long as nicotine is present in your bloodstream, your body accommodates its effects. However, once the nicotine wears off, your body overcompensates, seeking equilibrium. The **addictive** nature of nicotine arises from the body's heightened response to counteract its effects. The need for nicotine to feel normal intensifies with continued use due to the chemical compounds present in cigarettes.
+
+Aside from nicotine, cigarettes contain harmful chemicals like **cadmium, lead, arsenic, cyanide, hydrogen peroxide, and nitrogen oxides** that cause internal damage. **Carbon monoxide** diminishes blood oxygen levels. **Tar** accumulation clogs the lungs, impairing the function of cilia cells and causing damage to delicate alveoli. The body attempts to expel this harmful buildup by producing excess mucus, leading to coughing. **Macrophages** become active in cleaning up tar particles, but nicotine impairs their function, leading to the release of chemicals that damage lung tissue and create scars, which hinder breathing. 
+
+### 🟢 Tasks
+
+- [ ] Goblet cells pump out extra mucus to compensate, which makes breathing harder, so you start coughing to get the tar and mucus out. 
+    - [x] Cough to remove excess mucus and tar. ✅ 2024-05-15
+- [ ] Your immune system activates and macrophages begin eating up tar particles. 
+    - [x] Support your immune system through a healthy diet and lifestyle. ✅ 2024-05-15
+    - [x] Seek medical help if you have persistent respiratory issues. ✅ 2024-05-15
+
+![uZbFPRi.png](https://i.imgur.com/uZbFPRi.png)
