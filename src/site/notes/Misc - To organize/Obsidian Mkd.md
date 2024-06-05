@@ -78,9 +78,9 @@ Aside from nicotine, cigarettes contain harmful chemicals like **cadmium, lead, 
 ### 🟢 Tasks
 
 - [ ] Goblet cells pump out extra mucus to compensate, which makes breathing harder, so you start coughing to get the tar and mucus out. 
-    - [x] Cough to remove excess mucus and tar. ✅ 2024-05-15
+    - [ ] Cough to remove excess mucus and tar.
 - [ ] Your immune system activates and macrophages begin eating up tar particles. 
-    - [x] Support your immune system through a healthy diet and lifestyle. ✅ 2024-05-15
-    - [x] Seek medical help if you have persistent respiratory issues. ✅ 2024-05-15
+    - [ ] Support your immune system through a healthy diet and lifestyle.
+    - [ ] Seek medical help if you have persistent respiratory issues.
 
 ![uZbFPRi.png](https://i.imgur.com/uZbFPRi.png)
